@@ -1,0 +1,106 @@
+{
+  "states": {
+    "start": {
+	    "text": [
+		{"text":"<typewriter>Hello adventurer, I am "},
+		{"selector":"@interlocutor"},
+		{"text":"<typewriter>, the village chief. I am here to offer you a quest, I need you to subjugate 30 mobs surrounding this village. Will you accept?"}
+	  ],
+	  "illustrations": [
+        "discussion"
+      ],
+      "choices": [
+        {
+          "text": "What's in it for me?",
+          "next": "question"
+        },
+        {
+          "next": "accept",
+          "text": "Sure."
+        },
+        {
+          "next": "deny",
+          "text": "No."
+        },
+        {
+          "next": "end",
+          "text": "Not yet"
+        }
+      ]
+    },
+    "end": {
+      "type": "end_dialogue",
+      "action": {
+        "type": "blabber:command",
+        "value": "/execute as @p at @p run ftbquests change_progress @p reset 6DF45ABB1FA2A031"
+      }
+    },
+    "question": {
+      "text": "<typewriter>Our village have not been able to secure any goods due to the hostile mobs but we will surely award you nicely!",
+      "choices": [
+        {
+          "next": "accept",
+          "text": "Alright."
+        },
+        {
+          "next": "deny",
+          "text": "Not worth it."
+        },
+        {
+          "next": "end",
+          "text": "Not yet."
+        }
+      ],
+      "type": "default"
+    },
+    "accept": {
+      "text": "",
+      "type": "end_dialogue",
+      "action": {
+        "type": "blabber:command",
+        "value": "/execute as @p at @p run function kevs:acceptquest"
+      }
+    },
+    "deny": {
+      "text": "",
+      "action": {
+        "type": "blabber:command",
+        "value": "/execute as @p at @p run function kevs:denyquest"
+      },
+      "type": "end_dialogue"
+    }
+  },
+  "illustrations": {
+    "discussion": [
+      {
+        "type": "blabber:entity",
+        "entity": "@interlocutor",
+        "x1": 0,
+        "y1": 80,
+        "x2": 100,
+        "y2": 188,
+        "size": 100,
+        "y_offset": 0.5,
+        "stare_at_x": 50,
+        "stare_at_y": 0
+      },
+      {
+        "type": "blabber:entity",
+        "entity": "@s",
+        "x1": 115,
+        "y1": 80,
+        "x2": 215,
+        "y2": 187,
+        "size": 100,
+        "y_offset": 0.5,
+        "stare_at_x": -50,
+        "stare_at_y": 0
+      }
+    ]
+  },
+  "layout": {
+    "type": "blabber:rpg"
+  },
+  "unskippable": true,
+  "start_at": "start"
+}

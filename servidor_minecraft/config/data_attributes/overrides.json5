@@ -1,0 +1,15 @@
+{
+	// attribute overrides can change the range of the attribute, and can apply different formulas to modify its behavior when computed.
+	"entries": {
+		"zenith_attributes:crit_chance": {
+			"enabled": true,
+			"min": 0.0,
+			"max": 0.0,
+			"smoothness": 1.0,
+			"min_fallback": 0.0,
+			"max_fallback": 10.0,
+			"formula": "Flat",
+			"format": "Whole"
+		}
+	}
+}

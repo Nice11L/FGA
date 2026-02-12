@@ -1,0 +1,11221 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "training_grounds"
+	group: "7DDF61ACA25A05AB"
+	icon: "dummmmmmy:target_dummy"
+	id: "759D43BE6606770B"
+	images: [
+		{
+			height: 0.25d
+			image: "betterend:block/sulphuric_rock_lantern_top"
+			rotation: 0.0d
+			width: 0.25d
+			x: -2.0d
+			y: 4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -2.0d
+		}
+		{
+			height: 0.5d
+			image: "mermod:item/moon_rock"
+			rotation: 0.0d
+			width: 0.5d
+			x: -8.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbchunks:textures/faces/minecraft/villager.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.815391156462603d
+			y: -2.8666666666666742d
+		}
+		{
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_center"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_vertex"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: 35.0d
+			width: 1.0d
+			x: 1.002380952381003d
+			y: -1.5241496598639657d
+		}
+		{
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: 15.0d
+			width: 1.0d
+			x: 1.3452380952381446d
+			y: -2.238435374149674d
+		}
+		{
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: -180.0d
+			width: 1.0d
+			x: -3.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: -90.0d
+			width: 1.0d
+			x: -1.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: 90.0d
+			width: 1.0d
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: 65.0d
+			width: 1.0d
+			x: -0.22619047619042476d
+			y: -0.6384353741496795d
+		}
+		{
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: 55.0d
+			width: 1.0d
+			x: 0.4595238095238585d
+			y: -0.9527210884353963d
+		}
+		{
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: -15.0d
+			width: 1.0d
+			x: 1.4309523809524265d
+			y: -3.7812925170068254d
+		}
+		{
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: -35.0d
+			width: 1.0d
+			x: 1.088095238095292d
+			y: -4.495578231292544d
+		}
+		{
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: -55.0d
+			width: 1.0d
+			x: 0.48809523809528343d
+			y: -5.095578231292542d
+		}
+		{
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: -75.0d
+			width: 1.0d
+			x: -0.19761904761899274d
+			y: -5.409863945578259d
+		}
+		{
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: 105.0d
+			width: 1.0d
+			x: -1.7690476190475692d
+			y: -0.6384353741496867d
+		}
+		{
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: 125.0d
+			width: 1.0d
+			x: -2.4833333333332845d
+			y: -0.9527210884354105d
+		}
+		{
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: 145.0d
+			width: 1.0d
+			x: -3.054761904761854d
+			y: -1.5527210884354048d
+		}
+		{
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: 165.0d
+			width: 1.0d
+			x: -3.3690476190475707d
+			y: -2.209863945578263d
+		}
+		{
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: -165.0d
+			width: 1.0d
+			x: -3.4241496598639003d
+			y: -3.7537414965986784d
+		}
+		{
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: -145.0d
+			width: 1.0d
+			x: -3.077210884353697d
+			y: -4.508843537415004d
+		}
+		{
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: -125.0d
+			width: 1.0d
+			x: -2.5057823129251275d
+			y: -5.080272108843577d
+		}
+		{
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: -105.0d
+			width: 1.0d
+			x: -1.8119047619047137d
+			y: -5.42721088435378d
+		}
+		{
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_vertex"
+			rotation: 90.0d
+			width: 1.0d
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_vertex"
+			rotation: -90.0d
+			width: 1.0d
+			x: -2.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_vertex"
+			rotation: -180.0d
+			width: 1.0d
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.292857142857152d
+			y: -1.4464285714285623d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.8285714285714363d
+			y: 0.3750000000000071d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.8699829931972118d
+			y: 0.33095238095239665d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.3499999999999943d
+			y: -1.1607142857142776d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.328571428571429d
+			y: -4.803571428571416d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.328571428571429d
+			y: -5.839285714285701d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.7928571428571445d
+			y: -6.3392857142856975d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.3585034013605295d
+			y: -4.843537414965979d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.8687074829932087d
+			y: -6.348639455782305d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.492857142857126d
+			y: -5.839285714285701d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -11.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -11.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -11.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -11.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -12.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -12.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -13.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -13.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -14.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -14.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -13.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -13.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -13.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -13.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -12.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -12.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -13.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -13.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -14.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -14.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -13.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -15.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -15.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -15.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -11.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -11.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -12.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -12.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -13.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -13.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -14.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -13.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -13.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -13.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -13.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -13.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -14.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -14.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -15.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -15.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -15.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -14.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -13.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -13.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -12.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -12.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -11.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -11.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -11.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -11.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -11.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -11.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -11.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -11.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -12.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -11.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -12.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -12.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -13.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -13.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -13.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -13.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -12.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -12.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -12.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -11.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -11.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -11.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -11.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -11.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -11.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -12.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -12.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -12.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -12.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -12.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -12.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -12.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -11.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -11.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -11.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -11.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -11.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -11.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -11.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -11.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -12.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -11.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -12.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -13.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -13.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -13.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -12.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -13.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -12.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -12.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -12.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -12.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -12.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -12.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -12.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -11.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -12.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -11.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -11.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -11.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -11.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -11.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -11.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -10.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -11.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -11.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -11.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -10.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -14.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -14.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -14.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -14.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -14.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -14.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -14.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -14.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -13.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -13.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -13.5d
+		}
+		{
+			click: "#380E468A71E64D68"
+			dependency: "2D4B8304E03C11D8"
+			height: 2.0d
+			hover: ["<wave>To the Arsenal!"]
+			image: "fantasy_mc:textures/newquestimg/door.png"
+			order: 5
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.0d
+			y: -13.5d
+		}
+		{
+			height: 1.0d
+			image: "bakery:item/wall_display"
+			order: 5
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.2142857142857082d
+			y: -11.616071428571423d
+		}
+		{
+			height: 1.0d
+			image: "bakery:item/wall_display"
+			order: 5
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.6268707482993179d
+			y: -11.44217687074832d
+		}
+		{
+			height: 1.0d
+			image: "bakery:item/wall_display"
+			order: 5
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0678571428571146d
+			y: -11.321428571428555d
+		}
+		{
+			height: 2.0d
+			image: "dummmmmmy:item/target_dummy"
+			order: 5
+			rotation: 0.0d
+			width: 2.0d
+			x: -3.5d
+			y: -11.0d
+		}
+		{
+			height: 1.0d
+			image: "dummmmmmy:item/target_dummy"
+			order: 5
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.424489795918383d
+			y: -9.704081632653072d
+		}
+		{
+			height: 1.0d
+			image: "simplyskills:icons/prom_compat/warrior_swordfall"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0040816326530404d
+			y: -9.275510204081641d
+		}
+		{
+			height: 1.0d
+			image: "simplyskills:icons/prom_compat/warrior_swordfall"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -12.5d
+		}
+		{
+			height: 1.0d
+			image: "simplyskills:icons/prom_compat/warrior_swordfall"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "dungeonnowloading:block/chaos_spawner_barrier_edge"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -11.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -0.5d
+		}
+		{
+			height: 2.0d
+			image: "wizards:item/wizard_robe_head"
+			order: 1
+			rotation: 0.0d
+			width: 2.0d
+			x: 6.879676870748305d
+			y: -3.619047619047599d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -18.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -18.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -18.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -18.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -18.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -18.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -18.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -18.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -18.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -18.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -18.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -18.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -18.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dirt_path_top"
+			order: -3
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_grass_block_top"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "dummmmmmy:item/target_dummy"
+			order: 5
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.015476190476214d
+			y: -6.119047619047613d
+		}
+		{
+			height: 1.0d
+			image: "dummmmmmy:item/target_dummy"
+			order: 5
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.113350340136066d
+			y: -4.797619047619037d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/target_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.551190476190499d
+			y: -4.904761904761898d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/target_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.910969387755102d
+			y: -1.8571428571428399d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/target_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "dummmmmmy:item/target_dummy"
+			order: 5
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.33690476190477d
+			y: -1.1190476190476133d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/arrow"
+			rotation: -135.0d
+			width: 1.0d
+			x: -14.979761904761915d
+			y: 0.05952380952382441d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/arrow"
+			rotation: -135.0d
+			width: 1.0d
+			x: -17.051190476190484d
+			y: -0.9404761904761827d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/arrow"
+			rotation: -135.0d
+			width: 1.0d
+			x: -14.979761904761915d
+			y: -4.690476190476183d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/arrow"
+			rotation: -135.0d
+			width: 1.0d
+			x: -14.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/arrow"
+			rotation: -135.0d
+			width: 1.0d
+			x: -11.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_oak_planks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/arrow"
+			rotation: -135.0d
+			width: 1.0d
+			x: -8.68724489795919d
+			y: -5.775510204081641d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/arrow"
+			rotation: -135.0d
+			width: 1.0d
+			x: -8.707653061224491d
+			y: -5.959183673469397d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/arrow"
+			rotation: -135.0d
+			width: 1.0d
+			x: -8.68724489795919d
+			y: -6.142857142857153d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/arrow"
+			rotation: -135.0d
+			width: 1.0d
+			x: -8.707653061224491d
+			y: -6.326530612244909d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_oak_planks"
+			rotation: 0.0d
+			width: 0.2d
+			x: -8.707653061224491d
+			y: -6.040816326530617d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/bow_pulling_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.183843537414965d
+			y: -0.027210884353756626d
+		}
+		{
+			height: 2.0d
+			image: "mcdw:item/bows/shortbow"
+			rotation: 0.0d
+			width: 2.0d
+			x: -6.993367346938776d
+			y: -5.360544217687092d
+		}
+		{
+			height: 2.0d
+			image: "mcdw:item/bows/shortbow"
+			rotation: 90.0d
+			width: 2.0d
+			x: -7.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/arrow"
+			order: 5
+			rotation: -135.0d
+			width: 1.0d
+			x: -16.565731292517015d
+			y: -5.0833333333333215d
+		}
+		{
+			click: "#178584D6E8C28D03"
+			dependency: "227657AB200A346C"
+			height: 2.0d
+			hover: ["<wave>To the Archery Room"]
+			image: "fantasy_mc:textures/newquestimg/door.png"
+			order: 5
+			rotation: -90.0d
+			width: 2.0d
+			x: -17.375467687074824d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -18.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: -3.5d
+		}
+		{
+			click: "#"
+			height: 0.2d
+			hover: [
+				"<shake>Blood Stained Paper"
+				"Who thought it was a good idea to put the door right where the arrows are coming from?"
+			]
+			image: "minecraft:item/paper"
+			rotation: -90.0d
+			width: 0.2d
+			x: -17.068112244897968d
+			y: -3.8642857142857068d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/arrow"
+			rotation: -135.0d
+			width: 1.0d
+			x: -16.52525510204083d
+			y: -3.9595238095237946d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cracked_deepslate_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/glowstone"
+			order: -6
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.481887755102008d
+			y: -0.11904761904759908d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/glowstone"
+			order: -6
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/glowstone"
+			order: -6
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/glowstone"
+			order: -6
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -3.0d
+		}
+		{
+			click: "#20DD55857A9F4B80"
+			color: 11142676
+			dependency: "2E044DB2CF093176"
+			height: 1.5d
+			hover: ["To the Sanctum of Spells!"]
+			image: "dungeonnowloading:block/chaos_spawner_barrier_center"
+			rotation: 0.0d
+			width: 1.5d
+			x: 5.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "spell_engine:block/spell_binding_table_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -5.0d
+		}
+		{
+			height: 0.5d
+			image: "regions_unexplored:item/palm_beard"
+			order: 3
+			rotation: -45.0d
+			width: 0.5d
+			x: 6.643792517006773d
+			y: -2.502380952380939d
+		}
+		{
+			height: 2.0d
+			image: "wizards:item/staff_netherite_arcane"
+			order: 2
+			rotation: 0.0d
+			width: 2.0d
+			x: 7.262840136054393d
+			y: -2.5738095238095084d
+		}
+		{
+			height: 0.5d
+			image: "regions_unexplored:item/palm_beard"
+			order: 3
+			rotation: -45.0d
+			width: 0.5d
+			x: 7.0247448979591525d
+			y: -2.4785714285714135d
+		}
+		{
+			height: 0.5d
+			image: "regions_unexplored:item/palm_beard"
+			order: 3
+			rotation: -45.0d
+			width: 0.5d
+			x: 6.739030612244861d
+			y: -2.3119047619047564d
+		}
+		{
+			height: 0.5d
+			image: "regions_unexplored:item/palm_beard"
+			order: 3
+			rotation: -45.0d
+			width: 0.5d
+			x: 6.8818877551019995d
+			y: -2.3119047619047564d
+		}
+		{
+			height: 0.5d
+			image: "regions_unexplored:item/palm_beard"
+			order: 3
+			rotation: -45.0d
+			width: 0.5d
+			x: 6.643792517006773d
+			y: -2.2642857142856982d
+		}
+		{
+			height: 0.5d
+			image: "regions_unexplored:item/palm_beard"
+			order: 3
+			rotation: -45.0d
+			width: 0.5d
+			x: 7.0247448979591525d
+			y: -2.2404761904761727d
+		}
+		{
+			height: 0.5d
+			image: "regions_unexplored:item/palm_beard"
+			order: 3
+			rotation: -45.0d
+			width: 0.5d
+			x: 6.715221088435342d
+			y: -2.0261904761904646d
+		}
+		{
+			height: 0.5d
+			image: "regions_unexplored:item/palm_beard"
+			order: 3
+			rotation: -45.0d
+			width: 0.5d
+			x: 6.81045918367343d
+			y: -2.0261904761904646d
+		}
+		{
+			height: 0.5d
+			image: "regions_unexplored:item/palm_beard"
+			order: 3
+			rotation: -45.0d
+			width: 0.5d
+			x: 7.0d
+			y: -2.0d
+		}
+		{
+			height: 0.5d
+			image: "regions_unexplored:item/palm_beard"
+			order: 3
+			rotation: -45.0d
+			width: 0.5d
+			x: 7.0d
+			y: -2.0d
+		}
+		{
+			height: 0.5d
+			image: "regions_unexplored:item/palm_beard"
+			order: 3
+			rotation: -45.0d
+			width: 0.5d
+			x: 6.834268707482963d
+			y: -1.7880952380952309d
+		}
+		{
+			height: 0.5d
+			image: "regions_unexplored:item/palm_beard"
+			order: 3
+			rotation: -45.0d
+			width: 0.5d
+			x: 6.910799319727843d
+			y: -1.8816326530612102d
+		}
+		{
+			dependency: "648E60FB2EF29A5D"
+			height: 1.0d
+			image: "fantasy_mc:textures/newquestimg/lock.png"
+			order: 10
+			rotation: -90.0d
+			width: 1.0d
+			x: -17.5d
+			y: -3.0d
+		}
+		{
+			dependency: "42D02FE918A95763"
+			height: 1.0d
+			image: "fantasy_mc:textures/newquestimg/lock.png"
+			order: 10
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -13.5d
+		}
+		{
+			dependency: "03F18D23080CFA3C"
+			height: 1.0d
+			image: "fantasy_mc:textures/newquestimg/lock.png"
+			order: 10
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "archon:item/earth_tome"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -0.5d
+		}
+		{
+			height: 0.5d
+			image: "mermod:item/moon_rock"
+			rotation: 0.0d
+			width: 0.5d
+			x: -10.5d
+			y: -2.5d
+		}
+		{
+			height: 0.5d
+			image: "mermod:item/moon_rock"
+			rotation: 0.0d
+			width: 0.5d
+			x: -9.0d
+			y: -5.0d
+		}
+		{
+			height: 0.5d
+			image: "mermod:item/moon_rock"
+			rotation: 0.0d
+			width: 0.5d
+			x: -5.0d
+			y: 0.5d
+		}
+		{
+			height: 0.5d
+			image: "mermod:item/moon_rock"
+			rotation: 0.0d
+			width: 0.5d
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			height: 0.5d
+			image: "mermod:item/moon_rock"
+			rotation: 0.0d
+			width: 0.5d
+			x: 3.0d
+			y: -6.5d
+		}
+		{
+			height: 0.25d
+			image: "betterend:block/sulphuric_rock_lantern_top"
+			rotation: 0.0d
+			width: 0.25d
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			height: 0.25d
+			image: "betterend:block/sulphuric_rock_lantern_top"
+			rotation: 0.0d
+			width: 0.25d
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			height: 0.25d
+			image: "betterend:block/sulphuric_rock_lantern_top"
+			rotation: 0.0d
+			width: 0.25d
+			x: -5.0d
+			y: -6.5d
+		}
+		{
+			height: 0.25d
+			image: "betterend:block/sulphuric_rock_lantern_top"
+			rotation: 0.0d
+			width: 0.25d
+			x: -8.5d
+			y: -3.0d
+		}
+		{
+			height: 0.25d
+			image: "betterend:block/sulphuric_rock_lantern_top"
+			rotation: 0.0d
+			width: 0.25d
+			x: -12.5d
+			y: -3.0d
+		}
+		{
+			height: 0.25d
+			image: "betterend:block/sulphuric_rock_lantern_top"
+			rotation: 0.0d
+			width: 0.25d
+			x: -14.0d
+			y: -4.5d
+		}
+		{
+			height: 0.25d
+			image: "betterend:block/sulphuric_rock_lantern_top"
+			rotation: 0.0d
+			width: 0.25d
+			x: -13.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "meadow:block/alpine_poppy_3"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "meadow:block/alpine_poppy_3"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "meadow:block/alpine_poppy_3"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_rose"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "regions_unexplored:block/alpha_rose"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.0d
+			y: -6.0d
+		}
+		{
+			click: "#"
+			dependency: "42D02FE918A95763"
+			height: 2.0d
+			hover: ["Complete the Obtain any Melee Weapon quest first!"]
+			image: "fantasy_mc:textures/newquestimg/door.png"
+			order: 5
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.0d
+			y: -13.5d
+		}
+		{
+			click: "#"
+			dependency: "648E60FB2EF29A5D"
+			height: 2.0d
+			hover: ["Complete the Obtain any Ranged Weapon quest first!"]
+			image: "fantasy_mc:textures/newquestimg/door.png"
+			order: 5
+			rotation: -90.0d
+			width: 2.0d
+			x: -17.375467687074824d
+			y: -3.0357142857142847d
+		}
+		{
+			click: "#"
+			color: 11142676
+			dependency: "03F18D23080CFA3C"
+			height: 1.5d
+			hover: ["Complete the Obtain the Novice Wand quest first!"]
+			image: "dungeonnowloading:block/chaos_spawner_barrier_center"
+			rotation: 0.0d
+			width: 1.5d
+			x: 5.0d
+			y: -3.0d
+		}
+	]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["108F299D103623FE"]
+			id: "227657AB200A346C"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 648E60FB2EF29A5D"
+					elevate_perms: true
+					id: "4C0C5450BF963E8B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 3E803EFC8F3132D7"
+					elevate_perms: true
+					id: "67A850F843036128"
+					silent: true
+					type: "command"
+				}
+			]
+			shape: "heart"
+			size: 1.5d
+			tasks: [{
+				id: "3A1748B6BCEAADA4"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "c:ranged_weapons"
+					}
+				}
+				title: "Any #c:ranged_weapons"
+				type: "item"
+			}]
+			title: "Obtain any Ranged Weapon"
+			x: -7.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["108F299D103623FE"]
+			id: "2D4B8304E03C11D8"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 42D02FE918A95763"
+					elevate_perms: true
+					id: "42DF641B54BE1C60"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 5621AFD360D1AD16"
+					elevate_perms: true
+					id: "26BDCF91AF5AD1D6"
+					silent: true
+					type: "command"
+				}
+			]
+			shape: "heart"
+			size: 1.5d
+			tasks: [{
+				id: "53F1270EA6D0E605"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "c:melee_weapons"
+					}
+				}
+				title: "Any #c:melee_weapons"
+				type: "item"
+			}]
+			title: "Obtain any Melee Weapon"
+			x: -1.0d
+			y: -10.5d
+		}
+		{
+			dependencies: ["108F299D103623FE"]
+			id: "2E044DB2CF093176"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 03F18D23080CFA3C"
+					elevate_perms: true
+					id: "6FB47F0F3C32C212"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 0F808844A0CF0018"
+					elevate_perms: true
+					id: "07828A09B83DF606"
+					silent: true
+					type: "command"
+				}
+			]
+			shape: "heart"
+			size: 1.5d
+			tasks: [{
+				id: "601E812BF43157DA"
+				item: {
+					Count: 1
+					id: "wizards:wand_novice"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Obtain the Novice Wand"
+			x: 3.75d
+			y: -3.0d
+		}
+	]
+	title: "Training Grounds &b🔮"
+}

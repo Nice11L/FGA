@@ -1,0 +1,21 @@
+{
+	always_invisible: true
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "village1"
+	group: "429A845DD1E3DE92"
+	hide_quest_until_deps_visible: true
+	id: "4BB932000EF00FFF"
+	order_index: 7
+	quest_links: [ ]
+	quests: [{
+		id: "1193883E77962128"
+		tasks: [{
+			id: "0BC5537BE66D738A"
+			type: "checkmark"
+		}]
+		x: 1.5d
+		y: 1.0d
+	}]
+	title: "village1"
+}

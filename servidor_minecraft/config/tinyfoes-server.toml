@@ -1,0 +1,13 @@
+["Server configs for Tiny Foes (only Hostiles)"]
+	#The chance out of monsters spawning as babies.
+	#(5% = 0.05 | 25% = 0.25 |100% = 1.0)
+	#Range: 0.0 ~ 1.0
+	spawnAsBabyOdds = 0.05
+	#Baby speed modifier
+	#Range: 0.0 ~ 1024.0
+	babySpeedModifier = 0.5
+	#Baby max health modifier
+	#Range: 1.0 ~ 1024.0
+	babyMaxHealthModifier = 1.0
+	#Should the witch babyfication goal be active?
+	witchBabyficationGoal = true

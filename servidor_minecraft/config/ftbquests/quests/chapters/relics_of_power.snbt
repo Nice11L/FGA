@@ -1,0 +1,3202 @@
+{
+	autofocus_id: "67605A13FA8248A6"
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "relics_of_power"
+	group: "0748AA7BE31FEC41"
+	id: "6EB570A33F76E0C7"
+	images: [
+		{
+			height: 1.0d
+			hover: ["Brooches / Runes / Gloves"]
+			image: "origins:textures/gui/badge/arrow_up.png"
+			rotation: 90.0d
+			width: 1.0d
+			x: 11.25d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			hover: ["Rings"]
+			image: "origins:textures/gui/badge/arrow_up.png"
+			rotation: 180.0d
+			width: 1.0d
+			x: 7.5d
+			y: 0.25d
+		}
+		{
+			height: 1.0d
+			hover: ["Belts / Hats / Shoes"]
+			image: "origins:textures/gui/badge/arrow_up.png"
+			rotation: -90.0d
+			width: 1.0d
+			x: 3.75d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			hover: ["Necklaces / Back"]
+			image: "origins:textures/gui/badge/arrow_up.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: -7.25d
+		}
+		{
+			height: 1.0d
+			image: "phantasm:block/crystal_shard_tip"
+			rotation: 90.0d
+			width: 1.0d
+			x: 5.624149659863903d
+			y: -3.504251700680264d
+		}
+		{
+			height: 1.0d
+			image: "phantasm:block/crystal_shard_tip"
+			rotation: 180.0d
+			width: 1.0d
+			x: 7.493537414965935d
+			y: -5.402210884353742d
+		}
+		{
+			height: 1.0d
+			image: "phantasm:block/crystal_shard_tip"
+			rotation: -90.0d
+			width: 1.0d
+			x: 9.391496598639407d
+			y: -3.504251700680271d
+		}
+		{
+			height: 1.0d
+			image: "phantasm:block/crystal_shard_tip"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.493537414965935d
+			y: -1.606292517006807d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/shadowsting_layer_32x32"
+			rotation: 0.0d
+			width: 0.008333333333333333d
+			x: 10.25d
+			y: -5.25d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/soulpyre_anim_01_e"
+			rotation: 45.0d
+			width: 1.0d
+			x: 9.75d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/caelestis_blade_strip"
+			rotation: 45.0d
+			width: 1.0d
+			x: 8.484693877551003d
+			y: -3.438775510204067d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/caelestis_blade_strip"
+			rotation: 135.0d
+			width: 1.0d
+			x: 7.443877551020385d
+			y: -2.5204081632652944d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/caelestis_blade_strip"
+			rotation: -135.0d
+			width: 1.0d
+			x: 6.545918367346921d
+			y: -3.581632653061213d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/caelestis_blade_strip"
+			rotation: -45.0d
+			width: 1.0d
+			x: 7.60714285714284d
+			y: -4.520408163265309d
+		}
+		{
+			click: "#"
+			color: 16767234
+			dependency: "7A3CD0CFDDF54FF2"
+			height: 1.0d
+			hover: ["It's been lit up"]
+			image: "simplyskills:icons/ranger_reveal"
+			rotation: 45.0d
+			width: 1.0d
+			x: 9.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:entity/conduit/wind_vertical"
+			rotation: 7.5d
+			width: 1.0d
+			x: 8.739795918367335d
+			y: -3.6564625850340207d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:entity/conduit/wind_vertical"
+			rotation: -82.5d
+			width: 1.0d
+			x: 7.369047619047635d
+			y: -4.785714285714292d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:entity/conduit/wind_vertical"
+			rotation: -180.0d
+			width: 1.0d
+			x: 6.297619047619065d
+			y: -3.3809523809523867d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:entity/conduit/wind_vertical"
+			order: 90
+			rotation: 97.5d
+			width: 1.0d
+			x: 7.678571428571445d
+			y: -2.2142857142857153d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/soulpyre_anim_01_e"
+			rotation: -45.0d
+			width: 1.0d
+			x: 7.5d
+			y: -5.75d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/soulpyre_anim_01_e"
+			rotation: 135.0d
+			width: 1.0d
+			x: 7.5d
+			y: -1.25d
+		}
+		{
+			height: 1.0d
+			image: "simplyswords:item/soulpyre_anim_01_e"
+			rotation: -135.0d
+			width: 1.0d
+			x: 5.25d
+			y: -3.5d
+		}
+		{
+			click: "#"
+			color: 16767234
+			dependency: "6C1662C0D3140669"
+			height: 1.0d
+			hover: ["It's been lit up"]
+			image: "simplyskills:icons/ranger_reveal"
+			rotation: 135.0d
+			width: 1.0d
+			x: 9.0d
+			y: -2.0d
+		}
+		{
+			click: "#"
+			color: 16767234
+			dependency: "2955BC7D5A266840"
+			height: 1.0d
+			hover: ["It's been lit up"]
+			image: "simplyskills:icons/ranger_reveal"
+			rotation: -45.0d
+			width: 1.0d
+			x: 6.0d
+			y: -5.0d
+		}
+		{
+			click: "#"
+			color: 16767234
+			dependency: "6AE05F4E531C4CFA"
+			height: 1.0d
+			hover: ["It's been lit up"]
+			image: "simplyskills:icons/ranger_reveal"
+			rotation: -135.0d
+			width: 1.0d
+			x: 6.0d
+			y: -2.0d
+		}
+		{
+			dependency: "46839172C4D69DE1"
+			height: 1.0d
+			image: "simplyskills:icons/ranger_reveal"
+			rotation: 135.0d
+			width: 1.0d
+			x: 9.75d
+			y: -1.25d
+		}
+		{
+			dependency: "2FB7A6E9B7FF586B"
+			height: 1.0d
+			image: "simplyskills:icons/ranger_reveal"
+			rotation: 45.0d
+			width: 1.0d
+			x: 9.75d
+			y: -5.75d
+		}
+		{
+			dependency: "46060EEBC5AB765E"
+			height: 1.0d
+			image: "simplyskills:icons/ranger_reveal"
+			rotation: -45.0d
+			width: 1.0d
+			x: 5.25d
+			y: -5.75d
+		}
+		{
+			dependency: "5A295D4CFAE45D3F"
+			height: 1.0d
+			image: "simplyskills:icons/ranger_reveal"
+			rotation: -135.0d
+			width: 1.0d
+			x: 5.25d
+			y: -1.25d
+		}
+		{
+			click: "#67605A13FA8248A6"
+			dependency: "4A8B011A9E4DD30C"
+			height: 1.5d
+			hover: ["<shake>???"]
+			image: "healpgood:item/endersoul"
+			rotation: 0.0d
+			width: 1.5d
+			x: 7.5d
+			y: -3.5d
+		}
+		{
+			click: "#4637C6FB4EFBBD94"
+			dependency: "6F33F00A8CB52C1F"
+			height: 1.5d
+			hover: ["<shake>???"]
+			image: "healpgood:item/endersoul"
+			rotation: 0.0d
+			width: 1.5d
+			x: 7.5d
+			y: -3.5d
+		}
+		{
+			click: "#5DEF203700F1B0D1"
+			dependency: "3884D926D09E741A"
+			height: 1.5d
+			image: "healpgood:item/endersoul"
+			rotation: 0.0d
+			width: 1.5d
+			x: 7.5d
+			y: -3.5d
+		}
+		{
+			click: "#39E96BA50735FCA2"
+			dependency: "3A12CE050D0E071E"
+			height: 1.5d
+			hover: ["<shake>???"]
+			image: "healpgood:item/endersoul"
+			rotation: 0.0d
+			width: 1.5d
+			x: 7.5d
+			y: -3.5d
+		}
+		{
+			click: "#64103FCA7DBAB5AB"
+			dependency: "4964450E83344AC3"
+			height: 1.5d
+			hover: ["<shake>???"]
+			image: "healpgood:item/endersoul"
+			rotation: 0.0d
+			width: 1.5d
+			x: 7.5d
+			y: -3.5d
+		}
+		{
+			click: "#03E8A82ACD388251"
+			dependency: "17C400785E25E46B"
+			height: 1.5d
+			hover: ["<rainb><shake>The Core"]
+			image: "healpgood:item/endersoul"
+			rotation: 0.0d
+			width: 1.5d
+			x: 7.5d
+			y: -3.5d
+		}
+		{
+			click: "#574966D79013EBB4"
+			dependency: "43F6680349D39F1D"
+			height: 1.5d
+			hover: ["<rainb><shake>The Core"]
+			image: "healpgood:item/endersoul"
+			rotation: 0.0d
+			width: 1.5d
+			x: 7.5d
+			y: -3.5d
+		}
+	]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "2FA8CC0193AB3AC5"
+			rewards: [{
+				id: "48675AED2B0EF721"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "0EC1134E07230636"
+				item: {
+					Count: 1
+					id: "additional_rpg_jewelry:unique_sky_necklace"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: -12.25d
+		}
+		{
+			id: "01DE0DC18D8DD7CA"
+			rewards: [{
+				id: "6E1E7438842FBDC0"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "565B7CAD33052464"
+				item: {
+					Count: 1
+					id: "death_knights:blood_dk_necklace"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: -12.25d
+		}
+		{
+			id: "6BE705E003B7AC53"
+			rewards: [{
+				id: "23F2EFDCC16A407E"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "6B2043A523C9EF2D"
+				item: {
+					Count: 1
+					id: "additional_rpg_jewelry:unique_rage_necklace"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: -11.25d
+		}
+		{
+			id: "5D65E4646DFDB528"
+			rewards: [{
+				id: "4AA075A3AAD13728"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "4F8D6ACBF4F77D88"
+				item: {
+					Count: 1
+					id: "additional_rpg_jewelry:unique_ocean_necklace"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: -11.25d
+		}
+		{
+			id: "3CF60F1BC0450C3D"
+			rewards: [{
+				id: "4481F2BBC58ACD7A"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "21A7A42593441902"
+				item: {
+					Count: 1
+					id: "additional_rpg_jewelry:unique_earth_necklace"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: -11.25d
+		}
+		{
+			id: "6C7551FCFADD3B39"
+			rewards: [{
+				id: "43B3EF80E3ABE63E"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "595870FFDC32A354"
+				item: {
+					Count: 1
+					id: "death_knights:frost_dk_necklace"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 8.5d
+			y: -12.25d
+		}
+		{
+			id: "4BD9B659D0FB99A1"
+			rewards: [{
+				id: "0CA2E98ED7A63D1E"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "6266310BC59B3C95"
+				item: {
+					Count: 1
+					id: "death_knights:unholy_dk_necklace"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 8.5d
+			y: -11.25d
+		}
+		{
+			id: "121C05DD8C0C3901"
+			rewards: [{
+				id: "158ACA673EE7CBBB"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "7324515DB0291049"
+				item: {
+					Count: 1
+					id: "jewelry:unique_healing_necklace"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 9.5d
+			y: -12.25d
+		}
+		{
+			id: "15942A9DCE2A23E6"
+			rewards: [{
+				id: "0B671127C100DE59"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "05809EED97AE7A3D"
+				item: "artifacts:cross_necklace"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -11.25d
+		}
+		{
+			id: "0E136BF2ACDE049A"
+			rewards: [{
+				id: "1A782D7D44214CD6"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "27257D9C52692A49"
+				item: {
+					Count: 1
+					id: "jewelry:unique_frost_necklace"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: -12.25d
+		}
+		{
+			id: "509B07FF363FF4BD"
+			rewards: [{
+				id: "07C243DA58D9A3B4"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "6EFC29AFE980C8F1"
+				item: {
+					Count: 1
+					id: "malum:necklace_of_the_watcher"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 13.0d
+			y: -11.25d
+		}
+		{
+			id: "3C5A173F5720F04F"
+			rewards: [{
+				id: "75771C3CBFB36CB0"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "076E8186D1EE7B02"
+				item: {
+					Count: 1
+					id: "malum:necklace_of_the_hidden_blade"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 13.0d
+			y: -10.25d
+		}
+		{
+			id: "2D8C957C62A3AB29"
+			rewards: [{
+				id: "48088808ADCA3D85"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "3F0DA6B57DD24DAC"
+				item: {
+					Count: 1
+					id: "jewelry:unique_fire_necklace"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 9.5d
+			y: -10.25d
+		}
+		{
+			id: "2BB20005FD87A2F1"
+			rewards: [{
+				id: "4DE0807E64BD74E0"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "2674239CB75761EC"
+				item: {
+					Count: 1
+					id: "malum:necklace_of_blissful_harmony"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 13.0d
+			y: -12.25d
+		}
+		{
+			id: "45B4A64528221065"
+			rewards: [{
+				id: "39170AFFEF9C0436"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "0CF0B12CFF781D43"
+				item: {
+					Count: 1
+					id: "jewelry:unique_arcane_necklace"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: -10.25d
+		}
+		{
+			id: "17DAA3C5821F92EF"
+			rewards: [{
+				id: "3D0799C512E5269D"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "222E08325C4AB1FE"
+				item: "artifacts:shock_pendant"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -12.25d
+		}
+		{
+			id: "6592F1E3CAFCFF65"
+			rewards: [{
+				id: "0C1BFE3DE423667A"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "36075444C90887DF"
+				item: "artifacts:panic_necklace"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -12.25d
+		}
+		{
+			id: "2C1C6A13E7ACB856"
+			rewards: [{
+				id: "2E4AB544F7FF8A59"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "012829CB90737D67"
+				item: {
+					Count: 1
+					id: "additional_rpg_jewelry:wolf_school_medallion"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: -10.25d
+		}
+		{
+			id: "7C2BCAE57C43B65E"
+			rewards: [{
+				id: "64223CEAE7777C99"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "010D577C605C9D01"
+				item: {
+					Count: 1
+					id: "additional_rpg_jewelry:griffin_school_medallion"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: -10.25d
+		}
+		{
+			id: "4309E4019095D00F"
+			rewards: [{
+				id: "6C4CCCB514AC5F49"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "719C6EAFBDC1D10D"
+				item: "artifacts:flame_pendant"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -11.25d
+		}
+		{
+			id: "319C1801836F3CC9"
+			rewards: [{
+				id: "144D3979BD0969AB"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "5CD42C0065C4B931"
+				item: {
+					Count: 1
+					id: "jewelry:unique_archer_necklace"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 8.5d
+			y: -10.25d
+		}
+		{
+			id: "35F44DB2D84D9616"
+			rewards: [{
+				id: "7F6649F41280DB7D"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "5DA0944E6B76D213"
+				item: {
+					Count: 1
+					id: "malum:necklace_of_the_narrow_edge"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 12.0d
+			y: -11.25d
+		}
+		{
+			id: "189B8FD70190ABAC"
+			rewards: [{
+				id: "5B2A1E982FA27F6B"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "4B0B1D747147094F"
+				item: {
+					Count: 1
+					id: "malum:necklace_of_tidal_affinity"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 12.0d
+			y: -12.25d
+		}
+		{
+			id: "5E68A0708AA1B7AD"
+			rewards: [{
+				id: "363B356ED715BB39"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "45EB02D1A40DF352"
+				item: {
+					Count: 1
+					id: "jewelry:unique_tank_necklace"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: -9.25d
+		}
+		{
+			id: "0D1D884F391C8A08"
+			rewards: [{
+				id: "29354A143779F734"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "2F5A234192ABDB2E"
+				item: "artifacts:thorn_pendant"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -10.25d
+		}
+		{
+			id: "1BF7623A731D763A"
+			rewards: [{
+				id: "6F6A6A9858511992"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "0867F69C4FFD8CDC"
+				item: "artifacts:lucky_scarf"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -11.25d
+		}
+		{
+			id: "3E9280AAC04BFF6C"
+			rewards: [{
+				id: "3EC9ACDD539146F1"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "3B49FB60660F6E81"
+				item: {
+					Count: 1
+					id: "additional_rpg_jewelry:cat_school_medallion"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: -9.25d
+		}
+		{
+			id: "744B85E93007D9B6"
+			rewards: [{
+				id: "22664F1B82109321"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "400624260B8242B0"
+				item: {
+					Count: 1
+					id: "additional_rpg_jewelry:bear_school_medallion"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: -9.25d
+		}
+		{
+			id: "70D41D3DE3F1D472"
+			rewards: [{
+				id: "0698490DAB0875CD"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "2DAB1F8B55AC1638"
+				item: {
+					Count: 1
+					id: "jewelry:unique_dex_necklace"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 8.5d
+			y: -9.25d
+		}
+		{
+			id: "73A9DC27C17E9F64"
+			rewards: [{
+				id: "55A5DB3F73E3E718"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "3A7B3817319EE1DF"
+				item: {
+					Count: 1
+					id: "malum:necklace_of_the_mystic_mirror"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 11.0d
+			y: -12.25d
+		}
+		{
+			id: "7ACAE56CBF2D54E2"
+			rewards: [{
+				id: "411190BD42CB3ADC"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "017D33FBC66C27CA"
+				item: {
+					Count: 1
+					id: "malum:ornate_necklace"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 11.0d
+			y: -11.25d
+		}
+		{
+			id: "3110BA3D73591577"
+			rewards: [{
+				id: "3D179EA95B299460"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "242F8587A4FCBF07"
+				item: {
+					Count: 1
+					id: "jewelry:unique_attack_necklace"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 9.5d
+			y: -11.25d
+		}
+		{
+			id: "7BEA67E6C5AD9D78"
+			rewards: [{
+				id: "5B0FC5AB6D436038"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "130E4D1107415F03"
+				item: {
+					Count: 1
+					id: "additional_rpg_jewelry:vampire_necklace"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 9.5d
+			y: -9.25d
+		}
+		{
+			id: "095F2C47F5D44746"
+			rewards: [{
+				id: "6085F12400EEFE87"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "664685625F207A04"
+				item: "artifacts:scarf_of_invisibility"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -12.25d
+		}
+		{
+			id: "451CEC5B9B377F55"
+			rewards: [{
+				id: "7A9F7DB3470BB5F5"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "5BB8B6AB1E03FF2F"
+				item: {
+					Count: 1
+					id: "death_knights:frost_dk_ring"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: 3.25d
+		}
+		{
+			id: "2764B9161A53834F"
+			rewards: [{
+				id: "0C0AE6510843057C"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "66D5603570E5FC8C"
+				item: {
+					Count: 1
+					id: "death_knights:blood_dk_ring"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: 2.25d
+		}
+		{
+			id: "5F7C17106A57D85E"
+			rewards: [{
+				id: "64F7EDF06EF45DCC"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "00A6A692B6424D22"
+				item: {
+					Count: 1
+					id: "extraspellattributes:defiancering"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 8.5d
+			y: 2.25d
+		}
+		{
+			id: "6B8AAC0108067E36"
+			rewards: [{
+				id: "583B7E4F5C0F4C58"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "775F4D2857B4AF80"
+				item: {
+					Count: 1
+					id: "malum:ring_of_alchemical_mastery"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 2.25d
+		}
+		{
+			id: "03A0CC405852C846"
+			rewards: [{
+				id: "178F1B832DCC9452"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "1602FDA975F40CE3"
+				item: {
+					Count: 1
+					id: "malum:ring_of_arcane_prowess"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 2.25d
+		}
+		{
+			id: "525ADC85A8781629"
+			rewards: [{
+				id: "37D15975051E320A"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "29445CB8D1119F9A"
+				item: {
+					Count: 1
+					id: "malum:ring_of_curative_talent"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 11.5d
+			y: 2.25d
+		}
+		{
+			id: "42B28BF73DDF1F62"
+			rewards: [{
+				id: "73E2AB546A50EC72"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "4803A8C8CED3EA24"
+				item: {
+					Count: 1
+					id: "malum:ring_of_desperate_voracity"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 12.5d
+			y: 2.25d
+		}
+		{
+			id: "241B2A632A5FC648"
+			rewards: [{
+				id: "74109CC15500BCB7"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "054791DA8A640D20"
+				item: {
+					Count: 1
+					id: "malum:ring_of_growing_flesh"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 3.25d
+		}
+		{
+			id: "7BE96137802759C1"
+			rewards: [{
+				id: "122964AB9E688656"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "7B20DDFC779EECD7"
+				item: {
+					Count: 1
+					id: "malum:ring_of_gruesome_concentration"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 3.25d
+		}
+		{
+			id: "5CBB3DE5680B2ED8"
+			rewards: [{
+				id: "1F9806ABEF05EBF8"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "57B3747A4DD42522"
+				item: {
+					Count: 1
+					id: "malum:ring_of_the_demolitionist"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 11.5d
+			y: 3.25d
+		}
+		{
+			id: "03EF7174838C3B51"
+			rewards: [{
+				id: "4942380F5BD06F78"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "66A5E432D25F2976"
+				item: {
+					Count: 1
+					id: "malum:ring_of_the_hoarder"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 12.5d
+			y: 3.25d
+		}
+		{
+			id: "3ACF258E4D26FD66"
+			rewards: [{
+				id: "6904B9F0AEE0D673"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "0514E7D75070E730"
+				item: {
+					Count: 1
+					id: "death_knights:unholy_dk_ring"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: 2.25d
+		}
+		{
+			id: "30A30BFD1B0B95C0"
+			rewards: [{
+				id: "34F44F1A26870DB3"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "31CB0F5F32B4AA45"
+				item: {
+					Count: 1
+					id: "jewelry:unique_archer_ring"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: 3.25d
+		}
+		{
+			id: "54822A47427CD1B6"
+			rewards: [{
+				id: "1BCCCB401862E94B"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "0436EBBF4C33437B"
+				item: {
+					Count: 1
+					id: "jewelry:unique_attack_ring"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: 3.25d
+		}
+		{
+			id: "42BF207E4605679A"
+			rewards: [{
+				id: "5A83EDB837653A94"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "2D006509BED17E1E"
+				item: {
+					Count: 1
+					id: "additional_rpg_jewelry:unique_earth_ring"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 8.5d
+			y: 3.25d
+		}
+		{
+			id: "6B22BA69CFA10520"
+			rewards: [{
+				id: "6C8575B2B3FF6273"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "2FB9CBE81AC637BB"
+				item: {
+					Count: 1
+					id: "jewelry:unique_frost_ring"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: 4.25d
+		}
+		{
+			id: "7308C76A7EC2735A"
+			rewards: [{
+				id: "395D98231C548E3C"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "6452F535233B4990"
+				item: {
+					Count: 1
+					id: "additional_rpg_jewelry:unique_ocean_ring"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 8.5d
+			y: 4.25d
+		}
+		{
+			id: "549AFDBA526EC708"
+			rewards: [{
+				id: "66EDC283DB0F7C0B"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "09CCF356E62C1CB2"
+				item: {
+					Count: 1
+					id: "additional_rpg_jewelry:unique_rage_ring"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 9.5d
+			y: 2.25d
+		}
+		{
+			id: "1C70F71192C287DB"
+			rewards: [{
+				id: "3BB2DC2E5819E63E"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "2A3D769D29462B00"
+				item: {
+					Count: 1
+					id: "additional_rpg_jewelry:unique_sky_ring"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: 4.25d
+		}
+		{
+			id: "0A78208B505567ED"
+			rewards: [{
+				id: "009A4A2556557A81"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "1400CC1122C04135"
+				item: {
+					Count: 1
+					id: "jewelry:unique_arcane_ring"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: 2.25d
+		}
+		{
+			id: "6A4CCD70B1548A30"
+			rewards: [{
+				id: "35F9495C18BBE240"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "25A063B4CAF16B42"
+				item: {
+					Count: 1
+					id: "additional_rpg_jewelry:vampire_ring"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 9.5d
+			y: 4.25d
+		}
+		{
+			id: "7DD20BD9ABC5C598"
+			rewards: [{
+				id: "31BB956021F364D6"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "4A25BA1435895861"
+				item: {
+					Count: 1
+					id: "jewelry:unique_tank_ring"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 9.5d
+			y: 3.25d
+		}
+		{
+			id: "4F5AEEED56BEF346"
+			rewards: [{
+				id: "50BBC7DAEF1C66AF"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "55333665AA903B14"
+				item: {
+					Count: 1
+					id: "jewelry:unique_healing_ring"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: 4.25d
+		}
+		{
+			id: "186DCF0969178422"
+			rewards: [{
+				id: "445ACA0F5F4E0ECF"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "2F614896B1ECE88D"
+				item: {
+					Count: 1
+					id: "jewelry:unique_fire_ring"
+					tag: {
+						TrinketAttributeModifiers: [ ]
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: 5.25d
+		}
+		{
+			id: "1D2CE0D02C29F872"
+			rewards: [{
+				id: "02F8C5E1336C0135"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "6A128B4EA436689F"
+				item: {
+					Count: 1
+					id: "jewelry:unique_dex_ring"
+					tag: {
+						TrinketAttributeModifiers: [ ]
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 5.25d
+		}
+		{
+			id: "1E30FDC78A5ADDEF"
+			rewards: [{
+				id: "5CE4599EA0642C37"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "627B3D86EA31ED4A"
+				item: "artifacts:antidote_vessel"
+				type: "item"
+			}]
+			x: 0.75d
+			y: -5.0d
+		}
+		{
+			id: "22DEB65D4BF08724"
+			rewards: [{
+				id: "0D9F371AD63E5973"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "302E50F725DD3042"
+				item: "artifacts:obsidian_skull"
+				type: "item"
+			}]
+			x: 1.75d
+			y: -4.5d
+		}
+		{
+			id: "650A5462D07ED072"
+			rewards: [{
+				id: "17E7A1D92B5719CE"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "37E102A53472383B"
+				item: "artifacts:cloud_in_a_bottle"
+				type: "item"
+			}]
+			x: 0.75d
+			y: -2.0d
+		}
+		{
+			id: "5980C545A1CE0E14"
+			rewards: [{
+				id: "184DAF8BA962CAC4"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "12DC75DDBC2945EC"
+				item: {
+					Count: 1
+					id: "extraspellattributes:turtlegirdle"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			id: "41826E59A453155F"
+			rewards: [{
+				id: "1CBD982CC0E0C889"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "00D5B18156051E20"
+				item: {
+					Count: 1
+					id: "malum:belt_of_the_starved"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: -4.0d
+		}
+		{
+			id: "43F6696F2E729D11"
+			rewards: [{
+				id: "50CC38EAFCB784D5"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "0994BD793FB5FEBA"
+				item: {
+					Count: 1
+					id: "malum:belt_of_the_prospector"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			id: "6F16BC513179049C"
+			rewards: [{
+				id: "2FB0837ECA997F43"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "21776C7E21F358E5"
+				item: {
+					Count: 1
+					id: "malum:belt_of_the_limitless"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: -4.0d
+		}
+		{
+			id: "37497B3DB8B08993"
+			rewards: [{
+				id: "4A3432499DDFEB51"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "1CEADC96FC49F931"
+				item: "artifacts:universal_attractor"
+				type: "item"
+			}]
+			x: 0.75d
+			y: -4.0d
+		}
+		{
+			id: "208D68390C4D62F9"
+			rewards: [{
+				id: "5B0C7C5CE845C8A5"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "7EBA6E3AE7A85ABA"
+				item: "artifacts:helium_flamingo"
+				type: "item"
+			}]
+			x: 1.75d
+			y: -2.5d
+		}
+		{
+			id: "61FF3CA37324DF74"
+			rewards: [{
+				id: "1A671A216D97F3CB"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "1D487518278A7380"
+				item: "artifacts:crystal_heart"
+				type: "item"
+			}]
+			x: 1.75d
+			y: -3.5d
+		}
+		{
+			id: "5F912ABFCE64C430"
+			rewards: [{
+				id: "57F3B4201DAFF7F0"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "7C1BB32E19B4C909"
+				item: "artifacts:chorus_totem"
+				type: "item"
+			}]
+			x: 0.75d
+			y: -3.0d
+		}
+		{
+			id: "24781DA550E33AE0"
+			rewards: [{
+				id: "076B8D39E49B9298"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "3B754F4A7FC84C4E"
+				item: {
+					Count: 1
+					id: "extraspellattributes:undyingsoul"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: -13.5d
+		}
+		{
+			id: "74850B4CB871A68A"
+			rewards: [{
+				id: "3E9A36BC5063AEB0"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "6706868B5C53DEFA"
+				item: "artifacts:superstitious_hat"
+				type: "item"
+			}]
+			x: 0.75d
+			y: -0.25d
+		}
+		{
+			id: "6733ACACFCD7315A"
+			rewards: [{
+				id: "3BB576ABCFDE642B"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "6C31D25D2B83DB9C"
+				item: "artifacts:anglers_hat"
+				type: "item"
+			}]
+			x: 0.75d
+			y: -7.75d
+		}
+		{
+			id: "1E8D12868FDCBC19"
+			rewards: [{
+				id: "3BC32236B4826B29"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "43B11CBAB689EFAD"
+				item: "artifacts:villager_hat"
+				type: "item"
+			}]
+			x: 0.75d
+			y: 0.75d
+		}
+		{
+			id: "3C2830268E7C4A18"
+			rewards: [{
+				id: "0C700FC417606AD6"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "0623EA1F93B7641B"
+				item: "artifacts:cowboy_hat"
+				type: "item"
+			}]
+			x: 0.75d
+			y: -6.75d
+		}
+		{
+			id: "2B97C13230484382"
+			rewards: [{
+				id: "4CE4B5CE01638AF3"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "03BC6D03699CFB7D"
+				item: "artifacts:flippers"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -0.25d
+		}
+		{
+			id: "2187DCF9C200FF7B"
+			rewards: [{
+				id: "66048D5A7D50C51D"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "5398AC9AB5ED4277"
+				item: "artifacts:rooted_boots"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.75d
+		}
+		{
+			id: "45DB6B3D948E6442"
+			rewards: [{
+				id: "29DE9CA624B015AC"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "6785954A218C8272"
+				item: "artifacts:steadfast_spikes"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -7.75d
+		}
+		{
+			id: "20553EC206746941"
+			rewards: [{
+				id: "0B44C0E9245AE980"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "530EB5B6839A9157"
+				item: "artifacts:snowshoes"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -6.75d
+		}
+		{
+			id: "0655DA4ED8BC8E02"
+			rewards: [{
+				id: "46941453B26AE9EB"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "69576F206C576008"
+				item: "artifacts:running_shoes"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -6.75d
+		}
+		{
+			id: "16465BB77A4B47E6"
+			rewards: [{
+				id: "7F6DA44FFC7A8B08"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "1D1CEAC2CB359673"
+				item: "artifacts:kitty_slippers"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.75d
+		}
+		{
+			id: "086435C4AE0DA42A"
+			rewards: [{
+				id: "2245A588C118797C"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "46A1E4EFEEA3CCAA"
+				item: "artifacts:bunny_hoppers"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -0.25d
+		}
+		{
+			id: "55856FA3661BEB9B"
+			rewards: [{
+				id: "69F6F4C0F6710D35"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "717C1BE547998F2C"
+				item: "artifacts:aqua_dashers"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -7.75d
+		}
+		{
+			id: "58B88EAE3C4234F7"
+			rewards: [{
+				id: "6FE79D3F208117F9"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "71F26F43E631F4BC"
+				item: "artifacts:digging_claws"
+				type: "item"
+			}]
+			x: 16.25d
+			y: 2.0d
+		}
+		{
+			id: "75838D4D86C5D67D"
+			rewards: [{
+				id: "140D400DE40278FA"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "6583D88989FAD039"
+				item: "artifacts:pickaxe_heater"
+				type: "item"
+			}]
+			x: 17.25d
+			y: -8.75d
+		}
+		{
+			id: "0D3381EA05E03CE1"
+			rewards: [{
+				id: "08523F793FF6525E"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "6427697A9C3BB03D"
+				item: {
+					Count: 1
+					id: "extraspellattributes:martialbracer"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 16.25d
+			y: -9.25d
+		}
+		{
+			id: "234905B17E3BB150"
+			rewards: [{
+				id: "7FEB764EA4931409"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "278DAF2DE9B9E46A"
+				item: {
+					Count: 1
+					id: "extraspellattributes:arcanebracer"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 16.25d
+			y: -8.25d
+		}
+		{
+			id: "58019BC3DF6B3BEC"
+			rewards: [{
+				id: "3AE8E88BEAA3B906"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "25C3FEF766BFE4F3"
+				item: "artifacts:fire_gauntlet"
+				type: "item"
+			}]
+			x: 17.25d
+			y: -7.75d
+		}
+		{
+			id: "1A46232F68203D55"
+			rewards: [{
+				id: "46B0D93DB017A3F8"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "755BA53FD13C77CE"
+				item: "artifacts:pocket_piston"
+				type: "item"
+			}]
+			x: 16.25d
+			y: 1.0d
+		}
+		{
+			id: "10F756DACACD9CD7"
+			rewards: [{
+				id: "15447C1122857D62"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "798D835A4224BB3C"
+				item: "artifacts:vampiric_glove"
+				type: "item"
+			}]
+			x: 17.25d
+			y: 0.5d
+		}
+		{
+			id: "5A3FD07A282D5143"
+			rewards: [{
+				id: "0D5B61B33EFD2DA2"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "26EE10B03CBACC9B"
+				item: "artifacts:golden_hook"
+				type: "item"
+			}]
+			x: 17.25d
+			y: 1.5d
+		}
+		{
+			id: "1C61234306B18185"
+			rewards: [{
+				id: "469B0F3AC708B6B8"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "4B9FA821B493A3A1"
+				item: "artifacts:power_glove"
+				type: "item"
+			}]
+			x: 17.25d
+			y: -9.75d
+		}
+		{
+			id: "0F9B4E7FDD39A241"
+			rewards: [{
+				id: "5F03D406B78A12AB"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "3F77A6FC24F94003"
+				item: "artifacts:feral_claws"
+				type: "item"
+			}]
+			x: 17.25d
+			y: 2.5d
+		}
+		{
+			hide_text_until_complete: true
+			icon: "healpgood:ender_soul"
+			id: "67605A13FA8248A6"
+			invisible: true
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 4A8B011A9E4DD30C"
+					elevate_perms: true
+					icon: "healpgood:ender_soul"
+					id: "4FE6616A3E44237D"
+					silent: true
+					title: "It wants more"
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 46060EEBC5AB765E"
+					elevate_perms: true
+					id: "431A2BFAAAA32410"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p complete 6F33F00A8CB52C1F"
+					elevate_perms: true
+					id: "1099A8C42AF7B1CD"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @s run tellraw @p [{\"text\":\"\",\"color\":\"gray\"},{\"text\":\"<shake>???</shake> seems to have 'grown'\",\"color\":\"yellow\"}]"
+					elevate_perms: true
+					id: "4B1CADF0D13C850A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests open_book 4637C6FB4EFBBD94"
+					elevate_perms: true
+					id: "292455EF7736EFE4"
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+			]
+			size: 1.0E-4d
+			subtitle: "Give <shake>???</shake> your offerings"
+			tasks: [
+				{
+					consume_items: true
+					id: "02C56FD316D49FA5"
+					item: {
+						Count: 1
+						id: "death_knights:unholy_dk_ring"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "64DC7688876C9887"
+					item: {
+						Count: 1
+						id: "malum:runic_brooch"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "7DE0E80579B1356C"
+					item: {
+						Count: 1
+						id: "jewelry:unique_tank_necklace"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "<shake>???"
+			x: 7.5d
+			y: -3.5d
+		}
+		{
+			id: "6EC6A1477D81C1E4"
+			rewards: [{
+				id: "72807D605879E632"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "24BF718773EF64EA"
+				item: {
+					Count: 1
+					id: "malum:runic_brooch"
+					tag: {
+						TrinketAttributeModifiers: [ ]
+					}
+				}
+				type: "item"
+			}]
+			x: 13.25d
+			y: -3.5d
+		}
+		{
+			id: "196725022791F213"
+			rewards: [{
+				id: "53A4B7878CA3FFE5"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "51276232990AF119"
+				item: {
+					Count: 1
+					id: "malum:elaborate_brooch"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 14.25d
+			y: -4.5d
+		}
+		{
+			id: "072994C05CE3EF16"
+			rewards: [{
+				id: "0A34AB0FD575875D"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "0D9E41873A36ECDB"
+				item: {
+					Count: 1
+					id: "malum:glass_brooch"
+					tag: {
+						TrinketAttributeModifiers: [ ]
+					}
+				}
+				type: "item"
+			}]
+			x: 14.25d
+			y: -3.5d
+		}
+		{
+			id: "1B72EB38E249E6FF"
+			rewards: [{
+				id: "3CEDA01E656B809A"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "26D3FE20E607CC33"
+				item: {
+					Count: 1
+					id: "malum:gluttonous_brooch"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 14.25d
+			y: -2.5d
+		}
+		{
+			id: "325E1B3BB627BF30"
+			rewards: [{
+				id: "2A24B6D14B8AF9C3"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "4D4FFA2A00F1AEAF"
+				item: {
+					Count: 1
+					id: "malum:rune_of_loyalty"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 15.25d
+			y: -5.0d
+		}
+		{
+			id: "48435784D8663863"
+			rewards: [{
+				id: "52ADE7675BB3E031"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "23E46ABEF5E40046"
+				item: {
+					Count: 1
+					id: "malum:rune_of_the_seas"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 15.25d
+			y: -4.0d
+		}
+		{
+			id: "5F4DF3C54D3E08D3"
+			rewards: [{
+				id: "34BF923F01F9979D"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "7A5D0480BF80F138"
+				item: {
+					Count: 1
+					id: "malum:rune_of_warding"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 15.25d
+			y: -3.0d
+		}
+		{
+			id: "4784A7105AC614BA"
+			rewards: [{
+				id: "512B66048EE12100"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "4FFF29CCE31970AB"
+				item: {
+					Count: 1
+					id: "malum:rune_of_the_aether"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 15.25d
+			y: -2.0d
+		}
+		{
+			id: "3A7D296FC00B98A4"
+			rewards: [{
+				id: "491018E813216CF6"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "215289CF8776B8B3"
+				item: {
+					Count: 1
+					id: "malum:rune_of_the_arena"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 15.25d
+			y: -1.0d
+		}
+		{
+			id: "5CFB9CD88286636D"
+			rewards: [{
+				id: "3DE0877DE43E95A7"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "3FE57A15F1A090DE"
+				item: {
+					Count: 1
+					id: "malum:rune_of_haste"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 15.25d
+			y: -6.0d
+		}
+		{
+			id: "14FBACAFA5C52482"
+			rewards: [{
+				id: "20252FC933B675F0"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "2B7F3923B4309C0C"
+				item: {
+					Count: 1
+					id: "malum:rune_of_motion"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 16.25d
+			y: -1.0d
+		}
+		{
+			id: "4161414D02FEB017"
+			rewards: [{
+				id: "123DF3F448205766"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "23F86EEFD6CE411C"
+				item: {
+					Count: 1
+					id: "malum:rune_of_dexterity"
+					tag: {
+						TrinketAttributeModifiers: [ ]
+					}
+				}
+				type: "item"
+			}]
+			x: 16.25d
+			y: -2.0d
+		}
+		{
+			id: "5150578951C04E7B"
+			rewards: [{
+				id: "74C917362B281351"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "638C0BFC780AE166"
+				item: {
+					Count: 1
+					id: "malum:rune_of_idle_restoration"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 16.25d
+			y: -3.0d
+		}
+		{
+			id: "6308524A09C5F05E"
+			rewards: [{
+				id: "2AEEACAA9B599134"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "3354213605AB24D6"
+				item: {
+					Count: 1
+					id: "malum:rune_of_unnatural_stamina"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 16.25d
+			y: -4.0d
+		}
+		{
+			id: "5AA2079EE6DDAD3E"
+			rewards: [{
+				id: "0CAE450F89E17D27"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "416D65B65DB537AC"
+				item: {
+					Count: 1
+					id: "malum:rune_of_the_hells"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 16.25d
+			y: -5.0d
+		}
+		{
+			id: "166F6CCFE837CF10"
+			rewards: [{
+				id: "19DE4D0E4A2064AB"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "6A8746F153F5E126"
+				item: {
+					Count: 1
+					id: "malum:rune_of_igneous_solace"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 16.25d
+			y: -6.0d
+		}
+		{
+			id: "78773E4F2DFA31E1"
+			rewards: [{
+				id: "5D542A76A6CFEB51"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "1A49B0DB88B0AF02"
+				item: {
+					Count: 1
+					id: "malum:rune_of_the_heretic"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 17.25d
+			y: -2.0d
+		}
+		{
+			id: "1BAF874212CB0A8E"
+			rewards: [{
+				id: "13BBEDEEFC6F014E"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "12C6B64A66CBF77D"
+				item: {
+					Count: 1
+					id: "malum:rune_of_aliment_cleansing"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 17.25d
+			y: -1.0d
+		}
+		{
+			id: "02767C336E9F5D26"
+			rewards: [{
+				id: "119ED0AAC319B166"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "068D97511C7900E5"
+				item: {
+					Count: 1
+					id: "malum:rune_of_volatile_distortion"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 17.25d
+			y: -6.0d
+		}
+		{
+			id: "1C0B0A28A983908E"
+			rewards: [{
+				id: "733FE862C741256E"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "65166FB1064E6861"
+				item: {
+					Count: 1
+					id: "malum:rune_of_spell_mastery"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 17.25d
+			y: -5.0d
+		}
+		{
+			id: "28ACB8BF237D6000"
+			rewards: [{
+				id: "268BCFB5F6D734A9"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "7ECAA5ADC286E3AE"
+				item: {
+					Count: 1
+					id: "malum:rune_of_twinned_duration"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 17.25d
+			y: -4.0d
+		}
+		{
+			id: "6F6187902DF470A6"
+			rewards: [{
+				id: "6B2E194A86128D3F"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "6BA5768BABE479F2"
+				item: {
+					Count: 1
+					id: "malum:rune_of_sacrificial_empowerment"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 17.25d
+			y: -3.0d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			icon: "healpgood:ender_soul"
+			id: "5DEF203700F1B0D1"
+			invisible: true
+			rewards: [{
+				auto: "no_toast"
+				command: "/execute as @p at @p run ftbquests open_book 5D5B3AED1DD6A0C4"
+				elevate_perms: true
+				icon: {
+					Count: 1
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "ftblibrary:icons/chat"
+					}
+				}
+				id: "501E93BA018B8C92"
+				silent: true
+				team_reward: true
+				title: "Continue"
+				type: "command"
+			}]
+			size: 1.0E-4d
+			subtitle: "A formless being tries to speak to you"
+			tasks: [{
+				disable_toast: true
+				id: "0EFD7C5DA15B452F"
+				title: "Start"
+				type: "checkmark"
+			}]
+			title: "<shake>???"
+			x: 7.5d
+			y: -3.5d
+		}
+		{
+			disable_toast: true
+			icon: "healpgood:ender_soul"
+			id: "5D5B3AED1DD6A0C4"
+			invisible: true
+			rewards: [
+				{
+					auto: "disabled"
+					command: "/execute as @p at @p run ftbquests change_progress @p complete 16F2F0905699481C"
+					elevate_perms: true
+					icon: {
+						Count: 1
+						id: "ftbquests:custom_icon"
+						tag: {
+							Icon: "ftblibrary:icons/chat"
+						}
+					}
+					id: "071E803CF43D82EB"
+					silent: true
+					team_reward: true
+					title: "What?"
+					type: "command"
+				}
+				{
+					auto: "disabled"
+					command: "/execute as @p at @p run ftbquests change_progress @p complete 16F2F0905699481C"
+					elevate_perms: true
+					icon: {
+						Count: 1
+						id: "ftbquests:custom_icon"
+						tag: {
+							Icon: "ftblibrary:icons/chat"
+						}
+					}
+					id: "66A844BA8831F4B0"
+					silent: true
+					team_reward: true
+					title: "Uhh..."
+					type: "command"
+				}
+				{
+					auto: "disabled"
+					command: "/execute as @p at @p run ftbquests change_progress @p complete 0DCFBA90C4CC7C22"
+					elevate_perms: true
+					icon: {
+						Count: 1
+						id: "ftbquests:custom_icon"
+						tag: {
+							Icon: "ftblibrary:icons/chat"
+						}
+					}
+					id: "52374CAE1619E0FA"
+					silent: true
+					team_reward: true
+					title: "...How about no?"
+					type: "command"
+				}
+			]
+			size: 1.0E-4d
+			subtitle: "A formless being speaks to you"
+			tasks: [{
+				disable_toast: true
+				id: "036BD6C302084CD1"
+				title: "<shake>Relics..."
+				type: "checkmark"
+			}]
+			title: "<shake>???"
+			x: 7.5d
+			y: -3.5d
+		}
+		{
+			disable_toast: true
+			icon: "healpgood:ender_soul"
+			id: "1F43A26C6059EADF"
+			invisible: true
+			rewards: [
+				{
+					auto: "disabled"
+					command: "/execute as @p at @p run ftbquests change_progress @p complete 07BF098A1817DFF4"
+					elevate_perms: true
+					icon: {
+						Count: 1
+						id: "ftbquests:custom_icon"
+						tag: {
+							Icon: "ftblibrary:icons/chat"
+						}
+					}
+					id: "53EE0347ABA353D5"
+					silent: true
+					team_reward: true
+					title: "Sure?"
+					type: "command"
+				}
+				{
+					auto: "disabled"
+					command: "/execute as @p at @p run ftbquests change_progress @p complete 27E6BF8C7CB8D05C"
+					elevate_perms: true
+					icon: {
+						Count: 1
+						id: "ftbquests:custom_icon"
+						tag: {
+							Icon: "ftblibrary:icons/chat"
+						}
+					}
+					id: "5BA8F894B2E607ED"
+					silent: true
+					team_reward: true
+					title: "...How about no?"
+					type: "command"
+				}
+			]
+			size: 1.0E-4d
+			subtitle: "A formless being speaks to you"
+			tasks: [{
+				disable_toast: true
+				id: "11B77CE2B21F0E48"
+				title: "<shake>Hungry... Relics... must eat"
+				type: "checkmark"
+			}]
+			title: "<shake>???"
+			x: 7.5d
+			y: -3.5d
+		}
+		{
+			disable_toast: true
+			icon: "healpgood:ender_soul"
+			id: "46132B971EEA7298"
+			invisible: true
+			rewards: [
+				{
+					auto: "disabled"
+					command: "/execute as @p at @p run ftbquests change_progress @p complete 4650A31816A18F6A"
+					elevate_perms: true
+					icon: {
+						Count: 1
+						id: "ftbquests:custom_icon"
+						tag: {
+							Icon: "ftblibrary:icons/chat"
+						}
+					}
+					id: "7C370ADB432BDCF2"
+					silent: true
+					team_reward: true
+					title: "Okay"
+					type: "command"
+				}
+				{
+					auto: "disabled"
+					command: "/execute as @p at @p run ftbquests change_progress @p complete 4650A31816A18F6A"
+					elevate_perms: true
+					icon: {
+						Count: 1
+						id: "ftbquests:custom_icon"
+						tag: {
+							Icon: "ftblibrary:icons/chat"
+						}
+					}
+					id: "13E367816FD3A150"
+					silent: true
+					team_reward: true
+					title: "Okay"
+					type: "command"
+				}
+				{
+					auto: "disabled"
+					command: "/execute as @p at @p run ftbquests change_progress @p complete 4650A31816A18F6A"
+					elevate_perms: true
+					icon: {
+						Count: 1
+						id: "ftbquests:custom_icon"
+						tag: {
+							Icon: "ftblibrary:icons/chat"
+						}
+					}
+					id: "50394E01199F5CC2"
+					silent: true
+					team_reward: true
+					title: "Okay"
+					type: "command"
+				}
+			]
+			size: 1.0E-4d
+			subtitle: "Well i guess you can't say no"
+			tasks: [{
+				disable_toast: true
+				id: "602CED5E6D0C06D9"
+				title: "<shake>Hungry... Relics... must eat"
+				type: "checkmark"
+			}]
+			title: "<shake>???"
+			x: 7.5d
+			y: -3.5d
+		}
+		{
+			hide_text_until_complete: true
+			icon: "healpgood:ender_soul"
+			id: "4637C6FB4EFBBD94"
+			invisible: true
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 6F33F00A8CB52C1F"
+					elevate_perms: true
+					icon: "healpgood:ender_soul"
+					id: "38031CA6C029149A"
+					silent: true
+					title: "The energy coming from it is getting stronger"
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 5A295D4CFAE45D3F"
+					elevate_perms: true
+					id: "6766FD062F54CAD0"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p complete 3A12CE050D0E071E"
+					elevate_perms: true
+					id: "1383817180861395"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @s run tellraw @p [{\"text\":\"\",\"color\":\"gray\"},{\"text\":\"<shake>???</shake> seems to have 'grown'\",\"color\":\"yellow\"}]"
+					elevate_perms: true
+					id: "3779584C339B084A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests open_book 39E96BA50735FCA2"
+					elevate_perms: true
+					id: "62FD43CED4802849"
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+			]
+			size: 1.0E-4d
+			subtitle: "Give <shake>???</shake> your offerings"
+			tasks: [
+				{
+					consume_items: true
+					id: "2B20273924BEB9C4"
+					item: {
+						Count: 1
+						id: "extraspellattributes:undyingsoul"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "517700DF7C3148BB"
+					item: {
+						Count: 1
+						id: "malum:rune_of_sacrificial_empowerment"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "7486A3F25C1F7773"
+					item: {
+						Count: 1
+						id: "malum:ring_of_growing_flesh"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "<shake>???"
+			x: 7.5d
+			y: -3.5d
+		}
+		{
+			hide_text_until_complete: true
+			icon: "healpgood:ender_soul"
+			id: "39E96BA50735FCA2"
+			invisible: true
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 3A12CE050D0E071E"
+					elevate_perms: true
+					icon: "healpgood:ender_soul"
+					id: "5E938127D5091E5E"
+					silent: true
+					title: "It stablizes"
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 46839172C4D69DE1"
+					elevate_perms: true
+					id: "389E30B6ED4A27E5"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p complete 4964450E83344AC3"
+					elevate_perms: true
+					id: "275AA12CC9D55050"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @s run tellraw @p [{\"text\":\"\",\"color\":\"gray\"},{\"text\":\"<shake>???</shake> seems to have 'grown'\",\"color\":\"yellow\"}]"
+					elevate_perms: true
+					id: "4CD5E08807629A6E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests open_book 64103FCA7DBAB5AB"
+					elevate_perms: true
+					id: "4A8104E030E69B19"
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+			]
+			size: 1.0E-4d
+			subtitle: "Give <shake>???</shake> your offerings"
+			tasks: [
+				{
+					consume_items: true
+					id: "3E59B947E3447AA3"
+					item: "artifacts:crystal_heart"
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "00A5475AF07D6551"
+					item: {
+						Count: 1
+						id: "malum:belt_of_the_limitless"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "71D7A798DF76597B"
+					item: "artifacts:chorus_totem"
+					type: "item"
+				}
+			]
+			title: "<shake>???"
+			x: 7.5d
+			y: -3.5d
+		}
+		{
+			hide_text_until_complete: true
+			icon: "healpgood:ender_soul"
+			id: "64103FCA7DBAB5AB"
+			invisible: true
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 4964450E83344AC3"
+					elevate_perms: true
+					icon: "healpgood:ender_soul"
+					id: "4CDECC7BD2B60743"
+					silent: true
+					title: "It calls itself '<rainb>The Core</rainb>'"
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 2FB7A6E9B7FF586B"
+					elevate_perms: true
+					id: "43CD42DF9F1F6A42"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @s run tellraw @p [{\"text\":\"\",\"color\":\"gray\"},{\"text\":\"<shake>???</shake> seems to have 'grown'\",\"color\":\"yellow\"}]"
+					elevate_perms: true
+					id: "00514B00FD4C5A52"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests open_book 03E8A82ACD388251"
+					elevate_perms: true
+					id: "258B1DCC7B3D6622"
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p complete 17C400785E25E46B"
+					elevate_perms: true
+					id: "1A26745EA47FCDC1"
+					silent: true
+					type: "command"
+				}
+			]
+			size: 1.0E-4d
+			subtitle: "Give <shake>???</shake> your offerings"
+			tasks: [
+				{
+					consume_items: true
+					id: "2E5C794598DB268A"
+					item: {
+						Count: 1
+						id: "betterarcheology:torrent_totem"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "102AEEED004FAC53"
+					item: {
+						Count: 1
+						id: "betterarcheology:soul_totem"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "22CEE98946284A7B"
+					item: "minecraft:totem_of_undying"
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "29F5137116F3C3AB"
+					item: "fwaystones:void_totem"
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "549C75E95021F1EC"
+					item: "friendsandfoes:totem_of_illusion"
+					type: "item"
+				}
+			]
+			title: "<shake>???"
+			x: 7.5d
+			y: -3.5d
+		}
+		{
+			can_repeat: true
+			description: ["    Your <shake>base</shake> stats have been improved"]
+			disable_toast: true
+			icon: "healpgood:ender_soul"
+			id: "03E8A82ACD388251"
+			invisible: true
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/execute as @p at @s run tellraw @p [{\"text\":\"\",\"color\":\"gray\"},{\"text\":\"You feel a surge of <shake>energy\",\"color\":\"yellow\"}]"
+					elevate_perms: true
+					icon: {
+						Count: 1
+						id: "ftbquests:custom_icon"
+						tag: {
+							Icon: "simplyskills:icons/alternate_reduced/berserker_challenge"
+						}
+					}
+					id: "30E8D44C3D9F3ECA"
+					silent: true
+					team_reward: true
+					title: "<rainb>Crit +10%"
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/execute as @p at @p run ftbquests change_progress @p complete 43F6680349D39F1D"
+					elevate_perms: true
+					icon: {
+						Count: 1
+						id: "ftbquests:custom_icon"
+						tag: {
+							Icon: "clutter:textures/mob_effect/vulnerability.png"
+						}
+					}
+					id: "25FF48340A0630C7"
+					silent: true
+					team_reward: true
+					title: "<rainb>Damage Taken x1.666"
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 17C400785E25E46B"
+					elevate_perms: true
+					icon: {
+						Count: 1
+						id: "ftbquests:custom_icon"
+						tag: {
+							Icon: "archon:textures/gui/mana_icon.png"
+						}
+					}
+					id: "7502640B7A1159A3"
+					silent: true
+					team_reward: true
+					title: "<rainb>Max mana +100"
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/execute as @p at @p run ftbquests open_book 574966D79013EBB4"
+					elevate_perms: true
+					icon: {
+						Count: 1
+						id: "ftbquests:custom_icon"
+						tag: {
+							Icon: "simplyskills:icons/alternate/attackspeed_up"
+						}
+					}
+					id: "5E3212DCA898175B"
+					silent: true
+					team_reward: true
+					title: "<rainb>Attack Speed +0.75"
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/execute as @p at @p run ftbquests change_progress @p complete 19B87778CDFBED02"
+					elevate_perms: true
+					icon: {
+						Count: 1
+						id: "ftbquests:custom_icon"
+						tag: {
+							Icon: "simplyskills:icons/alternate/spell_haste_up"
+						}
+					}
+					id: "0CB557AD66D9839E"
+					silent: true
+					team_reward: true
+					title: "<rainb>Spell Haste +25%"
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					icon: {
+						Count: 1
+						id: "ftbquests:custom_icon"
+						tag: {
+							Icon: "wetlands:item/elder_gear_golem_heart"
+						}
+					}
+					id: "275DD381E46DC29D"
+					ignore_reward_blocking: true
+					stage: ""
+					team_reward: true
+					title: "<rainb>Remove Cursed Wounds"
+					type: "gamestage"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run effect clear @p soulsweapons:disable_heal"
+					elevate_perms: true
+					icon: {
+						Count: 1
+						id: "ftbquests:custom_icon"
+						tag: {
+							Icon: "simplyskills:textures/mob_effect/rage.png"
+						}
+					}
+					id: "12A1D7F7BA3BBF77"
+					silent: true
+					team_reward: true
+					title: "<rainb>Crit Damage +35%"
+					type: "command"
+				}
+			]
+			subtitle: "You feel <shake>stronger</shake> but more <shake>vulnerable"
+			tasks: [{
+				disable_toast: true
+				id: "23C288B487EE0D49"
+				title: "<rainb><shake>The Core empowers you"
+				type: "checkmark"
+			}]
+			title: "<rainb><shake>The Core"
+			x: 7.5d
+			y: -3.5d
+		}
+		{
+			can_repeat: true
+			description: ["  You lose the empowerment when you die"]
+			disable_toast: true
+			icon: "healpgood:ender_soul"
+			id: "574966D79013EBB4"
+			invisible: true
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/execute as @p at @s run tellraw @p [{\"text\":\"\",\"color\":\"gray\"},{\"text\":\"You feel <shake>weak\",\"color\":\"yellow\"}]"
+					elevate_perms: true
+					icon: {
+						Count: 1
+						id: "ftbquests:custom_icon"
+						tag: {
+							Icon: "death_knights:textures/mob_effect/grevious_plague.png"
+						}
+					}
+					id: "7885B141753EA669"
+					silent: true
+					team_reward: true
+					title: "Cursed Wounds for 2 minutes"
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p complete 17C400785E25E46B"
+					elevate_perms: true
+					id: "79D34727BAA0AE91"
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 43F6680349D39F1D"
+					elevate_perms: true
+					id: "7815EEAB60C69758"
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests open_book 03E8A82ACD388251"
+					elevate_perms: true
+					id: "5FB90F837261FAA7"
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p complete 2D00AE3412EC4E36"
+					elevate_perms: true
+					id: "1A72C5F50F239D3C"
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+			]
+			subtitle: "You feel <shake>exhausted"
+			tasks: [{
+				disable_toast: true
+				id: "25FE45DB31F5F1A6"
+				title: "<rainb><shake>The Core stops"
+				type: "checkmark"
+			}]
+			title: "<rainb><shake>The Core"
+			x: 7.5d
+			y: -3.5d
+		}
+	]
+	title: "Relics of Power"
+}

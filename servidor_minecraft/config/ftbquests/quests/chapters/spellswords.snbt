@@ -1,0 +1,38 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "spellswords"
+	group: "429A845DD1E3DE92"
+	icon: {
+		Count: 1
+		id: "spellbladenext:starforge"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "57F6721A3BCC2E36"
+	images: [
+		{
+			height: 4.666666666666667d
+			image: "fantasy_mc:textures/wsword.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: -6.0d
+			y: 1.0d
+		}
+		{
+			click: "#4BA97909341A9328"
+			height: 1.5d
+			hover: ["Back"]
+			image: "fantasy_mc:textures/newquestimg/back.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -1.0d
+			y: 3.25d
+		}
+	]
+	order_index: 14
+	quest_links: [ ]
+	quests: [ ]
+	title: "Spellswords"
+}

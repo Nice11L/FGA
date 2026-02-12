@@ -1,0 +1,454 @@
+{
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/root": {
+    "criteria": {
+      "always": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "guardiansgalore:blaze_bell": {
+    "criteria": {
+      "has_gold_ingot": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/blue_umbrella": {
+    "criteria": {
+      "has_shield": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/armored_ice_skates": {
+    "criteria": {
+      "has_fur_boots": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/cheese_bread": {
+    "criteria": {
+      "has_bread": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/misc/snowflake_banner_pattern": {
+    "criteria": {
+      "has_packed_snowball": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "variantshields:recipes/decorations/shield": {
+    "criteria": {
+      "has_variant_item": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/green_umbrella": {
+    "criteria": {
+      "has_shield": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:clutter/root": {
+    "criteria": {
+      "requirement": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/yellow_umbrella": {
+    "criteria": {
+      "has_shield": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "mobs_of_mythology:mobs_of_mythology": {
+    "criteria": {
+      "tick": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shield_chestplate": {
+    "criteria": {
+      "has_shield": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shield_leggings": {
+    "criteria": {
+      "has_shield": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "meadow:main/root": {
+    "criteria": {
+      "seeds": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_padded_chainmail_leggings": {
+    "criteria": {
+      "has_fur_armor": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "soaringstructures2:soaringstart": {
+    "criteria": {
+      "adv_test": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/root": {
+    "criteria": {
+      "seeds": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "totw_reworked:root": {
+    "criteria": {
+      "sample_trigger": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_the_recipe": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/gray_umbrella": {
+    "criteria": {
+      "has_shield": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shield_helmet": {
+    "criteria": {
+      "has_shield": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "artifality:root": {
+    "criteria": {
+      "start": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/ice_skates": {
+    "criteria": {
+      "has_fur_boots": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "guardiansgalore:guardian_block_granite": {
+    "criteria": {
+      "has_stone": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "guardiansgalore:guardian_bowls": {
+    "criteria": {
+      "has_bowl": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2026-02-12 13:40:45 +0000",
+      "inv_changed-diamond": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "whisperwoods:recipes/whisperwoods/hand_of_fate": {
+    "criteria": {
+      "has_blaze_powder": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "guardiansgalore:guardian_block": {
+    "criteria": {
+      "has_stone": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:root": {
+    "criteria": {
+      "always": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/brewing/compound_brewing_stand": {
+    "criteria": {
+      "has_shield": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/red_umbrella": {
+    "criteria": {
+      "has_shield": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "simplymore:root": {
+    "criteria": {
+      "requirement": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "archon:root": {
+    "criteria": {
+      "tick": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/gilded_umbrella": {
+    "criteria": {
+      "has_shield": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/white_umbrella": {
+    "criteria": {
+      "has_shield": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/root": {
+    "criteria": {
+      "seeds": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/cyan_umbrella": {
+    "criteria": {
+      "has_shield": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/light_blue_umbrella": {
+    "criteria": {
+      "has_shield": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "more_rpg_content:root": {
+    "criteria": {
+      "always": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "guardiansgalore:guardian_block_sandstone": {
+    "criteria": {
+      "has_stone": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/orange_umbrella": {
+    "criteria": {
+      "has_shield": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/magenta_umbrella": {
+    "criteria": {
+      "has_shield": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "loot_n_explore:root": {
+    "criteria": {
+      "always": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/sandwich": {
+    "criteria": {
+      "has_bread": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "guardiansgalore:guardian_block_diorite": {
+    "criteria": {
+      "has_stone": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_padded_chainmail_helmet": {
+    "criteria": {
+      "has_fur_armor": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/lime_umbrella": {
+    "criteria": {
+      "has_shield": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/light_gray_umbrella": {
+    "criteria": {
+      "has_shield": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:internal/starting_book": {
+    "criteria": {
+      "tick": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/black_umbrella": {
+    "criteria": {
+      "has_shield": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_padded_chainmail_chestplate": {
+    "criteria": {
+      "has_fur_armor": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/purple_umbrella": {
+    "criteria": {
+      "has_shield": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_padded_chainmail_boots": {
+    "criteria": {
+      "has_fur_armor": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/brown_umbrella": {
+    "criteria": {
+      "has_shield": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/aged_umbrella": {
+    "criteria": {
+      "has_shield": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/pink_umbrella": {
+    "criteria": {
+      "has_shield": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "besmirchment:demonic_deed": {
+    "criteria": {
+      "has_item": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shield_boots": {
+    "criteria": {
+      "has_shield": "2026-02-12 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "betternether:root": {
+    "criteria": {
+      "welcome": "2026-02-12 13:40:46 +0000"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2026-02-12 13:40:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "dry_bushland": "2026-02-12 13:40:46 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "dry_bushland": "2026-02-12 13:40:46 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2026-02-12 13:40:46 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

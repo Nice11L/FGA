@@ -1,0 +1,290 @@
+{
+  "states": {
+    "introduction": {
+		"text":[
+		{"text": "<typewriter>Welcome "},
+	    {"selector":"@interlocutor"},
+		{"text": "<typewriter>, I will show you the ropes to using magic in Fantasy MC. Currently, there are Bewitchment / Besmirchment; Spell Engine Mods (i.e Rouge & Warriors, Wizards, etc...), Archon and Malum. But unfortunately Bewitchment/Besmirchment & Malum needs more time."}
+      ],
+	  "illustrations": [
+        "intro"
+      ],
+	  "choices": [
+        {
+          "next": "bewitch",
+          "text": "Bewitchment / Besmirchment"
+        },
+        {
+          "next": "spellengine",
+          "text": "Spell Engine Mods"
+        },
+        {
+          "next": "archon",
+          "text": "Archon"
+        },
+        {
+          "next": "malum",
+          "text": "Malum"
+        },
+        {
+          "next": "end",
+          "text": "End"
+        }
+      ]
+    },
+    "end": {
+      "type": "end_dialogue",
+      "action": {
+        "type": "blabber:command",
+        "value": "/execute as @p at @p run ftbquests change_progress @p reset 428B2180EF0B2811"
+      }
+    },
+    "bewitch": {
+      "text": "<typewriter>Apologies Adventurer, It is not yet time...",
+      "choices": [
+        {
+          "next": "introduction",
+          "text": "Back"
+        },
+        {
+          "next": "end",
+          "text": "End"
+        }
+      ]
+    },
+    "spellengine": {
+      "text": "<typewriter>Spell Engine Mods are mods that adds in <rainb>Spell Books</rainb> and to make these books, you will need a <rainb>Spell Binding Table</rainb>.\nThe table needs to be surrounded with <rainb>24 bookshelves (for spellbooks with 4 spells)</rainb> or <rainb>18 bookshelves (for spellbooks with 3 spells)</rainb>\nNow that you've got the Spell Book, you can equip them as shown.",
+      "illustrations": [
+        "lookup",
+		"spellbook"
+      ],
+	  "choices": [
+        {
+          "next": "se2",
+          "text": "Weapons"
+        },
+        {
+          "next": "introduction",
+          "text": "Back (Introduction)"
+        },
+        {
+          "next": "end",
+          "text": "End"
+        }
+      ]
+    },
+    "archon": {
+      "text": "<typewriter>You may have found these <rainb>tomes</rainb> in chests. They are tomes for the wands/weapons in Archon, right clicking them will mean learning them permanently.",
+      "illustrations": [
+        "lookup",
+		"tome"
+      ],
+	  "type": "default",
+      "choices": [
+        {
+          "text": "Weapons",
+          "next": "ar2"
+        },
+        {
+          "next": "introduction",
+          "text": "Back (Introduction)"
+        },
+        {
+          "next": "end",
+          "text": "End"
+        }
+      ]
+    },
+    "malum": {
+	  "text":[
+		{"text": "<typewriter>Apologies "},
+	    {"selector":"@interlocutor"},
+		{"text": "<typewriter>, It is not yet time..."}
+      ],
+      "choices": [
+        {
+          "next": "introduction",
+          "text": "Back"
+        },
+        {
+          "next": "end",
+          "text": "End"
+        }
+      ]
+    },
+    "se2": {
+      "text": "<typewriter>We will now need a suitable weapon.\nWeapons that have <rainb>\"Casts spells from equipped Spell Book\"</rainb> will be able to use the spell book while some may not be able to and already has spells on it.",
+      "illustrations": [
+        "lookup",
+		"seweapon"
+      ],
+	  "choices": [
+        {
+          "next": "manurunes",
+          "text": "Mana / Runes"
+        },
+        {
+          "next": "spellengine",
+          "text": "Back (Spell Book)"
+        },
+        {
+          "next": "end",
+          "text": "End "
+        }
+      ]
+    },
+    "manurunes": {
+      "text": "<typewriter>Runes (Spell Engine Mods, not for Archon) are craftable and you can carry an almost infinite amount of them while mana are finite and will run out after a certain amount \nMana (Spell Engine Mods & Archon) can be increased through armor or accessories. The more mana you use, the more damage you deal overtime.",
+      "illustrations": [
+        "lookup",
+		"manarunes"
+      ],
+	  "choices": [
+        {
+          "next": "introduction",
+          "text": "Back"
+        },
+        {
+          "next": "end",
+          "text": "end"
+        }
+      ]
+    },
+    "ar2": {
+      "text": "Weapons that has this <rainb>\"Spell: None\"</rainb> will be able to use Archon's Spells you've learnt. Shift Right-clicking will shift through the spells you've learnt.",
+      "illustrations": [
+        "lookup",
+		"archonspell"
+      ],
+	  "choices": [
+        {
+          "next": "manurunes",
+          "text": "Mana"
+        },
+        {
+          "next": "end",
+          "text": "End"
+        },
+        {
+          "next": "archon",
+          "text": "Back (Tomes)"
+        }
+      ]
+    }
+  },
+  "illustrations": {
+    "intro": [
+      {
+        "type": "blabber:entity",
+        "entity": "@s",
+        "x1": 120,
+        "y1": 80,
+        "x2": 240,
+        "y2": 184,
+        "size": 100,
+        "y_offset": 0.5,
+        "stare_at_x": 300,
+        "stare_at_y": 0
+      }
+    ],
+	"lookup": [
+      {
+        "type": "blabber:entity",
+        "entity": "@s",
+        "x1": 120,
+        "y1": 80,
+        "x2": 240,
+        "y2": 184,
+        "size": 100,
+        "y_offset": 0.5,
+        "stare_at_x": 0,
+        "stare_at_y": -100
+      }
+    ],
+	"spellbook": [
+      {
+        "type": "blabber:texture",
+        "texture": "fantasy_mc:textures/newquestimg/spellbooks.png",
+        "x": 0,
+        "y": 30,
+        "width": 150,
+        "height": 100
+      },
+	  {
+        "type": "blabber:texture",
+        "texture": "fantasy_mc:textures/newquestimg/spellbookslot.png",
+        "x": 210,
+        "y": 30,
+        "width": 100,
+        "height": 100
+      }
+    ],
+	"tome": [
+      {
+        "type": "blabber:texture",
+        "texture": "fantasy_mc:textures/newquestimg/tome.png",
+        "x": 100,
+        "y": 15,
+        "width": 150,
+        "height": 75
+      }
+    ],
+	"archonspell": [
+      {
+        "type": "blabber:texture",
+        "texture": "fantasy_mc:textures/newquestimg/archonspell.png",
+        "x": 100,
+        "y": 15,
+        "width": 150,
+        "height": 75
+      }
+    ],
+	"manarunes": [
+      {
+        "type": "blabber:texture",
+        "texture": "fantasy_mc:textures/newquestimg/mana.png",
+        "x": 0,
+        "y": 10,
+        "width": 200,
+        "height": 50
+      },
+	  {
+        "type": "blabber:texture",
+        "texture": "fantasy_mc:textures/newquestimg/runes.png",
+        "x": 240,
+        "y": 10,
+        "width": 150,
+        "height": 50
+      }
+    ],
+	"seweapon": [
+      {
+        "type": "blabber:item",
+		"item": {
+			"id": "minecraft:netherite_sword",
+			"Count": 1
+        },
+        "x": 60,
+        "y": 120,
+		"show_tooltip":true,
+        "scale": 4
+      },
+	  {
+        "type": "blabber:item",
+		"item": {
+			"id": "spellbladenext:starforge",
+			"Count": 1
+        },
+        "x": 250,
+        "y": 120,
+		"show_tooltip":true,
+        "scale": 4
+      }
+    ]
+  },
+  "layout": {
+    "type": "blabber:rpg"
+  },
+  "unskippable": true,
+  "start_at": "introduction"
+}

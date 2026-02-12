@@ -1,0 +1,18 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "soulslikes_blades"
+	group: "429A845DD1E3DE92"
+	icon: {
+		Count: 1
+		id: "soulsweapons:master_sword"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "2C6CAC1F47F606B2"
+	order_index: 15
+	quest_links: [ ]
+	quests: [ ]
+	title: "Soulslike's Blades"
+}

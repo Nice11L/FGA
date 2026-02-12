@@ -1,0 +1,1816 @@
+{
+	always_invisible: true
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tr"
+	group: "429A845DD1E3DE92"
+	id: "2CAB6293C27D9660"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["00862BA6A2F7D402"]
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/fantasy.png"
+				}
+			}
+			id: "108F299D103623FE"
+			tasks: [
+				{
+					dimension: "minecraft:overworld"
+					id: "172F718ABBFA300A"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "deeperdarker:otherside"
+					id: "4E7D3C4DF1AF3E6B"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "graveyard:past"
+					id: "13F7EF973B62D242"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:prison"
+					id: "04077CCFD22B76C8"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:promenade"
+					id: "4875117C6E0BA44C"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:ramparts"
+					id: "0AAFC8497C526442"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:sepulchra"
+					id: "35FF6DBADC8DA5B3"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_end"
+					id: "4CF96E53A52CAEC9"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_nether"
+					id: "1B08C71D2F694B6A"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "voidz:void"
+					id: "4ED26EF112EBB956"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:black_bridge"
+					id: "0D61382426E06633"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:crypt"
+					id: "4F33ACFAC0218ED1"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "spellbladenext:glassocean"
+					id: "600EA6B7CD53C4D7"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:insufferable_crypt"
+					id: "2E23809FB7F39715"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "artifality:lunar_bazaar"
+					id: "2412D85D69E35205"
+					optional_task: true
+					type: "dimension"
+				}
+			]
+			title: "delay"
+			x: -3.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["04B37ECCF2269387"]
+			id: "2AB43AA25984A4A1"
+			invisible: true
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run ftbquests change_progress @p complete 00862BA6A2F7D402"
+				elevate_perms: true
+				id: "110E6C86249A757D"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				advancement: "mobs_of_mythology:mobs_of_mythology"
+				criterion: ""
+				id: "5974B178EE330CAA"
+				type: "advancement"
+			}]
+			x: -3.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["101A868FE68D0260"]
+			id: "3654C314A46509D3"
+			invisible: true
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run ftbquests change_progress @p complete 3E803EFC8F3132D7"
+				elevate_perms: true
+				id: "0ED347BA9C49BF3E"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				advancement: "mobs_of_mythology:mobs_of_mythology"
+				criterion: ""
+				id: "23BD625864E0E26D"
+				type: "advancement"
+			}]
+			x: -3.5d
+			y: -1.5d
+		}
+		{
+			id: "00862BA6A2F7D402"
+			invisible: true
+			tasks: [
+				{
+					id: "511D7666F3CC7595"
+					type: "checkmark"
+				}
+				{
+					consume_items: true
+					id: "6E52D088FC72FE7E"
+					item: "minecraft:bedrock"
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3E803EFC8F3132D7"]
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/fantasy.png"
+				}
+			}
+			id: "04B37ECCF2269387"
+			tasks: [
+				{
+					dimension: "minecraft:overworld"
+					id: "1449B5E6A2436EE6"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "deeperdarker:otherside"
+					id: "34AEF7CC99A68EF6"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "graveyard:past"
+					id: "2DAC6360879F3AD0"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:prison"
+					id: "353F6FA15A47125B"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:promenade"
+					id: "1A81A0FFBBA26AA5"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:ramparts"
+					id: "4DD0DD79B03B7C32"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:sepulchra"
+					id: "0723615A12DBC2C1"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_end"
+					id: "07881DA6280BF05F"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_nether"
+					id: "67D5A1CCCE17ACBD"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "voidz:void"
+					id: "799CA9D5409F192A"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:black_bridge"
+					id: "0CDAF120067DE7EB"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:crypt"
+					id: "163B5EFE236AAFE1"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "spellbladenext:glassocean"
+					id: "784F5DD5641F7670"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:insufferable_crypt"
+					id: "528680892A3E160B"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "artifality:lunar_bazaar"
+					id: "7725792E9A2C0C46"
+					optional_task: true
+					type: "dimension"
+				}
+			]
+			title: "delay"
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/fantasy.png"
+				}
+			}
+			id: "101A868FE68D0260"
+			tasks: [
+				{
+					dimension: "minecraft:overworld"
+					id: "11217EE86DD0CC9E"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "deeperdarker:otherside"
+					id: "2A85950A276530A7"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "graveyard:past"
+					id: "26FF17B5B570C0B8"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:prison"
+					id: "63F350EEA97F5FBB"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:promenade"
+					id: "3DE87BAB77F68E6A"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:ramparts"
+					id: "7C5066B26CE9CCA4"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:sepulchra"
+					id: "44103D298E509FD6"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_end"
+					id: "04E995ADE97B00DB"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_nether"
+					id: "42A939F727C5B4A6"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "voidz:void"
+					id: "4A6F648A2494AD59"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:black_bridge"
+					id: "68ACF3D52EFB0211"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:crypt"
+					id: "254F858ED6029128"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "spellbladenext:glassocean"
+					id: "0E12F50F6DA0C3F4"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:insufferable_crypt"
+					id: "6A0C9DB8D9231B35"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "artifality:lunar_bazaar"
+					id: "7725F3FA606609C0"
+					optional_task: true
+					type: "dimension"
+				}
+			]
+			title: "rangeCheckS"
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			id: "3E803EFC8F3132D7"
+			invisible: true
+			tasks: [
+				{
+					id: "09137C3028C52F38"
+					type: "checkmark"
+				}
+				{
+					consume_items: true
+					id: "1ABBB46B0A543305"
+					item: "minecraft:bedrock"
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["63D61E2A46E3ADFD"]
+			id: "4605CFD25599B5DE"
+			invisible: true
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run ftbquests change_progress @p complete 5621AFD360D1AD16"
+				elevate_perms: true
+				id: "5882DABB651FCE32"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				advancement: "mobs_of_mythology:mobs_of_mythology"
+				criterion: ""
+				id: "3247BCC97181E3F8"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"5621AFD360D1AD16"
+				"3E803EFC8F3132D7"
+			]
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/fantasy.png"
+				}
+			}
+			id: "42D02FE918A95763"
+			tasks: [
+				{
+					dimension: "minecraft:overworld"
+					id: "38FE7EBF88D16AD4"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "deeperdarker:otherside"
+					id: "6E494335E715A8D3"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "graveyard:past"
+					id: "0A032B8502774EFD"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:prison"
+					id: "44230CF4EBB37511"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:promenade"
+					id: "5993400251F17839"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:ramparts"
+					id: "68BFA0536B881415"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:sepulchra"
+					id: "1E36B4B7ED24539B"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_end"
+					id: "396009B8CDE8EA8C"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_nether"
+					id: "3DB3F12894232CED"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "voidz:void"
+					id: "52FE3C9E45B8CC83"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:black_bridge"
+					id: "426487741A29F41F"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:crypt"
+					id: "00B8F121D6A9FBC6"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "spellbladenext:glassocean"
+					id: "21D588803A0E96BA"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:insufferable_crypt"
+					id: "5B396D45FDF3C231"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "artifality:lunar_bazaar"
+					id: "6A46856041366D07"
+					optional_task: true
+					type: "dimension"
+				}
+			]
+			title: "meleeCheck"
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"0F808844A0CF0018"
+				"3E803EFC8F3132D7"
+			]
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/fantasy.png"
+				}
+			}
+			id: "03F18D23080CFA3C"
+			tasks: [
+				{
+					dimension: "minecraft:overworld"
+					id: "7E312FA034958674"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "deeperdarker:otherside"
+					id: "48A673C94178427D"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "graveyard:past"
+					id: "5E8C636BED41F6F1"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:prison"
+					id: "462D620B675A6C27"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:promenade"
+					id: "7323313FF2AE6CD4"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:ramparts"
+					id: "420007AB20658BDE"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:sepulchra"
+					id: "426BF446BE95DDB0"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_end"
+					id: "1013D3A21AE8A47D"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_nether"
+					id: "11859CB523F6EC52"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "voidz:void"
+					id: "0E350AD22F8409AF"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:black_bridge"
+					id: "435A3D9C8D361D01"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:crypt"
+					id: "1A98B0A5B64FF64E"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "spellbladenext:glassocean"
+					id: "0F5AD2130BAC35E0"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:insufferable_crypt"
+					id: "16757D22F089B5FC"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "artifality:lunar_bazaar"
+					id: "61623F7344642037"
+					optional_task: true
+					type: "dimension"
+				}
+			]
+			title: "noviceCheck"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3E803EFC8F3132D7"]
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/fantasy.png"
+				}
+			}
+			id: "648E60FB2EF29A5D"
+			min_required_dependencies: 1
+			tasks: [
+				{
+					dimension: "minecraft:overworld"
+					id: "33EBF4AC042EE0FA"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "deeperdarker:otherside"
+					id: "459E86D60C0D23E7"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "graveyard:past"
+					id: "1833D8B7942BE9F4"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:prison"
+					id: "320288B950054510"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:promenade"
+					id: "655248232D101E9B"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:ramparts"
+					id: "488E9F4979D06F26"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:sepulchra"
+					id: "140DB6C1CCA0BA2E"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_end"
+					id: "1A8BBE7295F0C089"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_nether"
+					id: "278A6C37570D4010"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "voidz:void"
+					id: "5BFA4A867335793A"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:black_bridge"
+					id: "47156E6B7584DB71"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:crypt"
+					id: "11C3ED8C5C840026"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "spellbladenext:glassocean"
+					id: "7B30BA9634E2965D"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:insufferable_crypt"
+					id: "4A27CB60337F949A"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "artifality:lunar_bazaar"
+					id: "1FE13C2A5ED2E7CD"
+					optional_task: true
+					type: "dimension"
+				}
+			]
+			title: "rangeCheck"
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/fantasy.png"
+				}
+			}
+			id: "63D61E2A46E3ADFD"
+			tasks: [
+				{
+					dimension: "minecraft:overworld"
+					id: "3C7A672E96C2377F"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "deeperdarker:otherside"
+					id: "07B213043F81C08B"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "graveyard:past"
+					id: "1E307DA2330076E3"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:prison"
+					id: "0467C583C798AEFF"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:promenade"
+					id: "34DC7E52BA6D5347"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:ramparts"
+					id: "659DBE02F521B815"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:sepulchra"
+					id: "424D8FCAB4C0C873"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_end"
+					id: "33B7AB9F3E1C2A4B"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_nether"
+					id: "3BC40E9BAA6DBEE5"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "voidz:void"
+					id: "6267582C19B3A8E3"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:black_bridge"
+					id: "7D70EEE60614C381"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:crypt"
+					id: "22C09BECFCF4C837"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "spellbladenext:glassocean"
+					id: "445830BC1269838C"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:insufferable_crypt"
+					id: "38065F03305ADFAC"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "artifality:lunar_bazaar"
+					id: "047E6E96B4A8A15A"
+					optional_task: true
+					type: "dimension"
+				}
+			]
+			title: "meleeCheckS"
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2F9152050B16C86F"]
+			id: "7D1C7A550B010B93"
+			invisible: true
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run ftbquests change_progress @p complete 0F808844A0CF0018"
+				elevate_perms: true
+				id: "22794FF9E373912F"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				advancement: "mobs_of_mythology:mobs_of_mythology"
+				criterion: ""
+				id: "22522B983FB9775D"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/fantasy.png"
+				}
+			}
+			id: "2F9152050B16C86F"
+			tasks: [
+				{
+					dimension: "minecraft:overworld"
+					id: "5CC3B285E3E772E0"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "deeperdarker:otherside"
+					id: "36C9D85179A10E54"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "graveyard:past"
+					id: "0A3D732CD7665465"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:prison"
+					id: "04DB25DF3247E78D"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:promenade"
+					id: "313B22F076570D87"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:ramparts"
+					id: "431C2F89A546C2F6"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:sepulchra"
+					id: "3EB613EF6D8B40DA"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_end"
+					id: "10B6819E6720BA16"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_nether"
+					id: "388019375F250665"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "voidz:void"
+					id: "655BC8361E349A56"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:black_bridge"
+					id: "6E81A0AF93C755D3"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:crypt"
+					id: "238CA881504E8600"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "spellbladenext:glassocean"
+					id: "25AD5BE77895D45C"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:insufferable_crypt"
+					id: "162F3A1571BE41F0"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "artifality:lunar_bazaar"
+					id: "4AFDACFB363320D7"
+					optional_task: true
+					type: "dimension"
+				}
+			]
+			title: "noviceCheckS"
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			id: "0F808844A0CF0018"
+			invisible: true
+			tasks: [
+				{
+					id: "69F200FED6AA04D5"
+					type: "checkmark"
+				}
+				{
+					consume_items: true
+					id: "347DFFB59F9C841D"
+					item: "minecraft:bedrock"
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			id: "5621AFD360D1AD16"
+			invisible: true
+			tasks: [
+				{
+					id: "0EC54645D53A9B31"
+					type: "checkmark"
+				}
+				{
+					consume_items: true
+					id: "2876775950044235"
+					item: "minecraft:bedrock"
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2E044DB2CF093176"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/fantasy.png"
+				}
+			}
+			id: "4542A493D737691B"
+			invisible: true
+			size: 2.0d
+			subtitle: "W.I.P"
+			tasks: [
+				{
+					dimension: "minecraft:overworld"
+					disable_toast: true
+					id: "7878249619F76654"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "deeperdarker:otherside"
+					disable_toast: true
+					id: "133D4A5F4C54CC3B"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "graveyard:past"
+					disable_toast: true
+					id: "3A79AD63C8C9EBBD"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:prison"
+					disable_toast: true
+					id: "0F2712C1195B3F02"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:promenade"
+					disable_toast: true
+					id: "5F863829BDC5BF0E"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:ramparts"
+					disable_toast: true
+					id: "59368E477E6B04B6"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:sepulchra"
+					disable_toast: true
+					id: "1CC6D5B8B1B8DEB7"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_end"
+					disable_toast: true
+					id: "321405752E092FBD"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_nether"
+					disable_toast: true
+					id: "71F73A8C0F1464B4"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "voidz:void"
+					disable_toast: true
+					id: "58304EF68EBD6019"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:black_bridge"
+					disable_toast: true
+					id: "426585D9A71A8B71"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:crypt"
+					disable_toast: true
+					id: "3A0B27C181E527A1"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "spellbladenext:glassocean"
+					disable_toast: true
+					id: "3DC6666D096473E9"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:insufferable_crypt"
+					disable_toast: true
+					id: "4564206DAF9209A9"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "artifality:lunar_bazaar"
+					disable_toast: true
+					id: "75287618560E9598"
+					optional_task: true
+					type: "dimension"
+				}
+			]
+			title: "NoviceUnlock"
+			x: 0.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["227657AB200A346C"]
+			disable_toast: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/fantasy.png"
+				}
+			}
+			id: "2FCD700EEBC48246"
+			size: 2.0d
+			tasks: [
+				{
+					dimension: "minecraft:overworld"
+					disable_toast: true
+					id: "305C1C9E2F3C743C"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "deeperdarker:otherside"
+					disable_toast: true
+					id: "66FB182EDDB4F438"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "graveyard:past"
+					disable_toast: true
+					id: "145448C43A5A3D0C"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:prison"
+					disable_toast: true
+					id: "7704E84F21692482"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:promenade"
+					disable_toast: true
+					id: "3B9F8666F6E7E40F"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:ramparts"
+					disable_toast: true
+					id: "2EC66DC0CBFD0FE0"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:sepulchra"
+					disable_toast: true
+					id: "7FFABCFCC62E4C17"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_end"
+					disable_toast: true
+					id: "7953D3BC068CE1C2"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_nether"
+					disable_toast: true
+					id: "3FC3AA7128383B32"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "voidz:void"
+					disable_toast: true
+					id: "49B744F87853F8E5"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:black_bridge"
+					disable_toast: true
+					id: "59992EEAD6109F16"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:crypt"
+					disable_toast: true
+					id: "333E7B271D1526DC"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "spellbladenext:glassocean"
+					disable_toast: true
+					id: "27C4D9A34A69C7ED"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:insufferable_crypt"
+					disable_toast: true
+					id: "20CF9E3A6137D9E2"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "artifality:lunar_bazaar"
+					disable_toast: true
+					id: "1B46350275EDF4A7"
+					optional_task: true
+					type: "dimension"
+				}
+			]
+			title: "ArcheryUnlock"
+			x: 3.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["2D4B8304E03C11D8"]
+			disable_toast: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/fantasy.png"
+				}
+			}
+			id: "39FE7E63FE7D74E2"
+			size: 2.0d
+			tasks: [
+				{
+					dimension: "minecraft:overworld"
+					disable_toast: true
+					id: "792B5C7270894434"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "deeperdarker:otherside"
+					disable_toast: true
+					id: "0E7F08419290F5B8"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "graveyard:past"
+					disable_toast: true
+					id: "2F36C6E299F33CBB"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:prison"
+					disable_toast: true
+					id: "1489ABC24A561D43"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:promenade"
+					disable_toast: true
+					id: "3050EA675EF3742C"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:ramparts"
+					disable_toast: true
+					id: "72F55D2625FCC3B2"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:sepulchra"
+					disable_toast: true
+					id: "555C32FC886384DE"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_end"
+					disable_toast: true
+					id: "1DE3F75F68E864F0"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_nether"
+					disable_toast: true
+					id: "2C81C12DA873C1CB"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "voidz:void"
+					disable_toast: true
+					id: "003FA9AFCF64AFA1"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:black_bridge"
+					disable_toast: true
+					id: "762958042FB8A004"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:crypt"
+					disable_toast: true
+					id: "29C922CFE68F1439"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "spellbladenext:glassocean"
+					disable_toast: true
+					id: "00B2CCBC19C2589F"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:insufferable_crypt"
+					disable_toast: true
+					id: "795B3B4080DE76E7"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "artifality:lunar_bazaar"
+					disable_toast: true
+					id: "24E001BB6856C422"
+					optional_task: true
+					type: "dimension"
+				}
+			]
+			title: "ArsenalUnlock"
+			x: -2.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"2E044DB2CF093176"
+				"227657AB200A346C"
+				"2D4B8304E03C11D8"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/fantasy.png"
+				}
+			}
+			id: "33954EDE0C8E4CA6"
+			invisible: true
+			min_required_dependencies: 1
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @s run tellraw @p [{\"text\":\"\",\"color\":\"gray\"},{\"text\":\"You unlocked a new chapter in the Weaponry Chapter Group!\",\"color\":\"yellow\"}]"
+				elevate_perms: true
+				id: "498E13890D71BEAC"
+				silent: true
+				type: "command"
+			}]
+			size: 2.0d
+			subtitle: "1"
+			tasks: [
+				{
+					dimension: "minecraft:overworld"
+					disable_toast: true
+					id: "26A902CDBE11A6C0"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "deeperdarker:otherside"
+					disable_toast: true
+					id: "7B810F980DC5EDC6"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "graveyard:past"
+					disable_toast: true
+					id: "3F08E95EA091AE26"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:prison"
+					disable_toast: true
+					id: "27A4A19FC9966FF1"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:promenade"
+					disable_toast: true
+					id: "58A149B9E92E4700"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:ramparts"
+					disable_toast: true
+					id: "0BCDC64A95FB82F7"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:sepulchra"
+					disable_toast: true
+					id: "27347DAF9A6295A9"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_end"
+					disable_toast: true
+					id: "5A9896D1DD68C28D"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_nether"
+					disable_toast: true
+					id: "11C5E9C1519D687F"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "voidz:void"
+					disable_toast: true
+					id: "5AEE3C1406526378"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:black_bridge"
+					disable_toast: true
+					id: "65B8365C73E2E06C"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:crypt"
+					disable_toast: true
+					id: "5BAB56C390E2EEAD"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "spellbladenext:glassocean"
+					disable_toast: true
+					id: "4B1155F2529A3B80"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:insufferable_crypt"
+					disable_toast: true
+					id: "49C52EB6D652C5DC"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "artifality:lunar_bazaar"
+					disable_toast: true
+					id: "45434ED5C28FDD07"
+					optional_task: true
+					type: "dimension"
+				}
+			]
+			title: "NoviceUnlock"
+			x: -2.0d
+			y: 7.0d
+		}
+		{
+			dependencies: [
+				"2E044DB2CF093176"
+				"227657AB200A346C"
+				"2D4B8304E03C11D8"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/fantasy.png"
+				}
+			}
+			id: "527FE7EC90064370"
+			invisible: true
+			min_required_dependencies: 2
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @s run tellraw @p [{\"text\":\"\",\"color\":\"gray\"},{\"text\":\"You unlocked a new chapter in the Weaponry Chapter Group!\",\"color\":\"yellow\"}]"
+				elevate_perms: true
+				id: "10A355A468454DAD"
+				silent: true
+				type: "command"
+			}]
+			size: 2.0d
+			subtitle: "2"
+			tasks: [
+				{
+					dimension: "minecraft:overworld"
+					disable_toast: true
+					id: "05FE8339382B3837"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "deeperdarker:otherside"
+					disable_toast: true
+					id: "5FDB6E5A7A8581B4"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "graveyard:past"
+					disable_toast: true
+					id: "4949590984EA3075"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:prison"
+					disable_toast: true
+					id: "5F0CC94C72221F78"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:promenade"
+					disable_toast: true
+					id: "59954A5C21CA8A50"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:ramparts"
+					disable_toast: true
+					id: "644A0A610729C5AA"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:sepulchra"
+					disable_toast: true
+					id: "0F1ECAF42E234E9F"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_end"
+					disable_toast: true
+					id: "6096AE4EAE8B9E0D"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_nether"
+					disable_toast: true
+					id: "661F024EF3D70FB4"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "voidz:void"
+					disable_toast: true
+					id: "13B206596F49CF85"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:black_bridge"
+					disable_toast: true
+					id: "3088E0DC81B231B2"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:crypt"
+					disable_toast: true
+					id: "04F78040634AAE12"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "spellbladenext:glassocean"
+					disable_toast: true
+					id: "49A44E340367BD81"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:insufferable_crypt"
+					disable_toast: true
+					id: "7CAFB26A1366F9ED"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "artifality:lunar_bazaar"
+					disable_toast: true
+					id: "388ADEBCD145DEBB"
+					optional_task: true
+					type: "dimension"
+				}
+			]
+			title: "NoviceUnlock"
+			x: 0.25d
+			y: 7.25d
+		}
+		{
+			dependencies: [
+				"2E044DB2CF093176"
+				"227657AB200A346C"
+				"2D4B8304E03C11D8"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/fantasy.png"
+				}
+			}
+			id: "5EDE17715D98C2AC"
+			invisible: true
+			min_required_dependencies: 3
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @s run tellraw @p [{\"text\":\"\",\"color\":\"gray\"},{\"text\":\"You unlocked a new chapter in the Weaponry Chapter Group!\",\"color\":\"yellow\"}]"
+				elevate_perms: true
+				id: "23BAC817AB106401"
+				silent: true
+				type: "command"
+			}]
+			size: 2.0d
+			subtitle: "3"
+			tasks: [
+				{
+					dimension: "minecraft:overworld"
+					disable_toast: true
+					id: "6FC4D90735B336EC"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "deeperdarker:otherside"
+					disable_toast: true
+					id: "39D99A0575D3E287"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "graveyard:past"
+					disable_toast: true
+					id: "193C4588301CFD26"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:prison"
+					disable_toast: true
+					id: "54510A39090D5A64"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:promenade"
+					disable_toast: true
+					id: "5CD56FDA509FEFC6"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:ramparts"
+					disable_toast: true
+					id: "4BAF17179CDFA947"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:sepulchra"
+					disable_toast: true
+					id: "7A73AE1ED3A15484"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_end"
+					disable_toast: true
+					id: "2F7CAB1DE9E3360C"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_nether"
+					disable_toast: true
+					id: "7662694FCE9D472A"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "voidz:void"
+					disable_toast: true
+					id: "64012BECBC5F964E"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:black_bridge"
+					disable_toast: true
+					id: "64C098E369FA995B"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:crypt"
+					disable_toast: true
+					id: "020A3C009EEA1C73"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "spellbladenext:glassocean"
+					disable_toast: true
+					id: "5381A88E22FC0FBC"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:insufferable_crypt"
+					disable_toast: true
+					id: "3DC08D6CA4D3AFA6"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "artifality:lunar_bazaar"
+					disable_toast: true
+					id: "1E575DBBD924079D"
+					optional_task: true
+					type: "dimension"
+				}
+			]
+			title: "NoviceUnlock"
+			x: 3.0d
+			y: 7.0d
+		}
+	]
+	title: "TrainingGroundsCommands"
+}

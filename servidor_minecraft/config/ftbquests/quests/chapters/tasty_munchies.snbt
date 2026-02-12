@@ -1,0 +1,1806 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "tasty_munchies"
+	group: "7DDF61ACA25A05AB"
+	id: "6F3E47F21218FA40"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			id: "4376441294B36DB0"
+			rewards: [{
+				id: "623E2200CE251874"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "I think the beef just moo'ed?"
+			tasks: [{
+				id: "3B1A9A93E208D917"
+				item: "artifacts:everlasting_beef"
+				type: "item"
+			}]
+			x: 1.25d
+			y: -1.0d
+		}
+		{
+			dependencies: ["4376441294B36DB0"]
+			id: "56B609852BF53A6E"
+			invisible: true
+			rewards: [{
+				id: "3D0A85F7AA556CE0"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Preferably cooked and not moo'ing"
+			tasks: [{
+				id: "0B0E23593327962A"
+				item: "artifacts:eternal_steak"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "20897B077BAEA754"
+			rewards: [{
+				id: "4A1F32C56B78B508"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "A sudden urge to eat this onion ring..."
+			tasks: [{
+				id: "3B9733DA4EEAC7B6"
+				item: "artifacts:onion_ring"
+				type: "item"
+			}]
+			x: 1.75d
+			y: 0.0d
+		}
+		{
+			id: "578177EC70E90756"
+			rewards: [{
+				id: "51CDAF890DE5A6A3"
+				item: "aquamirae:sea_stew"
+				type: "item"
+			}]
+			subtitle: "Seafoody"
+			tasks: [{
+				id: "79303C641053855F"
+				item: "aquamirae:sea_stew"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["578177EC70E90756"]
+			id: "29856DF6E0FD83B9"
+			rewards: [{
+				id: "51303009D209D51D"
+				item: "aquamirae:poseidons_breakfast"
+				type: "item"
+			}]
+			subtitle: "How did all of this fit in to one bowl?"
+			tasks: [{
+				id: "1F925443D274690B"
+				item: "aquamirae:poseidons_breakfast"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			id: "7CDA740BE671E10C"
+			rewards: [{
+				id: "0CFE3EE4DEFBC1FE"
+				item: "soaringstructures2:heavenly_cookies"
+				type: "item"
+			}]
+			subtitle: "Best served with cookies!"
+			tasks: [{
+				id: "7190A17FEFF67FD5"
+				item: "soaringstructures2:heavenly_tea"
+				type: "item"
+			}]
+			x: 5.25d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7CDA740BE671E10C"]
+			id: "1180DC48600D9226"
+			rewards: [{
+				id: "203ED8C0A56A263D"
+				item: "soaringstructures2:heavenly_tea_with_cookies"
+				type: "item"
+			}]
+			subtitle: "Tastes heavenly"
+			tasks: [{
+				id: "150D9AD14499AD1D"
+				item: "soaringstructures2:heavenly_tea_with_cookies"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 0.0d
+		}
+		{
+			id: "37649C56504478A5"
+			rewards: [{
+				id: "59B5CE58B889EB34"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "43268CFB1FE63E1A"
+				item: "bakery:croissant"
+				type: "item"
+			}]
+			x: -2.75d
+			y: 2.0d
+		}
+		{
+			id: "2FB1CBA6878839E1"
+			rewards: [{
+				id: "7DF16AE067D4B7D8"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "5A2470BAC8DA1A36"
+				item: "bakery:crusty_bread"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			id: "24AD05798F3BF1A2"
+			rewards: [{
+				id: "0796E82E676849D4"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "42E02DC63EB062F2"
+				item: "bakery:bread"
+				type: "item"
+			}]
+			x: 0.75d
+			y: 2.0d
+		}
+		{
+			id: "7B204E15562E07FD"
+			rewards: [{
+				id: "6E72936B3DDEA63D"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "2312DCFB66C173AF"
+				item: "bakery:baguette"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 2.0d
+		}
+		{
+			id: "1A5D928C50CBFD8D"
+			rewards: [{
+				id: "02F27BE99782F793"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "6A932AAA30E94664"
+				item: "bakery:toast"
+				type: "item"
+			}]
+			x: 5.75d
+			y: 2.0d
+		}
+		{
+			id: "2FF4F04A9D107DCA"
+			rewards: [{
+				id: "14E322CFC930FD4D"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "21E96D6013117E9F"
+				item: "bakery:braided_bread"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 2.0d
+		}
+		{
+			id: "0590AC79BF3F47A5"
+			rewards: [{
+				id: "0AFCE2BFA9B1DCFE"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "3A7E3CE97C2CF89F"
+				item: "bakery:bun"
+				type: "item"
+			}]
+			x: 9.25d
+			y: 2.0d
+		}
+		{
+			id: "2A0C3BAE74989EBA"
+			rewards: [{
+				id: "1E85862C71273942"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "27B6B3A607BBD021"
+				item: "bakery:strawberry_glazed_cookie"
+				type: "item"
+			}]
+			x: 5.75d
+			y: 3.25d
+		}
+		{
+			id: "5BB908EA5F7BCE82"
+			rewards: [{
+				id: "4AAAC9DE4E1610E3"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "303E05C4579F6B9E"
+				item: "bakery:sweetberry_glazed_cookie"
+				type: "item"
+			}]
+			x: 4.75d
+			y: 4.5d
+		}
+		{
+			id: "167E5BF361291222"
+			rewards: [{
+				id: "61066ECCFAA29CFE"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "134F3875D373CE92"
+				item: "bakery:chocolate_glazed_cookie"
+				type: "item"
+			}]
+			x: 3.25d
+			y: 5.5d
+		}
+		{
+			id: "39C950D20CB1F08D"
+			rewards: [{
+				id: "19D1593780C2E2E5"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "46D9D1429D920526"
+				item: "bakery:strawberry_cupcake"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.25d
+		}
+		{
+			id: "379362F4B24EAA41"
+			rewards: [{
+				id: "0D2CF6C2DCFA4508"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "7E7EFDB7945F1D12"
+				item: "bakery:sweetberry_cupcake"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			id: "6E735C963C5CE0F7"
+			rewards: [{
+				id: "362A09CEEB9D8D55"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "4962B9B0EC30A2AE"
+				item: "bakery:apple_cupcake"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.75d
+		}
+		{
+			id: "0D2205F72226448A"
+			rewards: [{
+				id: "104D411E727E6FC6"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "4317781D50D9EA25"
+				item: "bakery:jam_roll"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 4.5d
+		}
+		{
+			id: "3D5BEA96E8169E71"
+			rewards: [{
+				id: "3F3EC7D131D8EB11"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "31B2810C26A35B13"
+				item: "bakery:cornet"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 5.75d
+		}
+		{
+			id: "20CDA17E1D3BBE10"
+			rewards: [{
+				id: "295AEF790A1D5261"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "6DA54F4955FC537E"
+				item: "farmersdelight:sweet_berry_cookie"
+				type: "item"
+			}]
+			x: 1.75d
+			y: 4.5d
+		}
+		{
+			id: "419404678F7231FF"
+			rewards: [{
+				id: "2C4053C1FB1D78D8"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "5982C2B9FB0890E4"
+				item: "farmersdelight:honey_cookie"
+				type: "item"
+			}]
+			x: 0.75d
+			y: 3.25d
+		}
+		{
+			id: "195F069DA35A202B"
+			rewards: [{
+				id: "11B220CE3214B771"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "495184C1BAA4BD7A"
+				item: "bewitchment:garlic_bread"
+				type: "item"
+			}]
+			x: 11.0d
+			y: 2.0d
+		}
+		{
+			id: "20179C9B3A6CB727"
+			rewards: [{
+				count: 5
+				id: "5A96F95161FE9DC9"
+				item: "bosses_of_mass_destruction:crystal_fruit"
+				type: "item"
+			}]
+			subtitle: "Tastes funny"
+			tasks: [{
+				id: "5D6B459D4FD7BB87"
+				item: "bosses_of_mass_destruction:crystal_fruit"
+				type: "item"
+			}]
+			x: 3.25d
+			y: 0.0d
+		}
+		{
+			id: "1636A5BAFC54B21E"
+			rewards: [{
+				id: "095FCE21767AEEC8"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			subtitle: "Sweet"
+			tasks: [{
+				id: "26A550DCBFD1CD91"
+				item: "farmersdelight:apple_cider"
+				type: "item"
+			}]
+			x: -0.75d
+			y: 1.0d
+		}
+		{
+			id: "31A2B615AD28B11B"
+			rewards: [{
+				id: "0586338EA8DBC83C"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			subtitle: "Glowy..."
+			tasks: [{
+				id: "5DD73D6F835192F6"
+				item: "farmersdelight:glow_berry_custard"
+				type: "item"
+			}]
+			x: 0.75d
+			y: 1.0d
+		}
+		{
+			id: "43EBAF6684AEEDD6"
+			rewards: [{
+				id: "2054889EC0917E2E"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			subtitle: "Good for your health!"
+			tasks: [{
+				id: "7FFDDFAE0BC13970"
+				item: "farmersdelight:fruit_salad"
+				type: "item"
+			}]
+			x: 5.75d
+			y: 1.0d
+		}
+		{
+			id: "6B75E46FF0C4C446"
+			rewards: [{
+				id: "066266CEFFE78CAC"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			subtitle: "Good for your health!"
+			tasks: [{
+				id: "5F56E5F55B3AF405"
+				item: "farmersdelight:mixed_salad"
+				type: "item"
+			}]
+			x: 7.25d
+			y: 1.0d
+		}
+		{
+			id: "7197A987AD812DAE"
+			rewards: [{
+				id: "4812F491B454A87F"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "68A018DA1E502AE2"
+				item: "farmersdelight:egg_sandwich"
+				type: "item"
+			}]
+			x: -2.25d
+			y: 7.75d
+		}
+		{
+			id: "029F35679D3021D3"
+			rewards: [{
+				id: "57FC9270BDE56D00"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "25FB77D9EA5D720B"
+				item: "farmersdelight:chicken_sandwich"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 7.75d
+		}
+		{
+			id: "33EC84BE6F24E16F"
+			rewards: [{
+				id: "5ABEFF9E8734BEB3"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "12EAA602FF1DFB7B"
+				item: "farmersdelight:hamburger"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 7.75d
+		}
+		{
+			id: "00E6CA6B55D0E326"
+			rewards: [{
+				id: "061B7ED2C7D82091"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "7E56480FC94D2047"
+				item: "farmersdelight:bacon_sandwich"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 7.75d
+		}
+		{
+			id: "75869DB3AF179B4C"
+			rewards: [{
+				id: "0E42CC863F2C5B72"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "5AAEF1D98969631A"
+				item: "bakery:sandwich"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 7.75d
+		}
+		{
+			id: "06EC917F0BC42748"
+			rewards: [{
+				id: "0A795605E50302F2"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "3EBEFA2A3AD5461C"
+				item: "meadow:cheese_sandwich"
+				type: "item"
+			}]
+			x: 8.5d
+			y: 7.75d
+		}
+		{
+			id: "13929DE1D405BAD8"
+			rewards: [{
+				id: "2E1E6F97BF4609BF"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "07E765EFF2CB5273"
+				item: "farmersdelight:beef_stew"
+				type: "item"
+			}]
+			x: 3.25d
+			y: 10.75d
+		}
+		{
+			id: "5FB19825A1C3B1BC"
+			rewards: [{
+				id: "63927231E4EB7AD4"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "616424E2E523F543"
+				item: "farmersdelight:chicken_soup"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 8.75d
+		}
+		{
+			id: "354323559ADC686C"
+			rewards: [{
+				id: "5C48BAD25FB86A2A"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "76FF00218DE15655"
+				item: "farmersdelight:vegetable_soup"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 8.75d
+		}
+		{
+			id: "12068FEF66F26492"
+			rewards: [{
+				id: "5FAF5A4C495064CC"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "25B3A7808AFC7CFA"
+				item: "farmersdelight:fish_stew"
+				type: "item"
+			}]
+			x: 0.25d
+			y: 8.75d
+		}
+		{
+			id: "1E46875FBF960C29"
+			rewards: [{
+				id: "60F2E9D9F26407E4"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "29AB1DC1EB991A2F"
+				item: "farmersdelight:fried_rice"
+				type: "item"
+			}]
+			x: 1.75d
+			y: 8.75d
+		}
+		{
+			id: "38746A4A9EFC5810"
+			rewards: [{
+				id: "6540E688E220C9BE"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "3E05340624A950FB"
+				item: "farmersdelight:pumpkin_soup"
+				type: "item"
+			}]
+			x: 3.25d
+			y: 8.75d
+		}
+		{
+			id: "51E23018A0B6FB23"
+			rewards: [{
+				id: "3064E02C08CB2B9B"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "21F9C880045B211C"
+				item: "farmersdelight:baked_cod_stew"
+				type: "item"
+			}]
+			x: 4.75d
+			y: 8.75d
+		}
+		{
+			id: "0D4151B333D8B29B"
+			rewards: [{
+				id: "30B5ECCEA7ECEEA0"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "46BD4393F8E0A81E"
+				item: "farmersdelight:bacon_and_eggs"
+				type: "item"
+			}]
+			x: 6.25d
+			y: 8.75d
+		}
+		{
+			id: "69941E64A1FA4AC9"
+			rewards: [{
+				id: "13D57A0F0FF030F9"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "375AD53EF3B42B59"
+				item: "farmersdelight:noodle_soup"
+				type: "item"
+			}]
+			x: 7.75d
+			y: 8.75d
+		}
+		{
+			id: "550B517EE9ABF1C9"
+			rewards: [{
+				id: "54683818FA754134"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "352CFD1F8D9BE3AD"
+				item: "farmersdelight:pasta_with_meatballs"
+				type: "item"
+			}]
+			x: 9.25d
+			y: 8.75d
+		}
+		{
+			id: "58C1EAE5B06468E6"
+			rewards: [{
+				id: "5B16722CA4AA19E4"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "2A929696110A36CA"
+				item: "farmersdelight:pasta_with_mutton_chop"
+				type: "item"
+			}]
+			x: 2.25d
+			y: 10.75d
+		}
+		{
+			id: "5371D44C377DF368"
+			rewards: [{
+				id: "001517D8691FB4CE"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "6FB6D7817ED93A43"
+				item: "farmersdelight:mushroom_rice"
+				type: "item"
+			}]
+			x: -3.25d
+			y: 9.75d
+		}
+		{
+			id: "55CF6C4BEFB4F307"
+			rewards: [{
+				id: "44B30D1751048FD1"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "41605F4E1CC10F74"
+				item: "farmersdelight:roasted_mutton_chops"
+				type: "item"
+			}]
+			x: -1.75d
+			y: 9.75d
+		}
+		{
+			id: "530540508FF21133"
+			rewards: [{
+				id: "6A9E5A9EAEAE5023"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "55817C65F41BADE9"
+				item: "farmersdelight:vegetable_noodles"
+				type: "item"
+			}]
+			x: -0.25d
+			y: 9.75d
+		}
+		{
+			id: "750207F3064B8600"
+			rewards: [{
+				id: "587BBCA5494ACE64"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "1E82D4E72A307001"
+				item: "farmersdelight:steak_and_potatoes"
+				type: "item"
+			}]
+			x: 1.25d
+			y: 9.75d
+		}
+		{
+			id: "5F0A1F61251E3292"
+			rewards: [{
+				id: "7ABF5587808B021A"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "5D3C996AB166BA32"
+				item: "farmersdelight:ratatouille"
+				type: "item"
+			}]
+			x: 2.75d
+			y: 9.75d
+		}
+		{
+			id: "672DC0B280DFA82A"
+			rewards: [{
+				id: "0C987D7E9B07C4C7"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "49FBEDEE26F24DC1"
+				item: "farmersdelight:squid_ink_pasta"
+				type: "item"
+			}]
+			x: 3.75d
+			y: 9.75d
+		}
+		{
+			id: "5ED483F7C45274B9"
+			rewards: [{
+				id: "4FEADBEB9505619B"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "34DBDAB2EA02097F"
+				item: "farmersdelight:grilled_salmon"
+				type: "item"
+			}]
+			x: 5.25d
+			y: 9.75d
+		}
+		{
+			id: "3CECE45AEED76DE3"
+			rewards: [{
+				id: "332200CB72FD25EB"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "6F0866C79CD4F05F"
+				item: "farmersdelight:roast_chicken"
+				type: "item"
+			}]
+			x: 6.75d
+			y: 9.75d
+		}
+		{
+			id: "474FEFBEB6CAD299"
+			rewards: [{
+				id: "2D59E6BBAEA5E506"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "2456F6BD710E6A75"
+				item: "farmersdelight:stuffed_pumpkin"
+				type: "item"
+			}]
+			x: 8.25d
+			y: 9.75d
+		}
+		{
+			id: "4A1634C89505C1F4"
+			rewards: [{
+				id: "42ABEA580834352B"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "0F1416F1FDAE71BC"
+				item: "farmersdelight:honey_glazed_ham"
+				type: "item"
+			}]
+			x: 9.75d
+			y: 9.75d
+		}
+		{
+			id: "41558D088E0EA060"
+			rewards: [{
+				id: "6CCD6A4DC4FEA2E2"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "3E7E328A47AB5A84"
+				item: "farmersdelight:shepherds_pie"
+				type: "item"
+			}]
+			x: 4.25d
+			y: 10.75d
+		}
+		{
+			id: "07FFE7A7DC8C090A"
+			rewards: [{
+				id: "6D252E8508EEA066"
+				item: "loot_n_explore:green_chilli"
+				type: "item"
+			}]
+			tasks: [{
+				id: "135E7BB2FC488997"
+				item: "loot_n_explore:green_chilli"
+				type: "item"
+			}]
+			x: 1.75d
+			y: -2.0d
+		}
+		{
+			id: "516D5CB4817530C4"
+			rewards: [{
+				id: "2056F4289A3A2E4C"
+				item: "loot_n_explore:sweet_chilli"
+				type: "item"
+			}]
+			tasks: [{
+				id: "77FFBA90C5FF2E2C"
+				item: "loot_n_explore:sweet_chilli"
+				type: "item"
+			}]
+			x: 3.25d
+			y: -2.0d
+		}
+		{
+			id: "0F0379D731550F80"
+			rewards: [{
+				id: "7EC435D65C2693A4"
+				item: "loot_n_explore:hot_chilli"
+				type: "item"
+			}]
+			tasks: [{
+				id: "413F09ECAB5E22BC"
+				item: "loot_n_explore:hot_chilli"
+				type: "item"
+			}]
+			x: 4.75d
+			y: -2.0d
+		}
+		{
+			id: "51D20361DFF839D5"
+			rewards: [{
+				count: 16
+				id: "710C4FCCD61C1BD9"
+				item: "malum:chunk_of_brilliance"
+				type: "item"
+			}]
+			subtitle: "Eat to get experience points!"
+			tasks: [{
+				id: "641EBCD05265FF1F"
+				item: { Count: 64, id: "malum:chunk_of_brilliance" }
+				type: "item"
+			}]
+			x: 4.75d
+			y: 0.0d
+		}
+		{
+			id: "7BCE0EDEF0458EDF"
+			rewards: [{
+				id: "2AEDB4A1D56C793B"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "69B13524B068D9E6"
+				item: "netherdepthsupgrade:grilled_lava_pufferfish"
+				type: "item"
+			}]
+			x: -5.0d
+			y: 15.206462585034004d
+		}
+		{
+			id: "7B5C3748F02C34AE"
+			rewards: [{
+				id: "556ACF87C789FE6B"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "7166BCD4F9885A10"
+				item: "netherdepthsupgrade:grilled_obsidianfish"
+				type: "item"
+			}]
+			x: -3.75d
+			y: 15.206462585034004d
+		}
+		{
+			id: "31065C8B21AA3ED0"
+			rewards: [{
+				id: "4FD30A5BD3D822AA"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "72E5D6E43B6507AD"
+				item: "netherdepthsupgrade:grilled_searing_cod"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 15.206462585034004d
+		}
+		{
+			id: "2D549F339A87C8BF"
+			rewards: [{
+				id: "00E19DE44D25D55F"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "41027CA061ED7B84"
+				item: "netherdepthsupgrade:grilled_blazefish"
+				type: "item"
+			}]
+			x: -1.25d
+			y: 15.206462585034004d
+		}
+		{
+			id: "66521BC84A31C54B"
+			rewards: [{
+				id: "7E607EA01119924D"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "620B6AC458F3CBC6"
+				item: "netherdepthsupgrade:grilled_magmacubefish"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 15.206462585034004d
+		}
+		{
+			id: "050D21AF565B39A0"
+			rewards: [{
+				id: "79073AA8DAFB5E3F"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "48E35F1D6AB7F5D7"
+				item: "netherdepthsupgrade:grilled_glowdine"
+				type: "item"
+			}]
+			x: 1.25d
+			y: 15.206462585034004d
+		}
+		{
+			id: "0277CDB667AAA846"
+			rewards: [{
+				id: "6A3C14C050CB28D4"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "5D9C3C18F655AB81"
+				item: "netherdepthsupgrade:grilled_soulsucker"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 15.206462585034004d
+		}
+		{
+			id: "572FB496243EC486"
+			rewards: [{
+				id: "60F1A9E782EAEDE4"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "6B4783A576A5CE93"
+				item: "netherdepthsupgrade:baked_lava_pufferfish_stew"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 15.206462585034004d
+		}
+		{
+			id: "55E38A4496F770F1"
+			rewards: [{
+				id: "7F8D06EAAAFB5E95"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "664AF27C56329646"
+				item: "netherdepthsupgrade:baked_obsidianfish_stew"
+				type: "item"
+			}]
+			x: 6.25d
+			y: 15.206462585034004d
+		}
+		{
+			id: "45B9666B2210BAB5"
+			rewards: [{
+				id: "2C00A769A14B707B"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "126002E066A0FA88"
+				item: "netherdepthsupgrade:baked_searing_cod_stew"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 15.206462585034004d
+		}
+		{
+			id: "2A2DA8D3DC43E4A7"
+			rewards: [{
+				id: "7BC649E2CACFF970"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "1D25593E3EFB7321"
+				item: "netherdepthsupgrade:baked_blazefish_stew"
+				type: "item"
+			}]
+			x: 8.75d
+			y: 15.206462585034004d
+		}
+		{
+			id: "64C42335D457A4F1"
+			rewards: [{
+				id: "5C68AAD4EA6D3FF9"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "66037643ADBB4031"
+				item: "netherdepthsupgrade:baked_magmacubefish_stew"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 15.206462585034004d
+		}
+		{
+			id: "605ED84A14A48447"
+			rewards: [{
+				id: "3931F2B614CA9AFD"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "21EAF2F63FF65236"
+				item: "netherdepthsupgrade:baked_glowdine_stew"
+				type: "item"
+			}]
+			x: 11.25d
+			y: 15.206462585034004d
+		}
+		{
+			id: "7A8A45721014CEC4"
+			rewards: [{
+				id: "56175D46A490A735"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "23FA34CE23DE2AC2"
+				item: "netherdepthsupgrade:baked_soulsucker_stew"
+				type: "item"
+			}]
+			x: 3.75d
+			y: 15.206462585034004d
+		}
+		{
+			id: "2DCE692BB02144C1"
+			rewards: [{
+				id: "4D6A5853F02662B9"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			size: 1.5d
+			subtitle: "Good ol' bread"
+			tasks: [{
+				id: "46C5C7F772A02742"
+				item: "minecraft:bread"
+				type: "item"
+			}]
+			x: 3.28333333333331d
+			y: 1.6149659863945658d
+		}
+		{
+			id: "0F48DED4D1F14044"
+			rewards: [{
+				id: "202D2D8233AED042"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "71D0FDC15EB7E0BF"
+				item: "minecraft:cookie"
+				type: "item"
+			}]
+			x: 3.25d
+			y: 3.25d
+		}
+		{
+			id: "02281976E16B827A"
+			rewards: [{
+				id: "6100F164F7FE4464"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "45066C5FDDAC15DC"
+				item: "bakery:waffle"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 3.25d
+		}
+		{
+			id: "6BED22832C5337E9"
+			rewards: [{
+				id: "3F5B7E4345680AE5"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			size: 1.5d
+			subtitle: "Gotta get them protein"
+			tasks: [
+				{
+					id: "3758B7FC038DD4FB"
+					item: {
+						Count: 1
+						id: "itemfilters:tag"
+						tag: {
+							value: "bakery:cooked_beef"
+						}
+					}
+					title: "Any #bakery:cooked_beef"
+					type: "item"
+				}
+				{
+					id: "4174615F5C416523"
+					item: {
+						Count: 1
+						id: "itemfilters:tag"
+						tag: {
+							value: "c:cooked_fishes"
+						}
+					}
+					title: "Any #c:cooked_fishes"
+					type: "item"
+				}
+			]
+			title: "Any cooked meat"
+			x: 3.235714285714259d
+			y: 7.28163265306123d
+		}
+		{
+			id: "36C5A5FD28BA33BA"
+			rewards: [{
+				id: "0F9C453A84DA9C05"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "446C73A406224272"
+				item: "netherdepthsupgrade:lava_pufferfish"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 13.456462585034004d
+		}
+		{
+			id: "4810E1D14E5426AA"
+			rewards: [{
+				id: "582BD93F8A0648B1"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "65D49E8949814083"
+				item: "netherdepthsupgrade:obsidianfish"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 13.456462585034004d
+		}
+		{
+			id: "667DEB454F251295"
+			rewards: [{
+				id: "780D18EBC22E34EE"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "163D08AA1676436C"
+				item: "netherdepthsupgrade:searing_cod"
+				type: "item"
+			}]
+			x: 5.75d
+			y: 13.456462585034004d
+		}
+		{
+			id: "06C8D44373897557"
+			rewards: [{
+				id: "5F666AE7AA200FF1"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "00D076E8F1EF10F7"
+				item: "netherdepthsupgrade:bonefish"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 13.456462585034004d
+		}
+		{
+			id: "2256497C58969812"
+			rewards: [{
+				id: "3E821347BC7B6328"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "2ADAFE712BE2B25E"
+				item: "netherdepthsupgrade:blazefish"
+				type: "item"
+			}]
+			x: 8.25d
+			y: 13.456462585034004d
+		}
+		{
+			id: "303B40DDC5664699"
+			rewards: [{
+				id: "5F0ECDC3D365C517"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "14656A141D115BB4"
+				item: "netherdepthsupgrade:wither_bonefish"
+				type: "item"
+			}]
+			x: -1.75d
+			y: 13.456462585034004d
+		}
+		{
+			id: "17785EA511AF9A55"
+			rewards: [{
+				id: "47B2D1FD11EB7BD6"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "5DFE66DFDDD8A98E"
+				item: "netherdepthsupgrade:magmacubefish"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 13.456462585034004d
+		}
+		{
+			id: "2CA912E28D831B18"
+			rewards: [{
+				id: "0905A59AA790628B"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "63A0C3E0A6B30246"
+				item: "netherdepthsupgrade:glowdine"
+				type: "item"
+			}]
+			x: 0.75d
+			y: 13.456462585034004d
+		}
+		{
+			id: "3968D8243D959CF7"
+			rewards: [{
+				id: "7C0C4B1D42B7A1D4"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "663208610A1D28CD"
+				item: "netherdepthsupgrade:soulsucker"
+				type: "item"
+			}]
+			x: 3.25d
+			y: 13.956462585034004d
+		}
+		{
+			id: "458486C084063447"
+			rewards: [{
+				id: "4F284CA18886DCC2"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			size: 1.5d
+			subtitle: "The Nether's Delicacies"
+			tasks: [{
+				id: "66249842D8F72259"
+				item: {
+					Count: 1
+					id: "netherdepthsupgrade:lava_fishing_rod"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.28333333333331d
+			y: 12.75d
+		}
+		{
+			dependencies: [
+				"2A0C3BAE74989EBA"
+				"0F0379D731550F80"
+				"572FB496243EC486"
+				"3CECE45AEED76DE3"
+				"31A2B615AD28B11B"
+				"2DCE692BB02144C1"
+				"458486C084063447"
+				"167E5BF361291222"
+				"667DEB454F251295"
+				"12068FEF66F26492"
+				"7BCE0EDEF0458EDF"
+				"530540508FF21133"
+				"7B5C3748F02C34AE"
+				"1A5D928C50CBFD8D"
+				"550B517EE9ABF1C9"
+				"20CDA17E1D3BBE10"
+				"6B75E46FF0C4C446"
+				"33EC84BE6F24E16F"
+				"303B40DDC5664699"
+				"2A2DA8D3DC43E4A7"
+				"029F35679D3021D3"
+				"51D20361DFF839D5"
+				"06EC917F0BC42748"
+				"55E38A4496F770F1"
+				"474FEFBEB6CAD299"
+				"354323559ADC686C"
+				"1E46875FBF960C29"
+				"58C1EAE5B06468E6"
+				"39C950D20CB1F08D"
+				"17785EA511AF9A55"
+				"56B609852BF53A6E"
+				"5371D44C377DF368"
+				"7A8A45721014CEC4"
+				"0F48DED4D1F14044"
+				"5BB908EA5F7BCE82"
+				"3D5BEA96E8169E71"
+				"7CDA740BE671E10C"
+				"0277CDB667AAA846"
+				"13929DE1D405BAD8"
+				"2256497C58969812"
+				"3968D8243D959CF7"
+				"4A1634C89505C1F4"
+				"0D4151B333D8B29B"
+				"195F069DA35A202B"
+				"41558D088E0EA060"
+				"29856DF6E0FD83B9"
+				"55CF6C4BEFB4F307"
+				"36C5A5FD28BA33BA"
+				"750207F3064B8600"
+				"7197A987AD812DAE"
+				"4810E1D14E5426AA"
+				"69941E64A1FA4AC9"
+				"1636A5BAFC54B21E"
+				"20179C9B3A6CB727"
+				"5ED483F7C45274B9"
+				"24AD05798F3BF1A2"
+				"6E735C963C5CE0F7"
+				"02281976E16B827A"
+				"2CA912E28D831B18"
+				"578177EC70E90756"
+				"38746A4A9EFC5810"
+				"37649C56504478A5"
+				"6BED22832C5337E9"
+				"06C8D44373897557"
+				"64C42335D457A4F1"
+				"050D21AF565B39A0"
+				"07FFE7A7DC8C090A"
+				"2D549F339A87C8BF"
+				"66521BC84A31C54B"
+				"1180DC48600D9226"
+				"2FF4F04A9D107DCA"
+				"7B204E15562E07FD"
+				"4376441294B36DB0"
+				"5F0A1F61251E3292"
+				"379362F4B24EAA41"
+				"516D5CB4817530C4"
+				"672DC0B280DFA82A"
+				"5FB19825A1C3B1BC"
+				"75869DB3AF179B4C"
+				"51E23018A0B6FB23"
+				"0590AC79BF3F47A5"
+				"20897B077BAEA754"
+				"43EBAF6684AEEDD6"
+				"31065C8B21AA3ED0"
+				"45B9666B2210BAB5"
+				"605ED84A14A48447"
+				"0D2205F72226448A"
+				"00E6CA6B55D0E326"
+				"2FB1CBA6878839E1"
+				"419404678F7231FF"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/newquestimg/openchest.png"
+				}
+			}
+			id: "522451C49D8B51BE"
+			min_required_dependencies: 25
+			rewards: [{
+				id: "5C1FB3AA68ED4463"
+				item: "artifacts:novelty_drinking_hat"
+				type: "item"
+			}]
+			size: 2.0d
+			subtitle: "The world of food is vast! Discover more!"
+			tasks: [{
+				id: "26EB06F6356D4E79"
+				type: "checkmark"
+			}]
+			title: "<rainb>25 Quests completed"
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			dependencies: [
+				"2A0C3BAE74989EBA"
+				"0F0379D731550F80"
+				"572FB496243EC486"
+				"3CECE45AEED76DE3"
+				"31A2B615AD28B11B"
+				"2DCE692BB02144C1"
+				"458486C084063447"
+				"167E5BF361291222"
+				"667DEB454F251295"
+				"12068FEF66F26492"
+				"7BCE0EDEF0458EDF"
+				"530540508FF21133"
+				"7B5C3748F02C34AE"
+				"1A5D928C50CBFD8D"
+				"550B517EE9ABF1C9"
+				"20CDA17E1D3BBE10"
+				"6B75E46FF0C4C446"
+				"33EC84BE6F24E16F"
+				"303B40DDC5664699"
+				"2A2DA8D3DC43E4A7"
+				"029F35679D3021D3"
+				"51D20361DFF839D5"
+				"06EC917F0BC42748"
+				"55E38A4496F770F1"
+				"474FEFBEB6CAD299"
+				"354323559ADC686C"
+				"1E46875FBF960C29"
+				"58C1EAE5B06468E6"
+				"39C950D20CB1F08D"
+				"17785EA511AF9A55"
+				"56B609852BF53A6E"
+				"5371D44C377DF368"
+				"7A8A45721014CEC4"
+				"0F48DED4D1F14044"
+				"5BB908EA5F7BCE82"
+				"3D5BEA96E8169E71"
+				"7CDA740BE671E10C"
+				"0277CDB667AAA846"
+				"13929DE1D405BAD8"
+				"2256497C58969812"
+				"3968D8243D959CF7"
+				"4A1634C89505C1F4"
+				"0D4151B333D8B29B"
+				"195F069DA35A202B"
+				"41558D088E0EA060"
+				"29856DF6E0FD83B9"
+				"55CF6C4BEFB4F307"
+				"36C5A5FD28BA33BA"
+				"750207F3064B8600"
+				"7197A987AD812DAE"
+				"4810E1D14E5426AA"
+				"69941E64A1FA4AC9"
+				"1636A5BAFC54B21E"
+				"20179C9B3A6CB727"
+				"5ED483F7C45274B9"
+				"24AD05798F3BF1A2"
+				"6E735C963C5CE0F7"
+				"02281976E16B827A"
+				"2CA912E28D831B18"
+				"578177EC70E90756"
+				"38746A4A9EFC5810"
+				"37649C56504478A5"
+				"6BED22832C5337E9"
+				"06C8D44373897557"
+				"64C42335D457A4F1"
+				"050D21AF565B39A0"
+				"07FFE7A7DC8C090A"
+				"2D549F339A87C8BF"
+				"66521BC84A31C54B"
+				"1180DC48600D9226"
+				"2FF4F04A9D107DCA"
+				"7B204E15562E07FD"
+				"4376441294B36DB0"
+				"5F0A1F61251E3292"
+				"379362F4B24EAA41"
+				"516D5CB4817530C4"
+				"672DC0B280DFA82A"
+				"5FB19825A1C3B1BC"
+				"75869DB3AF179B4C"
+				"51E23018A0B6FB23"
+				"0590AC79BF3F47A5"
+				"20897B077BAEA754"
+				"43EBAF6684AEEDD6"
+				"31065C8B21AA3ED0"
+				"45B9666B2210BAB5"
+				"605ED84A14A48447"
+				"0D2205F72226448A"
+				"00E6CA6B55D0E326"
+				"2FB1CBA6878839E1"
+				"419404678F7231FF"
+			]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/newquestimg/openchest.png"
+				}
+			}
+			id: "306DD46CC7F97CA8"
+			min_required_dependencies: 50
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run effect give @p minecraft:hunger 30 255"
+					elevate_perms: true
+					icon: {
+						Count: 1
+						id: "ftbquests:custom_icon"
+						tag: {
+							Icon: "minecraft:textures/mob_effect/hunger.png"
+						}
+					}
+					id: "5795FD89C3E22A72"
+					silent: true
+					team_reward: true
+					title: "Rapidly decreases hunger for 30 seconds"
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run effect give @p minecraft:speed 50 4"
+					elevate_perms: true
+					icon: {
+						Count: 1
+						id: "ftbquests:custom_icon"
+						tag: {
+							Icon: "minecraft:textures/mob_effect/speed.png"
+						}
+					}
+					id: "3D2746B50CDEAEA3"
+					silent: true
+					team_reward: true
+					title: "Gains speed 5 for 50 seconds"
+					type: "command"
+				}
+			]
+			size: 2.0d
+			subtitle: "Gotta eat them all"
+			tasks: [{
+				id: "14BCE2F3DCCE125A"
+				type: "checkmark"
+			}]
+			title: "<rainb>50 Quests completed"
+			x: 3.2738095238095184d
+			y: -4.063435374149666d
+		}
+		{
+			dependencies: [
+				"2A0C3BAE74989EBA"
+				"0F0379D731550F80"
+				"572FB496243EC486"
+				"3CECE45AEED76DE3"
+				"31A2B615AD28B11B"
+				"2DCE692BB02144C1"
+				"458486C084063447"
+				"167E5BF361291222"
+				"667DEB454F251295"
+				"12068FEF66F26492"
+				"7BCE0EDEF0458EDF"
+				"530540508FF21133"
+				"7B5C3748F02C34AE"
+				"1A5D928C50CBFD8D"
+				"550B517EE9ABF1C9"
+				"20CDA17E1D3BBE10"
+				"6B75E46FF0C4C446"
+				"33EC84BE6F24E16F"
+				"303B40DDC5664699"
+				"2A2DA8D3DC43E4A7"
+				"029F35679D3021D3"
+				"51D20361DFF839D5"
+				"06EC917F0BC42748"
+				"55E38A4496F770F1"
+				"474FEFBEB6CAD299"
+				"354323559ADC686C"
+				"1E46875FBF960C29"
+				"58C1EAE5B06468E6"
+				"39C950D20CB1F08D"
+				"17785EA511AF9A55"
+				"56B609852BF53A6E"
+				"5371D44C377DF368"
+				"7A8A45721014CEC4"
+				"0F48DED4D1F14044"
+				"5BB908EA5F7BCE82"
+				"3D5BEA96E8169E71"
+				"7CDA740BE671E10C"
+				"0277CDB667AAA846"
+				"13929DE1D405BAD8"
+				"2256497C58969812"
+				"3968D8243D959CF7"
+				"4A1634C89505C1F4"
+				"0D4151B333D8B29B"
+				"195F069DA35A202B"
+				"41558D088E0EA060"
+				"29856DF6E0FD83B9"
+				"55CF6C4BEFB4F307"
+				"36C5A5FD28BA33BA"
+				"750207F3064B8600"
+				"7197A987AD812DAE"
+				"4810E1D14E5426AA"
+				"69941E64A1FA4AC9"
+				"1636A5BAFC54B21E"
+				"20179C9B3A6CB727"
+				"5ED483F7C45274B9"
+				"24AD05798F3BF1A2"
+				"6E735C963C5CE0F7"
+				"02281976E16B827A"
+				"2CA912E28D831B18"
+				"578177EC70E90756"
+				"38746A4A9EFC5810"
+				"37649C56504478A5"
+				"6BED22832C5337E9"
+				"06C8D44373897557"
+				"64C42335D457A4F1"
+				"050D21AF565B39A0"
+				"07FFE7A7DC8C090A"
+				"2D549F339A87C8BF"
+				"66521BC84A31C54B"
+				"1180DC48600D9226"
+				"2FF4F04A9D107DCA"
+				"7B204E15562E07FD"
+				"4376441294B36DB0"
+				"5F0A1F61251E3292"
+				"379362F4B24EAA41"
+				"516D5CB4817530C4"
+				"672DC0B280DFA82A"
+				"5FB19825A1C3B1BC"
+				"75869DB3AF179B4C"
+				"51E23018A0B6FB23"
+				"0590AC79BF3F47A5"
+				"20897B077BAEA754"
+				"43EBAF6684AEEDD6"
+				"31065C8B21AA3ED0"
+				"45B9666B2210BAB5"
+				"605ED84A14A48447"
+				"0D2205F72226448A"
+				"00E6CA6B55D0E326"
+				"2FB1CBA6878839E1"
+				"419404678F7231FF"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/newquestimg/openchest.png"
+				}
+			}
+			id: "3BD33E240D82DE38"
+			min_required_dependencies: 75
+			rewards: [{
+				id: "344E4E79A374A195"
+				type: "xp_levels"
+				xp_levels: 100
+			}]
+			size: 2.0d
+			subtitle: "King of food"
+			tasks: [{
+				id: "24931FAAFD4D3E51"
+				type: "checkmark"
+			}]
+			title: "<rainb>75 Quests completed"
+			x: 9.5d
+			y: -0.5d
+		}
+	]
+	title: "Tasty Delicacies"
+}

@@ -1,0 +1,211 @@
+{
+	id: "73C6D76BB82F23D6"
+	loot_size: 1
+	order_index: 7
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "archers:archer_spell_book"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "berserker_rpg:berserker_spell_book"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "cleannarsenal:juggernaut_spell_book"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "cleannarsenal:trickster_spell_book"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "death_knights:blood_spell_book"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "death_knights:unholy_spell_book"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "death_knights:frost_spell_book"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "druids:aetherial_druid_spell_book"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "druids:storm_druid_spell_book"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "elemental_wizards_rpg:aqua_spell_book"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "elemental_wizards_rpg:terra_spell_book"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "forcemaster_rpg:forcemaster_spell_book"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "invoke:invoker_spell_book"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "paladins:paladin_spell_book"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "paladins:priest_spell_book"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "rogues:rogue_spell_book"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "spellbladenext:frost_battlemage_spell_book"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "rogues:warrior_spell_book"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "spellbladenext:fire_battlemage_spell_book"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "spellbladenext:arcane_battlemage_spell_book"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "spellbladenext:runic_echoes_spell_book"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "spellbladenext:phoenix_spell_book"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "spellbladenext:deathchill_spell_book"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "witcher_rpg:witcher_signs_spell_book"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "witcher_rpg:witcher_combat_spell_book"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "witcher_rpg:witcher_master_spell_book"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "wizards:arcane_spell_book"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "wizards:fire_spell_book"
+				tag: { }
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "wizards:frost_spell_book"
+				tag: { }
+			}
+		}
+	]
+	title: "Choose your Spell Book"
+}

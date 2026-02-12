@@ -1,0 +1,13 @@
+{
+  "jadeModMobEffectModName": true,
+  "hoveringAutoPinDelay": 1500,
+  "screenBlacklist": [
+    "net.minecraft.class_424",
+    "net.minecraft.class_408",
+    "net.minecraft.class_434",
+    "net.minecraft.class_433",
+    "net.minecraft.class_435"
+  ],
+  "hideMissingDescriptions": true,
+  "jadeModEnchantmentModName": true
+}

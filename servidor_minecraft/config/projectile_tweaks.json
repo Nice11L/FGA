@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "entities": {
+  "soulsweapons:chaos_monarch": 0.25,
+  "soulsweapons:accursed_lord_boss": 0.2,
+  "soulsweapons:day_stalker": 0.3,
+  "soulsweapons:night_prowler": 0.3,
+  "bosses_of_mass_destruction:obsidilith": 0.3
+  },
+  "difficulty_multipliers": {
+    "normal": 0.0,
+    "hardcore": 0.25,
+    "hard": 0.15,
+    "easy": -0.15,
+    "peaceful": -0.25
+  }
+}

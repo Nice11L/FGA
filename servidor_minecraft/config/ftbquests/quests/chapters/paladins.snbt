@@ -1,0 +1,46 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "paladins"
+	group: "429A845DD1E3DE92"
+	icon: {
+		Count: 1
+		id: "paladins:aeternium_great_hammer"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "2E963BA230AFEE02"
+	images: [
+		{
+			click: "#4BA97909341A9328"
+			height: 1.5d
+			hover: ["Back"]
+			image: "fantasy_mc:textures/newquestimg/back.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -0.1023809523809831d
+			y: 0.39047619047620685d
+		}
+		{
+			height: 5.0d
+			image: "paladins:textures/mob_effect/priest_absorption.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: 6.75d
+			y: 0.75d
+		}
+		{
+			height: 5.0d
+			image: "paladins:textures/mob_effect/priest_absorption.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: -7.25d
+			y: 0.75d
+		}
+	]
+	order_index: 12
+	quest_links: [ ]
+	quests: [ ]
+	title: "Paladins \\& Priests"
+}

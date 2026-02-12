@@ -1,0 +1,3374 @@
+{
+	autofocus_id: "55F0EE421D7950A5"
+	default_hide_dependency_lines: true
+	default_quest_shape: ""
+	filename: "archery_room"
+	group: "0748AA7BE31FEC41"
+	hide_quest_until_deps_complete: true
+	id: "178584D6E8C28D03"
+	images: [
+		{
+			height: 1.0d
+			image: "decorative_blocks:block/bonfire_x_alt"
+			rotation: -90.0d
+			width: 1.0d
+			x: -5.299107142857139d
+			y: 0.76836734693876d
+		}
+		{
+			height: 10.0d
+			image: "fantasy_mc:textures/newquestimg/arrow.png"
+			order: -1
+			rotation: -135.0d
+			width: 10.0d
+			x: 0.0d
+			y: 0.75d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"55F0EE421D7950A5"
+				"2FCD700EEBC48246"
+			]
+			id: "38BB57136D1A4649"
+			rewards: [{
+				id: "5EE15B92EBDA8FD2"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "0B92094F4AC84249"
+				item: {
+					Count: 1
+					id: "soulsweapons:galeforce"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Craft the Galeforce"
+			x: -4.5d
+			y: 0.75d
+		}
+		{
+			dependencies: ["2FCD700EEBC48246"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "55F0EE421D7950A5"
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [
+				{
+					id: "73CF625AF7CDCE29"
+					item: {
+						Count: 1
+						id: "itemfilters:tag"
+						tag: {
+							value: "c:ranged_weapons"
+						}
+					}
+					title: "Any #c:ranged_weapons"
+					type: "item"
+				}
+				{
+					id: "2D5626270FD10CC8"
+					item: {
+						Count: 1
+						id: "archers:archer_spell_book"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "07A83C0F11529011"
+					item: "archers:auto_fire_hook"
+					type: "item"
+				}
+			]
+			title: "Ranged Weaponry"
+			x: -2.0d
+			y: 0.75d
+		}
+		{
+			dependencies: [
+				"55F0EE421D7950A5"
+				"2FCD700EEBC48246"
+			]
+			id: "609F8E34FA2F0119"
+			tasks: [{
+				id: "47514C918F600B21"
+				item: {
+					Count: 1
+					id: "archers:netherite_heavy_crossbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.75d
+		}
+		{
+			dependencies: [
+				"55F0EE421D7950A5"
+				"2FCD700EEBC48246"
+			]
+			id: "0255323F2CCBE03C"
+			tasks: [{
+				id: "5A9EB1948FB892A8"
+				item: {
+					Count: 1
+					id: "archers:netherite_rapid_crossbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.25d
+		}
+		{
+			dependencies: [
+				"55F0EE421D7950A5"
+				"2FCD700EEBC48246"
+			]
+			id: "2F987CA615401ABB"
+			tasks: [{
+				id: "2541B0943FCA499C"
+				item: {
+					Count: 1
+					id: "archers:netherite_longbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.25d
+		}
+		{
+			dependencies: [
+				"55F0EE421D7950A5"
+				"2FCD700EEBC48246"
+			]
+			id: "4865FD24290658AB"
+			tasks: [{
+				id: "402A0EAE1A44C725"
+				item: {
+					Count: 1
+					id: "archers:netherite_shortbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.75d
+		}
+		{
+			dependencies: [
+				"55F0EE421D7950A5"
+				"2FCD700EEBC48246"
+			]
+			id: "4440CF4AC2AC218A"
+			rewards: [{
+				id: "4E3CC3819BC3D9BE"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "00C39D99ED6FB035"
+				item: {
+					Count: 1
+					id: "soulsweapons:darkmoon_longbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.25d
+			y: -9.25d
+		}
+		{
+			dependencies: ["2FCD700EEBC48246"]
+			id: "625C71D47091272C"
+			rewards: [
+				{
+					count: 16
+					id: "6EB60058F163A7AC"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "08809497BC520B86"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "1E32FD83FDADC9DE"
+				item: { Count: 16, id: "xtraarrows:extinguishing_arrow" }
+				type: "item"
+			}]
+			x: -6.75d
+			y: -2.75d
+		}
+		{
+			dependencies: ["2FCD700EEBC48246"]
+			id: "36F31B5FB66F7D41"
+			rewards: [
+				{
+					count: 16
+					id: "0DBEAC5DD549DEEB"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "0D9D8008029F64BF"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "2F1AF56765E0731B"
+				item: { Count: 16, id: "xtraarrows:incendiary_arrow" }
+				type: "item"
+			}]
+			x: -6.75d
+			y: 4.75d
+		}
+		{
+			dependencies: ["2FCD700EEBC48246"]
+			id: "39C35134D7702B6D"
+			rewards: [
+				{
+					count: 16
+					id: "58E015D6793A129F"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "71393D3BA93A57CA"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "383061584857C7A6"
+				item: { Count: 16, id: "xtraarrows:netherite_explosive_arrow" }
+				type: "item"
+			}]
+			x: 6.382886904761925d
+			y: -0.6666666666666998d
+		}
+		{
+			dependencies: ["2FCD700EEBC48246"]
+			id: "7E5F314393C05C32"
+			rewards: [
+				{
+					id: "1477E06CC40C6659"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 16
+					id: "3194F17718076B4B"
+					item: "xtraarrows:cupids_arrow"
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "02D277C88888EEC3"
+				item: { Count: 16, id: "xtraarrows:cupids_arrow" }
+				type: "item"
+			}]
+			x: 7.859077380952378d
+			y: 0.28571428571424917d
+		}
+		{
+			dependencies: ["2FCD700EEBC48246"]
+			id: "46F53A4B7A946D70"
+			rewards: [
+				{
+					id: "063E52550CB74A0A"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 16
+					id: "11613687DFDC65A9"
+					item: "xtraarrows:leashing_arrow"
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "770DA48802CE02B1"
+				item: { Count: 16, id: "xtraarrows:leashing_arrow" }
+				type: "item"
+			}]
+			x: 7.859077380952378d
+			y: 1.2857142857142492d
+		}
+		{
+			dependencies: ["2FCD700EEBC48246"]
+			id: "7FFFC2337E3305D9"
+			rewards: [
+				{
+					id: "32623CF8F3DD133F"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 16
+					id: "3B77368E51EB320E"
+					item: "xtraarrows:padded_arrow"
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "202E762180C5DFE5"
+				item: { Count: 16, id: "xtraarrows:padded_arrow" }
+				type: "item"
+			}]
+			x: 6.859077380952378d
+			y: 1.2857142857142492d
+		}
+		{
+			dependencies: ["2FCD700EEBC48246"]
+			id: "7D91FA5ECFCB7A61"
+			rewards: [
+				{
+					id: "0AAA6F7A407140FF"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 16
+					id: "2AE3C94517B6BB34"
+					item: "xtraarrows:breeding_arrow"
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "6BD45ED44E3838BB"
+				item: { Count: 16, id: "xtraarrows:breeding_arrow" }
+				type: "item"
+			}]
+			x: 6.859077380952378d
+			y: 0.28571428571424917d
+		}
+		{
+			dependencies: ["2FCD700EEBC48246"]
+			id: "629C49C29ECE51B1"
+			rewards: [
+				{
+					count: 16
+					id: "4826BA116A6270AD"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "542C96A4550C91E8"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "4342E6623162F362"
+				item: { Count: 16, id: "xtraarrows:netherite_arrow" }
+				type: "item"
+			}]
+			x: -5.845684523809517d
+			y: -1.2738095238095255d
+		}
+		{
+			dependencies: ["2FCD700EEBC48246"]
+			id: "33C445291FA7D3F7"
+			rewards: [
+				{
+					count: 16
+					id: "70F88F51928A9628"
+					item: "xtraarrows:golden_arrow"
+					type: "item"
+				}
+				{
+					id: "76A69AA2F8EDE758"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "75250A497A1921BD"
+				item: { Count: 16, id: "xtraarrows:golden_arrow" }
+				type: "item"
+			}]
+			x: -7.095684523809517d
+			y: 1.7261904761904745d
+		}
+		{
+			dependencies: ["2FCD700EEBC48246"]
+			id: "213DC090EE58575E"
+			rewards: [
+				{
+					count: 16
+					id: "0AE1E57D3B786EE9"
+					item: "xtraarrows:diamond_arrow"
+					type: "item"
+				}
+				{
+					id: "45C48C81C292FFAC"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "3880E6550DA41A02"
+				item: { Count: 16, id: "xtraarrows:diamond_arrow" }
+				type: "item"
+			}]
+			x: -7.095684523809517d
+			y: -0.0238095238095255d
+		}
+		{
+			dependencies: ["2FCD700EEBC48246"]
+			id: "55998CB505D85E8A"
+			rewards: [
+				{
+					count: 16
+					id: "0A10DB73B18A98D2"
+					item: "xtraarrows:iron_arrow"
+					type: "item"
+				}
+				{
+					id: "1DF2DADC3F12BFAA"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "45179229D1C5EB32"
+				item: { Count: 16, id: "xtraarrows:iron_arrow" }
+				type: "item"
+			}]
+			x: -5.845684523809517d
+			y: 2.9761904761904745d
+		}
+		{
+			dependencies: ["2FCD700EEBC48246"]
+			id: "0DA1D838A5748F7A"
+			rewards: [
+				{
+					count: 16
+					id: "70B3F942067FA436"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "1C7965A84D179959"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "0969C07E39FE728A"
+				item: { Count: 16, id: "xtraarrows:netherite_atlantean_arrow" }
+				type: "item"
+			}]
+			x: 8.382886904761925d
+			y: -0.6666666666666998d
+		}
+		{
+			dependencies: ["2FCD700EEBC48246"]
+			id: "50E4B580965E0003"
+			rewards: [
+				{
+					count: 16
+					id: "65F4D70263950A03"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "4254A78ABF772CEE"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "1F285CB9AE91BB4A"
+				item: { Count: 16, id: "xtraarrows:netherite_redstone_torch_arrow" }
+				type: "item"
+			}]
+			x: -8.343303571428578d
+			y: 0.7619047619047379d
+		}
+		{
+			dependencies: ["2FCD700EEBC48246"]
+			id: "1BE0A867760E24BD"
+			rewards: [
+				{
+					count: 16
+					id: "48D1D80908D00632"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "5BCB41A148752622"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "3D74FF8B8B9908BC"
+				item: { Count: 16, id: "xtraarrows:netherite_soul_torch_arrow" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 3.25d
+		}
+		{
+			dependencies: ["2FCD700EEBC48246"]
+			id: "1169D05E4D8719F5"
+			rewards: [
+				{
+					count: 16
+					id: "50A3C75575E4E07A"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "7D5AFEF3F441FB3A"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "4F3CD83D4CF76C9A"
+				item: { Count: 16, id: "xtraarrows:netherite_vexing_arrow" }
+				type: "item"
+			}]
+			x: 8.811458333333327d
+			y: 0.2857142857142563d
+		}
+		{
+			dependencies: ["2FCD700EEBC48246"]
+			id: "3EDE289E44F16000"
+			rewards: [
+				{
+					count: 16
+					id: "10AC471CC1747072"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "29F4F2CFC3DF1D1D"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "67630AEDC34BFD63"
+				item: { Count: 16, id: "xtraarrows:netherite_tracking_arrow" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2FCD700EEBC48246"]
+			id: "7816B4E98A2DD83B"
+			rewards: [
+				{
+					count: 16
+					id: "36590FD6421384CF"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "10E8A89A92CDF357"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "2ED33B8BAA9F4AB3"
+				item: { Count: 16, id: "xtraarrows:netherite_ender_arrow" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2FCD700EEBC48246"]
+			id: "78731A281DFD02C2"
+			rewards: [
+				{
+					count: 16
+					id: "472E4BAA6D080BCF"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "12ED4E1F8092E447"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "61AF06F785D3A83B"
+				item: { Count: 16, id: "xtraarrows:netherite_slime_arrow" }
+				type: "item"
+			}]
+			x: 8.287648809523837d
+			y: 2.2380952380952124d
+		}
+		{
+			dependencies: ["2FCD700EEBC48246"]
+			id: "7E1573F0C320B706"
+			rewards: [
+				{
+					count: 16
+					id: "333C9C9CAE4D67BB"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "6C8EFA7BC451E1D5"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "1F0D07BEDDEBDE51"
+				item: { Count: 16, id: "xtraarrows:netherite_torch_arrow" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: -1.75d
+		}
+		{
+			dependencies: ["2FCD700EEBC48246"]
+			id: "39A70BE978DF0445"
+			rewards: [
+				{
+					count: 16
+					id: "5DCD22B459E6F4D0"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "64F97C06DD7B1B6E"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "411B13350C4C79C4"
+				item: { Count: 16, id: "xtraarrows:netherite_lightning_arrow" }
+				type: "item"
+			}]
+			x: 7.287648809523837d
+			y: 2.2380952380952124d
+		}
+		{
+			dependencies: ["2FCD700EEBC48246"]
+			id: "6677541E068A5848"
+			rewards: [
+				{
+					count: 16
+					id: "3BDF974A3E00801A"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "25E78B45247892EE"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "565D65B5859A7DB9"
+				item: { Count: 16, id: "xtraarrows:netherite_freezing_arrow" }
+				type: "item"
+			}]
+			x: 7.382886904761925d
+			y: -0.6666666666666998d
+		}
+		{
+			dependencies: ["2FCD700EEBC48246"]
+			id: "49F89AF8097DF97F"
+			rewards: [
+				{
+					count: 16
+					id: "06FD3C84450D57D0"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "70D321B8B35AD53F"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "5B30609CC675DC2B"
+				item: { Count: 16, id: "xtraarrows:netherite_magnetic_arrow" }
+				type: "item"
+			}]
+			x: 8.811458333333348d
+			y: 1.2857142857142563d
+		}
+		{
+			dependencies: ["2FCD700EEBC48246"]
+			id: "2AAA2F92C0F4C3B4"
+			rewards: [
+				{
+					count: 16
+					id: "33EC645F28EF8DF6"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "5D1A7D0933543C90"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "53C2E2CA62EF5D70"
+				item: { Count: 16, id: "xtraarrows:netherite_life_steal_arrow" }
+				type: "item"
+			}]
+			x: 6.287648809523837d
+			y: 2.2380952380952124d
+		}
+		{
+			dependencies: ["2FCD700EEBC48246"]
+			id: "45BA07BBE031442E"
+			rewards: [
+				{
+					count: 16
+					id: "1771EE6FBFAC02B8"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "36392737AF6B831C"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "76EFAD9D4B087FEC"
+				item: { Count: 16, id: "xtraarrows:netherite_gravity_arrow" }
+				type: "item"
+			}]
+			x: 9.75d
+			y: 0.75d
+		}
+		{
+			dependencies: ["2FCD700EEBC48246"]
+			id: "4EC1A59FF757E5ED"
+			rewards: [
+				{
+					count: 16
+					id: "32B8126A0EFB3194"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "60F3B12C0BBB1EA6"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "14FED5AED62D6D1D"
+				item: { Count: 16, id: "xtraarrows:netherite_lantern_arrow" }
+				type: "item"
+			}]
+			x: -5.25d
+			y: 6.25d
+		}
+		{
+			dependencies: ["2FCD700EEBC48246"]
+			id: "399C31255DC2B571"
+			rewards: [
+				{
+					count: 16
+					id: "5253CDF5E8DE7297"
+					item: "xtraarrows:netherite_arrow"
+					type: "item"
+				}
+				{
+					id: "6DF79C38D044894A"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "219787256AFA2C65"
+				item: { Count: 16, id: "xtraarrows:netherite_soul_lantern_arrow" }
+				type: "item"
+			}]
+			x: -5.25d
+			y: -4.0d
+		}
+		{
+			dependencies: ["2FCD700EEBC48246"]
+			id: "758F6F65F35E2E6D"
+			rewards: [
+				{
+					id: "1362EE5D966B4A06"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 16
+					id: "0D90760A2AE72981"
+					item: "xtraarrows:apple_arrow"
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "4E4870A5AAB08528"
+				item: { Count: 16, id: "xtraarrows:apple_arrow" }
+				type: "item"
+			}]
+			x: 5.906696428571422d
+			y: 0.7619047619047379d
+		}
+		{
+			dependencies: ["2FCD700EEBC48246"]
+			id: "53CFEB63EC3B1C6D"
+			rewards: [
+				{
+					id: "0D3A9C128EAC2C71"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 16
+					id: "452F5C9FC04A10EC"
+					item: "xtraarrows:golden_apple_arrow"
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "082E818295F124B1"
+				item: { Count: 16, id: "xtraarrows:golden_apple_arrow" }
+				type: "item"
+			}]
+			x: 9.382886904761925d
+			y: -0.6666666666666998d
+		}
+		{
+			dependencies: ["2FCD700EEBC48246"]
+			id: "0C0691038B5EA1CE"
+			rewards: [
+				{
+					id: "4E37645D93701E86"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 16
+					id: "2372D45B345175CB"
+					item: "xtraarrows:notch_apple_arrow"
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "2B83D9E7A3F1EA86"
+				item: { Count: 16, id: "xtraarrows:notch_apple_arrow" }
+				type: "item"
+			}]
+			x: 9.287648809523837d
+			y: 2.2380952380952124d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "56759F52AF9837A7"
+			rewards: [{
+				id: "585BA8E8D5AE3BEE"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "4B5CCC5993FBC6B2"
+				item: {
+					Count: 1
+					id: "mcdw:bow_elite_power_bow"
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							id: "minecraft:power"
+							lvl: 2s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			x: -4.75d
+			y: -6.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "144A25E12F885A8F"
+			rewards: [{
+				id: "2AEB19F33889EA9E"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "3A5839CD1208FB8A"
+				item: {
+					Count: 1
+					id: "mcdw:bow_echo_of_the_valley"
+					tag: {
+						Damage: 0
+						Enchantments: [
+							{
+								id: "mcdw:gravity"
+								lvl: 1s
+							}
+							{
+								id: "mcdw:ricochet"
+								lvl: 1s
+							}
+						]
+					}
+				}
+				type: "item"
+			}]
+			x: -3.5d
+			y: -6.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "64AF5B305881C5AD"
+			rewards: [{
+				id: "18C4B61BE7B7B3F7"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "21570095E0DDB1D1"
+				item: {
+					Count: 1
+					id: "mcdw:bow_call_of_the_void"
+					tag: {
+						Damage: 0
+						Enchantments: [
+							{
+								id: "mcdw:fuse_shot"
+								lvl: 1s
+							}
+							{
+								id: "mcdw:void_shot"
+								lvl: 1s
+							}
+						]
+					}
+				}
+				type: "item"
+			}]
+			x: -2.25d
+			y: -6.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "1F8F494059709655"
+			rewards: [{
+				id: "2A426D1D86609158"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "5F50CF0AD28077A9"
+				item: {
+					Count: 1
+					id: "mcdw:bow_burst_gale_bow"
+					tag: {
+						Damage: 0
+						Enchantments: [
+							{
+								id: "mcdw:charge"
+								lvl: 1s
+							}
+							{
+								id: "mcdw:gravity"
+								lvl: 1s
+							}
+						]
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: -6.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "5FC51E4E0DB0408B"
+			rewards: [{
+				id: "529C769A54E5243A"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "438D8CBDF5A36933"
+				item: {
+					Count: 1
+					id: "mcdw:bow_bubble_burster"
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							id: "mcdw:ricochet"
+							lvl: 1s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			x: 0.25d
+			y: -6.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "00338AE2A0DA453E"
+			rewards: [{
+				id: "29651C59736BE355"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "417A6A838E6B239A"
+				item: {
+					Count: 1
+					id: "mcdw:bow_bonebow"
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							id: "mcdw:growing"
+							lvl: 1s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: -6.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "5F4BD9A48EFCBBB4"
+			rewards: [{
+				id: "494E758454148A15"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "608646D5A9CB00CA"
+				item: {
+					Count: 1
+					id: "mcdw:bow_ancient_bow"
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							id: "mcdw:dynamo"
+							lvl: 1s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			x: 2.75d
+			y: -6.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "2BFA7E239A79A8F9"
+			rewards: [{
+				id: "2524A37154B78067"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "433887150EC32968"
+				item: {
+					Count: 1
+					id: "mcdw:bow_haunted_bow"
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							id: "mcdw:bonus_shot"
+							lvl: 1s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			x: -4.25d
+			y: -5.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "7BB8C4B95AC59629"
+			rewards: [{
+				id: "0ED3C85819BD6C89"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "6B95447A7F07D936"
+				item: {
+					Count: 1
+					id: "magistuarmory:longbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: -5.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "37CB16339E8E504A"
+			rewards: [{
+				id: "21ECB06AB2BC2D0C"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "4E0EB83504710D15"
+				item: {
+					Count: 1
+					id: "mcdw:bow_green_menace"
+					tag: {
+						Damage: 0
+						Enchantments: [
+							{
+								id: "mcdw:ricochet"
+								lvl: 1s
+							}
+							{
+								id: "mcdw:poison_cloud"
+								lvl: 1s
+							}
+						]
+					}
+				}
+				type: "item"
+			}]
+			x: -1.75d
+			y: -5.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "79AA1CA05FA2C2FE"
+			rewards: [{
+				id: "0D33CE5215F6E904"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "506C4B8FB1C33940"
+				item: {
+					Count: 1
+					id: "minecells:multiple_nocks_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: -5.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "14587C9CC9C51417"
+			rewards: [{
+				id: "10099466BAE7C40A"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "65D2F429E82D1A43"
+				item: {
+					Count: 1
+					id: "minecells:bow_and_endless_quiver"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.75d
+			y: -5.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "04951721F7B7C014"
+			rewards: [{
+				id: "6937B3B5292D8822"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "5E238DCE7BA30195"
+				item: {
+					Count: 1
+					id: "minecells:marksmans_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -5.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "0FC8411C1322E111"
+			rewards: [{
+				id: "6C742898BB5C2E9B"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "69D8FE05FAB1D2CC"
+				item: {
+					Count: 1
+					id: "minecells:infantry_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.25d
+			y: -5.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "009506354502384F"
+			rewards: [{
+				id: "7A2D7DC35A3AB452"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "4CFE12FE70962BF1"
+				item: {
+					Count: 1
+					id: "minecells:quick_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.25d
+			y: -7.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "7D07AA0C209CBBC6"
+			rewards: [{
+				id: "59FEA123CC1A1093"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "6EEDE7EE65953C7F"
+				item: {
+					Count: 1
+					id: "minecells:ice_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: -7.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "36EC1D2FA1D70F39"
+			rewards: [{
+				id: "1E0C2E94B9436C5D"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "6D5937A4E1FA3A3D"
+				item: {
+					Count: 1
+					id: "mcdw:bow_hunters_promise"
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							id: "mcdw:replenish"
+							lvl: 1s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			x: -2.75d
+			y: -7.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "5499912A0DC52550"
+			rewards: [{
+				id: "5A0631665D88DCCE"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "412C399BD9016ED2"
+				item: {
+					Count: 1
+					id: "mcdw:bow_lost_souls"
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							id: "mcdw:multi_shot"
+							lvl: 1s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: -7.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "6DB288717EA80293"
+			rewards: [{
+				id: "7172C36F9FD5E04E"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "57888EBBBBCB17CA"
+				item: {
+					Count: 1
+					id: "mcdw:bow_masters_bow"
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							id: "minecraft:power"
+							lvl: 1s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			x: -0.25d
+			y: -7.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "54A1705F8E3D403F"
+			rewards: [{
+				id: "49001791E417147C"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "260C91FBC0AACA5B"
+				item: {
+					Count: 1
+					id: "mcdw:bow_shivering_bow"
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							id: "mcdw:tempo_theft"
+							lvl: 1s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -7.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "59F5CE2192474B86"
+			rewards: [{
+				id: "63D0FD3C790D373B"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "500A05523E6FF467"
+				item: {
+					Count: 1
+					id: "mcdw:bow_phantom_bow"
+					tag: {
+						Damage: 0
+						Enchantments: [
+							{
+								id: "mcdw:multi_shot"
+								lvl: 1s
+							}
+							{
+								id: "minecraft:power"
+								lvl: 1s
+							}
+						]
+					}
+				}
+				type: "item"
+			}]
+			x: 2.25d
+			y: -7.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "54F499200E0819C0"
+			rewards: [{
+				id: "082FD3EF7E2E84D0"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "28FC12FC2FCC3F9D"
+				item: {
+					Count: 1
+					id: "mcdw:bow_pink_scoundrel"
+					tag: {
+						Damage: 0
+						Enchantments: [
+							{
+								id: "mcdw:ricochet"
+								lvl: 1s
+							}
+							{
+								id: "mcdw:wild_rage"
+								lvl: 1s
+							}
+						]
+					}
+				}
+				type: "item"
+			}]
+			x: 1.75d
+			y: -8.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "494CC045ACC73396"
+			rewards: [{
+				id: "59D91CBD3B7D6FF3"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "1295DADFFB3FDA0D"
+				item: {
+					Count: 1
+					id: "mcdw:bow_sabrewing"
+					tag: {
+						Damage: 0
+						Enchantments: [
+							{
+								id: "minecraft:power"
+								lvl: 1s
+							}
+							{
+								id: "mcdw:radiance"
+								lvl: 1s
+							}
+						]
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: -8.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "7F489445C06E07FC"
+			rewards: [{
+				id: "2BAEFEC2CC5CB9F5"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "63164CECDCA1FF08"
+				item: {
+					Count: 1
+					id: "mcdw:bow_purple_storm"
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							id: "mcdw:accelerate"
+							lvl: 1s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			x: -0.75d
+			y: -8.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "3A3DADD3FA7CC6D2"
+			rewards: [{
+				id: "05DF450D72F82E92"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "5587F3D8F6BC175F"
+				item: {
+					Count: 1
+					id: "mcdw:bow_mechanical_shortbow"
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							id: "mcdw:accelerate"
+							lvl: 1s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: -8.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "19EABFB2983ED00B"
+			rewards: [{
+				id: "124DA1C67D5D1911"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "01AB40149170032F"
+				item: {
+					Count: 1
+					id: "mcdw:bow_red_snake"
+					tag: {
+						Damage: 0
+						Enchantments: [
+							{
+								id: "minecraft:power"
+								lvl: 1s
+							}
+							{
+								id: "mcdw:fuse_shot"
+								lvl: 1s
+							}
+						]
+					}
+				}
+				type: "item"
+			}]
+			x: -3.25d
+			y: -8.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "46C4AE65D1833ED0"
+			rewards: [{
+				id: "1101ADA0B8DF38FB"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "0F7F31D9088BC456"
+				item: {
+					Count: 1
+					id: "mcdw:bow_guardian_bow"
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							id: "minecraft:power"
+							lvl: 2s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: -8.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "3D7AB345CC5471E2"
+			rewards: [{
+				id: "61C49F82E4EF2ADC"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "7EB0A569FB620F69"
+				item: {
+					Count: 1
+					id: "mcdw:bow_snow_bow"
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							id: "mcdw:freezing"
+							lvl: 1s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			x: -5.75d
+			y: -8.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "20E20D9E82F250EC"
+			rewards: [{
+				id: "481D20CFD814D437"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "1604606096598814"
+				item: {
+					Count: 1
+					id: "mcdw:bow_twin_bow"
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							id: "mcdw:bonus_shot"
+							lvl: 1s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			x: -6.25d
+			y: -9.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "21AB1E5831E97B33"
+			rewards: [{
+				id: "05F295178B138540"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "6149A15FE89C5444"
+				item: {
+					Count: 1
+					id: "mcdw:bow_twisting_vine_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: -9.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "7F6621E2185688A5"
+			rewards: [{
+				id: "32A427CE3D7D7CEF"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "3A09CD0F4BAA8E31"
+				item: {
+					Count: 1
+					id: "mcdw:bow_web_bow"
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							id: "mcdw:cobweb_shot"
+							lvl: 1s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			x: -3.75d
+			y: -9.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "7339B373C474A669"
+			rewards: [{
+				id: "76E8370B119BB927"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "0AC59B51AEA89FE0"
+				item: {
+					Count: 1
+					id: "mcdw:bow_weeping_vine_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: -9.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "23A4A4B7E74CC91B"
+			rewards: [{
+				id: "221131C3416D7F59"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "3889A917F4347CE4"
+				item: {
+					Count: 1
+					id: "mcdw:bow_winters_touch"
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							id: "mcdw:freezing"
+							lvl: 1s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			x: -1.25d
+			y: -9.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "1DE88DCEA4FDFE8C"
+			rewards: [{
+				id: "6548EB999363677A"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "3BB2EC4F56333F01"
+				item: {
+					Count: 1
+					id: "mcdw:bow_love_spell_bow"
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							id: "mcdw:wild_rage"
+							lvl: 1s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -9.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "2BEF951D3F2DC2BA"
+			rewards: [{
+				id: "017B33D3A1963BB6"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "23D58C9E80835E40"
+				item: {
+					Count: 1
+					id: "mcdw:crossbow_nautical_crossbow"
+					tag: {
+						Charged: 0b
+						ChargedProjectiles: [ ]
+						Damage: 0
+						Enchantments: [
+							{
+								id: "minecraft:piercing"
+								lvl: 1s
+							}
+							{
+								id: "minecraft:punch"
+								lvl: 1s
+							}
+						]
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "7BE3CE78E530E46B"
+			rewards: [{
+				id: "62BD4569AD72E1C0"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "62F7657C97CBC040"
+				item: {
+					Count: 1
+					id: "mcdw:crossbow_lightning_harp_crossbow"
+					tag: {
+						Charged: 0b
+						ChargedProjectiles: [ ]
+						Damage: 0
+						Enchantments: [
+							{
+								id: "minecraft:multishot"
+								lvl: 1s
+							}
+							{
+								id: "mcdw:ricochet"
+								lvl: 1s
+							}
+							{
+								id: "mcdw:thundering"
+								lvl: 1s
+							}
+						]
+					}
+				}
+				type: "item"
+			}]
+			x: -3.25d
+			y: 7.5d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "7D4CE7B919B1DDFA"
+			rewards: [{
+				id: "32FE4338E241783E"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "333FB39CAB02A92D"
+				item: {
+					Count: 1
+					id: "mcdw:crossbow_imploding_crossbow"
+					tag: {
+						Damage: 0
+						Enchantments: [
+							{
+								id: "mcdw:fuse_shot"
+								lvl: 1s
+							}
+							{
+								id: "mcdw:gravity"
+								lvl: 1s
+							}
+						]
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "69499496464DB829"
+			rewards: [{
+				id: "42EB139D833A3AB7"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "6D72C90AB3326932"
+				item: {
+					Count: 1
+					id: "mcdw:crossbow_the_slicer"
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							id: "minecraft:piercing"
+							lvl: 1s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			x: -0.75d
+			y: 7.5d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "4091E2D22C246D30"
+			rewards: [{
+				id: "20DFE90ED9AC5089"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "1ED0B75E926C9154"
+				item: {
+					Count: 1
+					id: "mcdw:crossbow_veiled_crossbow"
+					tag: {
+						Damage: 0
+						Enchantments: [
+							{
+								id: "mcdw:shadow_shot"
+								lvl: 1s
+							}
+							{
+								id: "mcdw:shadow_barb"
+								lvl: 1s
+							}
+						]
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "215A5EC265674830"
+			rewards: [{
+				id: "350FC62F3BFE440E"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "30D11538CD67FD13"
+				item: {
+					Count: 1
+					id: "mcdw:crossbow_voidcaller_crossbow"
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							id: "mcdw:gravity"
+							lvl: 1s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			x: 1.75d
+			y: 7.5d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "1950A914FDA64F23"
+			rewards: [{
+				id: "632A7D8F2F2CC756"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "7693A0FC77FC4DC4"
+				item: {
+					Count: 1
+					id: "minecells:explosive_crossbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.25d
+			y: 10.5d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "20446F942156A641"
+			rewards: [{
+				id: "5D6AB8F0FFD946BC"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "6A6C586C6F2B9E58"
+				item: {
+					Count: 1
+					id: "minecells:heavy_crossbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.5d
+			y: 10.5d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "7BDF190DD8ADEADE"
+			rewards: [{
+				id: "37518F3D69C5936B"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "3405CE3EFEC84252"
+				item: {
+					Count: 1
+					id: "mcdw:crossbow_harp_crossbow"
+					tag: {
+						Charged: 0b
+						ChargedProjectiles: [ ]
+						Damage: 0
+						Enchantments: [{
+							id: "minecraft:multishot"
+							lvl: 2s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			x: -2.25d
+			y: 10.5d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "10B8A7E7CD6DE4CA"
+			rewards: [{
+				id: "58D4214B6730B09E"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "76A16D8FF7F29C79"
+				item: {
+					Count: 1
+					id: "magistuarmory:heavy_crossbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "001886CF0792CC3B"
+			rewards: [{
+				id: "388982E9EC5F3217"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "20F5837383C02894"
+				item: {
+					Count: 1
+					id: "mcdw:crossbow_auto_crossbow"
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							id: "mcdw:accelerate"
+							lvl: 1s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			x: -3.75d
+			y: 8.5d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "47C7EF263D0CCDD5"
+			rewards: [{
+				id: "300697167C73FB07"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "51ADD746C5E80E37"
+				item: {
+					Count: 1
+					id: "mcdw:crossbow_azure_seeker"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "24DBC1B7E2C49358"
+			rewards: [{
+				id: "5E85736249BC1925"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "255EC0F8E9E94EAD"
+				item: {
+					Count: 1
+					id: "mcdw:crossbow_baby_crossbow"
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							id: "mcdw:growing"
+							lvl: 1s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			x: -1.25d
+			y: 8.5d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "05AD3D853EDC6409"
+			rewards: [{
+				id: "2AFFC0B97C2B7DC9"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "4D8296AF8228C7A1"
+				item: {
+					Count: 1
+					id: "mcdw:crossbow_butterfly_crossbow"
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							id: "mcdw:bonus_shot"
+							lvl: 1s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "1BDFABFFBEFA076A"
+			rewards: [{
+				id: "4C29046EDC8622C3"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "45B350631B400820"
+				item: {
+					Count: 1
+					id: "mcdw:crossbow_corrupted_crossbow"
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							id: "mcdw:dynamo"
+							lvl: 1s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			x: 1.25d
+			y: 8.5d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "76E170C9CC9296F6"
+			rewards: [{
+				id: "6E704CA9D53A0C5E"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "7552AFC1F4A17546"
+				item: {
+					Count: 1
+					id: "mcdw:crossbow_cog_crossbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "54D5CCF2CA50275C"
+			rewards: [{
+				id: "2E78C7B440C07652"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "51AF33E6AD065CC6"
+				item: {
+					Count: 1
+					id: "mcdw:crossbow_doom_crossbow"
+					tag: {
+						Damage: 0
+						Enchantments: [
+							{
+								id: "minecraft:punch"
+								lvl: 1s
+							}
+							{
+								id: "minecraft:power"
+								lvl: 1s
+							}
+						]
+					}
+				}
+				type: "item"
+			}]
+			x: -4.75d
+			y: 10.5d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "06354A5B47D6BC8F"
+			rewards: [{
+				id: "2EFA41B7796E7EB3"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "4889E420701360DF"
+				item: {
+					Count: 1
+					id: "mcdw:crossbow_feral_soul_crossbow"
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							id: "mcdw:enigma_resonator"
+							lvl: 1s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "1EE6A4036B8BA100"
+			rewards: [{
+				id: "69460B626F6D8294"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "0B1B729635F7B6EC"
+				item: {
+					Count: 1
+					id: "mcdw:crossbow_firebolt_thrower"
+					tag: {
+						Damage: 0
+						Enchantments: [
+							{
+								id: "mcdw:fuse_shot"
+								lvl: 1s
+							}
+							{
+								id: "mcdw:chain_reaction"
+								lvl: 1s
+							}
+						]
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: 9.5d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "127A46ACCFDD4F64"
+			rewards: [{
+				id: "7325228193B83599"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "7A1DE3FF58B0D051"
+				item: {
+					Count: 1
+					id: "mcdw:crossbow_spellbound_crossbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.25d
+			y: 9.5d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "01F73EAE7E47A24E"
+			rewards: [{
+				id: "53B70D38DFAF4004"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "06E96C129498E772"
+				item: {
+					Count: 1
+					id: "mcdw:crossbow_soul_hunter_crossbow"
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							id: "mcdw:enigma_resonator"
+							lvl: 1s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "46A0659648D4CFA6"
+			rewards: [{
+				id: "7F395F3EF17AEBE2"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "1785F1668664E2D6"
+				item: {
+					Count: 1
+					id: "mcdw:crossbow_slayer_crossbow"
+					tag: {
+						Damage: 0
+						Enchantments: [
+							{
+								id: "minecraft:power"
+								lvl: 1s
+							}
+							{
+								id: "mcdw:ricochet"
+								lvl: 1s
+							}
+						]
+					}
+				}
+				type: "item"
+			}]
+			x: -1.75d
+			y: 9.5d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "7CC49A0496D7934E"
+			rewards: [{
+				id: "6D0DB371EE60E465"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "0306B0CAE354BABD"
+				item: {
+					Count: 1
+					id: "mcdw:crossbow_rapid_crossbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 9.5d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "7E1C5D50337A8688"
+			rewards: [{
+				id: "42DE6B828332BB6C"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "6DDDB3D4CC146A4F"
+				item: {
+					Count: 1
+					id: "mcdw:crossbow_pride_of_the_piglins"
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							id: "minecraft:piercing"
+							lvl: 1s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			x: 0.75d
+			y: 9.5d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "65AF9313608CDB18"
+			rewards: [{
+				id: "5FB3FA7E0AFF930D"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "5D85C0C39EA8CA5F"
+				item: {
+					Count: 1
+					id: "too_many_bows:aethers_call"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 11.5d
+			y: -1.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "521FF9D128E5991B"
+			rewards: [{
+				id: "3A337BAA7F0EDE89"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "19CE73A8E8673E9A"
+				item: {
+					Count: 1
+					id: "too_many_bows:astral_bound"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 12.5d
+			y: -1.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "092931AEE75190B9"
+			rewards: [{
+				id: "5B96C958FE49D2FE"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "7E4F87921FD16A8F"
+				item: {
+					Count: 1
+					id: "too_many_bows:auroras_grace"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 13.5d
+			y: -1.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "0BBA084DE992CEF0"
+			rewards: [{
+				id: "511CF7054E4B844D"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "2BFC188D52D3F674"
+				item: {
+					Count: 1
+					id: "too_many_bows:burnt_relic"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 15.5d
+			y: -0.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "76105F0C4946B539"
+			rewards: [{
+				id: "6AA5625055B5B360"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "78D30337FB2E5768"
+				item: {
+					Count: 1
+					id: "too_many_bows:cyroheart_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 11.5d
+			y: -0.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "714F2E39CB85F134"
+			rewards: [{
+				id: "32DA0D8329C780A8"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "663F9CE191DEC753"
+				item: {
+					Count: 1
+					id: "too_many_bows:demons_grasp"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 12.5d
+			y: -0.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "3B3671DBF5AC8193"
+			rewards: [{
+				id: "793332B6C6CDCDF6"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "5D7C4A95D98B33D3"
+				item: {
+					Count: 1
+					id: "too_many_bows:emerald_sage_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 13.5d
+			y: -0.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "2A00E156BC99C9E9"
+			rewards: [{
+				id: "3AF357538DFEC695"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "25E8E8C5F8EC6AD4"
+				item: {
+					Count: 1
+					id: "too_many_bows:hunter_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 14.5d
+			y: -0.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "37BA8ED3DCB7120F"
+			rewards: [{
+				id: "52418869849ADF7D"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "2CE6F265B8D2DAD2"
+				item: {
+					Count: 1
+					id: "too_many_bows:ironclad_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 11.5d
+			y: 0.75d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "1539D0E9708A4E81"
+			rewards: [{
+				id: "58D26DABECD8956B"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "47F06B41A216F60B"
+				item: {
+					Count: 1
+					id: "too_many_bows:necro_flame_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 12.5d
+			y: 0.75d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "4054BC1937C814D9"
+			rewards: [{
+				id: "66E0BE7F39E9078A"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "02201B8BF6A68ABB"
+				item: {
+					Count: 1
+					id: "too_many_bows:dragons_breath"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 13.5d
+			y: 0.75d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "4CEEB7203773F5AF"
+			rewards: [{
+				id: "7579DE33157F080B"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "030CAB66494BCDE7"
+				item: {
+					Count: 1
+					id: "too_many_bows:scatter_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 14.5d
+			y: 0.75d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "0A14AFAE5106B3CA"
+			rewards: [{
+				id: "1735F77B36727CA5"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "1590189F22B6B4A5"
+				item: {
+					Count: 1
+					id: "too_many_bows:sentinels_wrath"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 15.5d
+			y: 0.75d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "20B54DC8D8F0C2DF"
+			rewards: [{
+				id: "600A07970A622182"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "408CE42C0C366F59"
+				item: {
+					Count: 1
+					id: "too_many_bows:solar_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 11.5d
+			y: 1.75d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "654B7470EF3DA037"
+			rewards: [{
+				id: "62EA7944865EFFBA"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "44AD0BF9FCEF581E"
+				item: {
+					Count: 1
+					id: "too_many_bows:shulker_blast"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 11.5d
+			y: 2.75d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "3A6279BBB94438E5"
+			rewards: [{
+				id: "62590E0D87922A19"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "41DEB2E61FAA5581"
+				item: {
+					Count: 1
+					id: "too_many_bows:spectral_whisper"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 13.5d
+			y: 1.75d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "0A2606E32826C648"
+			rewards: [{
+				id: "748E2D9FFDFD7591"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "0B139C3C1D27DDA6"
+				item: {
+					Count: 1
+					id: "too_many_bows:vitality_weaver"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 15.5d
+			y: 1.75d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "2E477F299BE805FB"
+			rewards: [{
+				id: "0258164979B2C323"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "535E5E3696A1107C"
+				item: {
+					Count: 1
+					id: "too_many_bows:wind_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 14.5d
+			y: 1.75d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "080B9A53FF7FAC8A"
+			rewards: [{
+				id: "22A0750C135C56D6"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "72AE473821FC3ECE"
+				item: {
+					Count: 1
+					id: "too_many_bows:tidal_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 12.5d
+			y: 1.75d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "46434C663D26C132"
+			rewards: [{
+				id: "4D67698F1F3C1EE6"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "27381496056122E9"
+				item: {
+					Count: 1
+					id: "too_many_bows:flame_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 12.5d
+			y: 2.75d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "3CEDCDEB71B3F2EC"
+			rewards: [{
+				id: "527226C705671000"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "2C6A91B9ADB1F356"
+				item: {
+					Count: 1
+					id: "too_many_bows:verdant_viper"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 13.5d
+			y: 2.75d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "74345F3E42B1BCB2"
+			rewards: [{
+				id: "55811051A3E69A15"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "6439CE054590F767"
+				item: {
+					Count: 1
+					id: "too_many_bows:frostbite"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 14.5d
+			y: 2.75d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "31ED1F7345CD093D"
+			rewards: [{
+				id: "155CE666A36A0862"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "26B1CB1FEB59A26B"
+				item: {
+					Count: 1
+					id: "too_many_bows:arc_heavens"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 15.5d
+			y: 2.75d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "7A1E97179FA0F694"
+			rewards: [{
+				id: "2524F023BA5DE337"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "7FAFEC63D497A914"
+				item: {
+					Count: 1
+					id: "too_many_bows:arcane_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 14.5d
+			y: -1.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "62EC86DB5DB8B705"
+			rewards: [{
+				id: "53AC17ED12614877"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "61D42BFA01CFA83B"
+				item: {
+					Count: 1
+					id: "too_many_bows:ancient_sage_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 15.5d
+			y: -1.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "1E5999C12115CD22"
+			rewards: [{
+				id: "6F04FF9622AAD62A"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "0704E4B28D0AB740"
+				item: {
+					Count: 1
+					id: "lne_archers:elder_guardian_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: -3.75d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "3A567F4526547710"
+			rewards: [{
+				id: "58DB6C514E6A75E4"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "67D695CC7307859A"
+				item: {
+					Count: 1
+					id: "lne_archers:ender_dragon_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.25d
+			y: -3.75d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "13B4125EE257AE84"
+			rewards: [{
+				id: "208479D2B4257130"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "2439B741E3E21F72"
+				item: {
+					Count: 1
+					id: "lne_archers:wither_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.75d
+			y: -3.75d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "3BDA3F6C67C55BA2"
+			rewards: [{
+				id: "70A68149212662DB"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "6BDE9A1E7FA440E2"
+				item: {
+					Count: 1
+					id: "lne_archers:glacial_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: -3.75d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "18ABA654ECCF414C"
+			rewards: [{
+				id: "589409C1F394AFD2"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "6B8E2FCF05925B5D"
+				item: {
+					Count: 1
+					id: "lne_archers:ender_dragon_long_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: -2.75d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "17B27CD4739D9C92"
+			rewards: [{
+				id: "791645B7AA95FFF4"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "464852FF890ADC0A"
+				item: {
+					Count: 1
+					id: "lne_archers:elder_guardian_long_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.25d
+			y: -2.75d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "44AB2C94BF601972"
+			rewards: [{
+				id: "4A00AA84CC57D26A"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "2A2A61FBEB2170C8"
+				item: {
+					Count: 1
+					id: "lne_archers:wither_long_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.5d
+			y: -2.75d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "59532C895385C088"
+			rewards: [{
+				id: "2B12E1127264444C"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "3EFA37D133796A7B"
+				item: {
+					Count: 1
+					id: "lne_archers:glacial_long_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.75d
+			y: -2.75d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "5FD3C222B57BD99D"
+			rewards: [{
+				id: "214503F3A071CA8E"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "73D7A3884DBDBEB5"
+				item: {
+					Count: 1
+					id: "lne_archers:ender_dragon_rapid_crossbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 4.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "3676A3963ABA39FC"
+			rewards: [{
+				id: "084AFDBDAF63A9BD"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "5AA0981202CEA57C"
+				item: {
+					Count: 1
+					id: "lne_archers:elder_guardian_rapid_crossbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.25d
+			y: 4.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "2C0C95E20743023E"
+			rewards: [{
+				id: "54F0FD70C01FAB38"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "41B30A744634DB28"
+				item: {
+					Count: 1
+					id: "lne_archers:wither_rapid_crossbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.5d
+			y: 4.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "7E6CCF5A197C51CD"
+			rewards: [{
+				id: "5D485AD961994EBB"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "371DF6D6B73A632B"
+				item: {
+					Count: 1
+					id: "lne_archers:glacial_rapid_crossbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.75d
+			y: 4.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "71D8ADE43BF65268"
+			rewards: [{
+				id: "737CFDCAD44DB4E3"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "4CE0CEC9C9F6DD0A"
+				item: {
+					Count: 1
+					id: "lne_archers:ender_dragon_heavy_crossbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.25d
+			y: 5.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "04FCD1BBEA3C1F35"
+			rewards: [{
+				id: "19906CFB57317F6F"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "14BF879779575CF0"
+				item: {
+					Count: 1
+					id: "lne_archers:elder_guardian_heavy_crossbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: 5.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "42F03F68F76B33B2"
+			rewards: [{
+				id: "45AF4E758FEE5915"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "7E0D43CF09F484BA"
+				item: {
+					Count: 1
+					id: "lne_archers:wither_heavy_crossbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.75d
+			y: 5.25d
+		}
+		{
+			dependencies: ["55F0EE421D7950A5"]
+			id: "38F1017BD41FA96E"
+			rewards: [{
+				id: "046F60E6A9389E3D"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "084E43C8347C4354"
+				item: {
+					Count: 1
+					id: "lne_archers:glacial_heavy_crossbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: 5.25d
+		}
+	]
+	title: "Archery Room"
+}

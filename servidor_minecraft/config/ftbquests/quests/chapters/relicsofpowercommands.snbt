@@ -1,0 +1,1557 @@
+{
+	always_invisible: true
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "relicsofpowercommands"
+	group: "0748AA7BE31FEC41"
+	id: "6C58F3C69A080967"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["3A0BDAE30AEC1245"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "43F6680349D39F1D"
+			subtitle: "Purely to hide dependencies"
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "0ACC9AD04155E071"
+				item: "minecraft:bedrock"
+				type: "item"
+			}]
+			title: "DEV DEPENDENCY 6"
+			x: 11.5d
+			y: -1.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["3A0BDAE30AEC1245"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "2D00AE3412EC4E36"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run attribute @p obscure_api:critical_hit base set 0"
+					elevate_perms: true
+					id: "3424FC5467E8E161"
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run attribute @p amethyst_core:damage_multiplication base set 1"
+					elevate_perms: true
+					id: "428CFE043669CDAA"
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run attribute @p rpgmana:mana base set 0"
+					elevate_perms: true
+					id: "75CE6A03E6585429"
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run attribute @p minecraft:generic.attack_speed base set 4"
+					elevate_perms: true
+					id: "1C6C00F6002426B4"
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run attribute @p spell_power:haste base set 100"
+					elevate_perms: true
+					id: "2E790135D973E26C"
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run effect give @p soulsweapons:disable_heal 120 1"
+					elevate_perms: true
+					id: "68673ADD4F411736"
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run attribute @p obscure_api:critical_damage base set 2"
+					elevate_perms: true
+					id: "76EF272DE85D9489"
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+			]
+			subtitle: "Purely to hide dependencies"
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "408CCAE5EEA2E287"
+				item: "minecraft:bedrock"
+				type: "item"
+			}]
+			title: "DEV DEPENDENCY 8 DISABLE"
+			x: 11.5d
+			y: 0.75d
+		}
+		{
+			can_repeat: true
+			dependencies: ["3A0BDAE30AEC1245"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "19B87778CDFBED02"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run attribute @p obscure_api:critical_hit base set 0.1"
+					elevate_perms: true
+					id: "7598AF538603328C"
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run attribute @p amethyst_core:damage_multiplication base set 1.666"
+					elevate_perms: true
+					id: "7E59065168558B6B"
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run attribute @p rpgmana:mana base set 100"
+					elevate_perms: true
+					id: "07A828AE3638CDDD"
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run attribute @p minecraft:generic.attack_speed base set 4.75"
+					elevate_perms: true
+					id: "2C4E4813230A4EB6"
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+				{
+					command: "/execute as @p at @p run attribute @p spell_power:haste base set 125"
+					elevate_perms: true
+					id: "450EAB67B3507489"
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run attribute @p obscure_api:critical_damage base set 2.35"
+					elevate_perms: true
+					id: "710E7E98B6E29209"
+					silent: true
+					team_reward: true
+					type: "command"
+				}
+			]
+			subtitle: "Purely to hide dependencies"
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "41A7887A0BE1666D"
+				item: "minecraft:bedrock"
+				type: "item"
+			}]
+			title: "DEV DEPENDENCY 7 ENABLE"
+			x: 8.0d
+			y: 0.75d
+		}
+		{
+			dependencies: ["3A0BDAE30AEC1245"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "17C400785E25E46B"
+			subtitle: "Purely to hide dependencies"
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "7E27044FB0EF107D"
+				item: "minecraft:bedrock"
+				type: "item"
+			}]
+			title: "DEV DEPENDENCY 5"
+			x: 8.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["4964450E83344AC3"]
+			id: "2FB7A6E9B7FF586B"
+			tasks: [{
+				advancement: "mobs_of_mythology:mobs_of_mythology"
+				criterion: ""
+				id: "2BC7830A4A401D55"
+				type: "advancement"
+			}]
+			title: "4a"
+			x: 5.0d
+			y: 0.75d
+		}
+		{
+			dependencies: ["64103FCA7DBAB5AB"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "7A3CD0CFDDF54FF2"
+			tasks: [{
+				advancement: "mobs_of_mythology:mobs_of_mythology"
+				criterion: ""
+				id: "0662E9F8371114DC"
+				type: "advancement"
+			}]
+			title: "4b"
+			x: 5.0d
+			y: 2.25d
+		}
+		{
+			dependencies: ["33FC23DC5BEF33ED"]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/fantasy.png"
+				}
+			}
+			id: "3A0BDAE30AEC1245"
+			invisible: true
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run ftbquests change_progress @p complete 4964450E83344AC3"
+				elevate_perms: true
+				id: "328A5A806DF69D5A"
+				silent: true
+				type: "command"
+			}]
+			size: 1.0d
+			tasks: [
+				{
+					dimension: "minecraft:overworld"
+					disable_toast: true
+					id: "343C0419B76E5F0E"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "deeperdarker:otherside"
+					disable_toast: true
+					id: "1A8FBCF0113425D5"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "graveyard:past"
+					disable_toast: true
+					id: "20B5D7EF44EC9697"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:prison"
+					disable_toast: true
+					id: "35DEB95AE1250142"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:promenade"
+					disable_toast: true
+					id: "1522649ACB55AB91"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:ramparts"
+					disable_toast: true
+					id: "7893D059CB11BA44"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:sepulchra"
+					disable_toast: true
+					id: "6AC9CE7024D33514"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_end"
+					disable_toast: true
+					id: "441F304FAAE1117D"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_nether"
+					disable_toast: true
+					id: "4B8ED707A3764CD9"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "voidz:void"
+					disable_toast: true
+					id: "2228F7C8C9CCF6B9"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:black_bridge"
+					disable_toast: true
+					id: "5A2A8FA051CD3C68"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:crypt"
+					disable_toast: true
+					id: "0460A84DA6988D1F"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "spellbladenext:glassocean"
+					disable_toast: true
+					id: "679B28FD3821798C"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:insufferable_crypt"
+					disable_toast: true
+					id: "6545BA8A60F7EE9A"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "artifality:lunar_bazaar"
+					disable_toast: true
+					id: "76528430B0E20B67"
+					optional_task: true
+					type: "dimension"
+				}
+			]
+			title: "Nothing to see here"
+			x: 4.0d
+			y: 0.75d
+		}
+		{
+			dependencies: ["3A0BDAE30AEC1245"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "4964450E83344AC3"
+			subtitle: "Purely to hide dependencies"
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "6AFBE2006A045742"
+				item: "minecraft:bedrock"
+				type: "item"
+			}]
+			title: "DEV DEPENDENCY 4"
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "33FC23DC5BEF33ED"
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run ftbquests change_progress @p reset 3884D926D09E741A"
+				elevate_perms: true
+				id: "0B2CE52A18BC3B86"
+				silent: true
+				type: "command"
+			}]
+			subtitle: "Purely to hide dependencies"
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "043F5078A85E0AD8"
+				item: "minecraft:bedrock"
+				type: "item"
+			}]
+			title: "DEV DEPENDENCY P4"
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["3A12CE050D0E071E"]
+			id: "46839172C4D69DE1"
+			tasks: [{
+				advancement: "mobs_of_mythology:mobs_of_mythology"
+				criterion: ""
+				id: "41A00EF49846E466"
+				type: "advancement"
+			}]
+			title: "3a"
+			x: 2.5d
+			y: 0.75d
+		}
+		{
+			dependencies: ["39E96BA50735FCA2"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "6C1662C0D3140669"
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run ftbquests change_progress @p complete 33FC23DC5BEF33ED"
+				elevate_perms: true
+				id: "47AEC41710D77A1A"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				advancement: "mobs_of_mythology:mobs_of_mythology"
+				criterion: ""
+				id: "7347F32D5A00F411"
+				type: "advancement"
+			}]
+			title: "3b"
+			x: 2.5d
+			y: 2.25d
+		}
+		{
+			dependencies: ["71EE265E0301064B"]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/fantasy.png"
+				}
+			}
+			id: "40F4747983F25CD5"
+			invisible: true
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run ftbquests change_progress @p complete 3A12CE050D0E071E"
+				elevate_perms: true
+				id: "75CAEEC7095B1EE4"
+				silent: true
+				type: "command"
+			}]
+			size: 1.0d
+			tasks: [
+				{
+					dimension: "minecraft:overworld"
+					disable_toast: true
+					id: "21A454CEBA79048F"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "deeperdarker:otherside"
+					disable_toast: true
+					id: "190B46F35E52F732"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "graveyard:past"
+					disable_toast: true
+					id: "08DE8B8C4DE9FC59"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:prison"
+					disable_toast: true
+					id: "4D896CE4305FDD51"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:promenade"
+					disable_toast: true
+					id: "300B753C1A6D227A"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:ramparts"
+					disable_toast: true
+					id: "08587D339C94C02F"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:sepulchra"
+					disable_toast: true
+					id: "3D6B4DD9DE0166DB"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_end"
+					disable_toast: true
+					id: "759395BD2B3DDF96"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_nether"
+					disable_toast: true
+					id: "14424FB8253541EB"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "voidz:void"
+					disable_toast: true
+					id: "7EC17BF911E565C2"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:black_bridge"
+					disable_toast: true
+					id: "6275B0C245CF5E40"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:crypt"
+					disable_toast: true
+					id: "723E4C5FDED106DD"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "spellbladenext:glassocean"
+					disable_toast: true
+					id: "66F4429BFA9F1749"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:insufferable_crypt"
+					disable_toast: true
+					id: "22E795EB7F81E05E"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "artifality:lunar_bazaar"
+					disable_toast: true
+					id: "0665AE97829B0D2E"
+					optional_task: true
+					type: "dimension"
+				}
+			]
+			title: "Nothing to see here"
+			x: 1.5d
+			y: 0.75d
+		}
+		{
+			dependencies: ["40F4747983F25CD5"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "3A12CE050D0E071E"
+			subtitle: "Purely to hide dependencies"
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "24A90CB9337A84A9"
+				item: "minecraft:bedrock"
+				type: "item"
+			}]
+			title: "DEV DEPENDENCY 3"
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "71EE265E0301064B"
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run ftbquests change_progress @p reset 3884D926D09E741A"
+				elevate_perms: true
+				id: "653830A3DC920E4F"
+				silent: true
+				type: "command"
+			}]
+			subtitle: "Purely to hide dependencies"
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "6F3F0B95FB76707B"
+				item: "minecraft:bedrock"
+				type: "item"
+			}]
+			title: "DEV DEPENDENCY P3"
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["4637C6FB4EFBBD94"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "6AE05F4E531C4CFA"
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run ftbquests change_progress @p complete 71EE265E0301064B"
+				elevate_perms: true
+				id: "1A286180407930FC"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				advancement: "mobs_of_mythology:mobs_of_mythology"
+				criterion: ""
+				id: "591C47C7B22AD5FE"
+				type: "advancement"
+			}]
+			title: "2b"
+			x: 0.0d
+			y: 2.25d
+		}
+		{
+			dependencies: [
+				"763C1C47D8993162"
+				"6F33F00A8CB52C1F"
+			]
+			id: "5A295D4CFAE45D3F"
+			tasks: [{
+				advancement: "mobs_of_mythology:mobs_of_mythology"
+				criterion: ""
+				id: "51E5129C6035DA86"
+				type: "advancement"
+			}]
+			title: "2a"
+			x: 0.0d
+			y: 0.75d
+		}
+		{
+			dependencies: ["696D13E2A98B235D"]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/fantasy.png"
+				}
+			}
+			id: "763C1C47D8993162"
+			invisible: true
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run ftbquests change_progress @p complete 6F33F00A8CB52C1F"
+				elevate_perms: true
+				id: "00444DA532BCD2B7"
+				silent: true
+				type: "command"
+			}]
+			size: 1.0d
+			tasks: [
+				{
+					dimension: "minecraft:overworld"
+					disable_toast: true
+					id: "67F38C31AF699014"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "deeperdarker:otherside"
+					disable_toast: true
+					id: "7F4A3C42241CA9AF"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "graveyard:past"
+					disable_toast: true
+					id: "021205AC9670839E"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:prison"
+					disable_toast: true
+					id: "7BA1CCA3B1DA7C23"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:promenade"
+					disable_toast: true
+					id: "32EEBD23DA7AD176"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:ramparts"
+					disable_toast: true
+					id: "22A53458C0F24AA1"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:sepulchra"
+					disable_toast: true
+					id: "2C520FF52FBB55FA"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_end"
+					disable_toast: true
+					id: "00B2E68AEB9E3ECF"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_nether"
+					disable_toast: true
+					id: "29E82B3762EF68C8"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "voidz:void"
+					disable_toast: true
+					id: "09DA54F8B1472968"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:black_bridge"
+					disable_toast: true
+					id: "42E6C20381260CB1"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:crypt"
+					disable_toast: true
+					id: "2DEA1013239B0F77"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "spellbladenext:glassocean"
+					disable_toast: true
+					id: "69B3060DDCD78842"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:insufferable_crypt"
+					disable_toast: true
+					id: "43A6248E5F225BB7"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "artifality:lunar_bazaar"
+					disable_toast: true
+					id: "588E55046C9AE182"
+					optional_task: true
+					type: "dimension"
+				}
+			]
+			title: "Nothing to see here"
+			x: -1.0d
+			y: 0.75d
+		}
+		{
+			dependencies: ["763C1C47D8993162"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "6F33F00A8CB52C1F"
+			subtitle: "Purely to hide dependencies"
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "05DABFAD826ECCA5"
+				item: "minecraft:bedrock"
+				type: "item"
+			}]
+			title: "DEV DEPENDENCY 2"
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "696D13E2A98B235D"
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run ftbquests change_progress @p reset 3884D926D09E741A"
+				elevate_perms: true
+				id: "40CB057A52AE8637"
+				silent: true
+				type: "command"
+			}]
+			subtitle: "Purely to hide dependencies"
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "43B7944D1C078D76"
+				item: "minecraft:bedrock"
+				type: "item"
+			}]
+			title: "DEV DEPENDENCY P2"
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["67605A13FA8248A6"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "2955BC7D5A266840"
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run ftbquests change_progress @p complete 696D13E2A98B235D"
+				elevate_perms: true
+				id: "7CE944B146C881CD"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				advancement: "mobs_of_mythology:mobs_of_mythology"
+				criterion: ""
+				id: "47475F359B133F88"
+				type: "advancement"
+			}]
+			title: "1b"
+			x: -2.5d
+			y: 2.25d
+		}
+		{
+			dependencies: [
+				"5E2370D9DE08FCDB"
+				"4A8B011A9E4DD30C"
+			]
+			id: "46060EEBC5AB765E"
+			tasks: [{
+				advancement: "mobs_of_mythology:mobs_of_mythology"
+				criterion: ""
+				id: "52D013F533336D81"
+				type: "advancement"
+			}]
+			title: "1a"
+			x: -2.5d
+			y: 0.75d
+		}
+		{
+			dependencies: ["4815012DA15DBCC4"]
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/fantasy.png"
+				}
+			}
+			id: "5E2370D9DE08FCDB"
+			invisible: true
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run ftbquests change_progress @p complete 4A8B011A9E4DD30C"
+				elevate_perms: true
+				id: "234F74014A75B233"
+				silent: true
+				type: "command"
+			}]
+			size: 1.0d
+			tasks: [
+				{
+					dimension: "minecraft:overworld"
+					disable_toast: true
+					id: "41B57243E12E8726"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "deeperdarker:otherside"
+					disable_toast: true
+					id: "7D46BBA0E50AEB59"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "graveyard:past"
+					disable_toast: true
+					id: "2E2C0C1241DFF715"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:prison"
+					disable_toast: true
+					id: "3C1B6CD7CCF689BE"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:promenade"
+					disable_toast: true
+					id: "7E9442B143E31C0A"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:ramparts"
+					disable_toast: true
+					id: "08F3AD29D93B01AE"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:sepulchra"
+					disable_toast: true
+					id: "1155E663E69D2303"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_end"
+					disable_toast: true
+					id: "3D51BE9D0B33DCD3"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_nether"
+					disable_toast: true
+					id: "35B1AFC060473998"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "voidz:void"
+					disable_toast: true
+					id: "6B9D79F20E5E1E8A"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:black_bridge"
+					disable_toast: true
+					id: "01EAF9314582B6DB"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:crypt"
+					disable_toast: true
+					id: "25A1FEA0F00DB6F6"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "spellbladenext:glassocean"
+					disable_toast: true
+					id: "2E3A8247690AEAAF"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:insufferable_crypt"
+					disable_toast: true
+					id: "7F4EAF5312CC430B"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "artifality:lunar_bazaar"
+					disable_toast: true
+					id: "514D046C6DF9497C"
+					optional_task: true
+					type: "dimension"
+				}
+			]
+			title: "Nothing to see here"
+			x: -3.75d
+			y: 0.75d
+		}
+		{
+			dependencies: ["5E2370D9DE08FCDB"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "4A8B011A9E4DD30C"
+			subtitle: "Purely to hide dependencies"
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "33C55515AD582F5E"
+				item: "minecraft:bedrock"
+				type: "item"
+			}]
+			title: "DEV DEPENDENCY 1"
+			x: -2.5d
+			y: -1.0d
+		}
+		{
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "4815012DA15DBCC4"
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run ftbquests change_progress @p reset 3884D926D09E741A"
+				elevate_perms: true
+				id: "0DC104AAB364E15D"
+				silent: true
+				type: "command"
+			}]
+			subtitle: "Purely to hide dependencies"
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "1370A752EBE4A3C4"
+				item: "minecraft:bedrock"
+				type: "item"
+			}]
+			title: "DEV DEPENDENCY P1"
+			x: -3.75d
+			y: -1.0d
+		}
+		{
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "4650A31816A18F6A"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests open_book 67605A13FA8248A6"
+					elevate_perms: true
+					id: "3636C157119D791F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 46132B971EEA7298"
+					elevate_perms: true
+					id: "2FDAF8A467CFE5F6"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p complete 4815012DA15DBCC4"
+					elevate_perms: true
+					id: "0560EF129B0C7A2D"
+					silent: true
+					type: "command"
+				}
+			]
+			subtitle: "Purely to hide dependencies"
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "4B775CB8FA7A2ABE"
+				item: "minecraft:bedrock"
+				type: "item"
+			}]
+			title: "devdep"
+			x: -6.25d
+			y: -1.0d
+		}
+		{
+			dependencies: ["4650A31816A18F6A"]
+			id: "22798D4134C0A4D0"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 4650A31816A18F6A"
+					elevate_perms: true
+					id: "2CA0657ABFFDB201"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 22798D4134C0A4D0"
+					elevate_perms: true
+					id: "3F67217FCFE525BF"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				advancement: "mobs_of_mythology:mobs_of_mythology"
+				criterion: ""
+				id: "2F35582BE932E9FC"
+				type: "advancement"
+			}]
+			title: "op2a"
+			x: -6.25d
+			y: 0.75d
+		}
+		{
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "27E6BF8C7CB8D05C"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests open_book 46132B971EEA7298"
+					elevate_perms: true
+					id: "0613DC86FC6A53E5"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 1F43A26C6059EADF"
+					elevate_perms: true
+					id: "3DF85C380D634EE6"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run damage @p 10 minecraft:out_of_world"
+					elevate_perms: true
+					id: "41BEA6600A637EE7"
+					silent: true
+					type: "command"
+				}
+			]
+			subtitle: "Purely to hide dependencies"
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "3743F3C031B35DBA"
+				item: "minecraft:bedrock"
+				type: "item"
+			}]
+			title: "devdep"
+			x: -7.75d
+			y: -1.0d
+		}
+		{
+			dependencies: ["27E6BF8C7CB8D05C"]
+			id: "6DD1804D58D63425"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 27E6BF8C7CB8D05C"
+					elevate_perms: true
+					id: "7CCEAF04DB24389C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 6DD1804D58D63425"
+					elevate_perms: true
+					id: "4D0FB3232E88B216"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				advancement: "mobs_of_mythology:mobs_of_mythology"
+				criterion: ""
+				id: "45C3B38FC452ADFD"
+				type: "advancement"
+			}]
+			title: "op2"
+			x: -7.75d
+			y: 0.75d
+		}
+		{
+			dependencies: ["07BF098A1817DFF4"]
+			id: "12326527F11C706F"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 07BF098A1817DFF4"
+					elevate_perms: true
+					id: "51586158F58BB447"
+					ignore_reward_blocking: true
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 12326527F11C706F"
+					elevate_perms: true
+					id: "478ADE057299A1B7"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				advancement: "mobs_of_mythology:mobs_of_mythology"
+				criterion: ""
+				id: "3A49956193851EA3"
+				type: "advancement"
+			}]
+			title: "op1a"
+			x: -9.25d
+			y: 0.75d
+		}
+		{
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "07BF098A1817DFF4"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests open_book 67605A13FA8248A6"
+					elevate_perms: true
+					id: "3CC42E66C0F9CEBF"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 1F43A26C6059EADF"
+					elevate_perms: true
+					id: "22D150571B4F2678"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p complete 4815012DA15DBCC4"
+					elevate_perms: true
+					id: "6820F376B49866D7"
+					silent: true
+					type: "command"
+				}
+			]
+			subtitle: "Purely to hide dependencies"
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "3402B6BAF76632AE"
+				item: "minecraft:bedrock"
+				type: "item"
+			}]
+			title: "devdep"
+			x: -9.25d
+			y: -1.0d
+		}
+		{
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "0DCFBA90C4CC7C22"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests open_book 46132B971EEA7298"
+					elevate_perms: true
+					id: "066A7B023A46CF74"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run damage @p 10 minecraft:out_of_world"
+					elevate_perms: true
+					id: "3923B50A1DDF9FA8"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 5D5B3AED1DD6A0C4"
+					elevate_perms: true
+					id: "00766959E24C3A22"
+					silent: true
+					type: "command"
+				}
+			]
+			subtitle: "Purely to hide dependencies"
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "1B5A2C6B88E246F9"
+				item: "minecraft:bedrock"
+				type: "item"
+			}]
+			title: "devdep"
+			x: -10.75d
+			y: -1.0d
+		}
+		{
+			dependencies: ["0DCFBA90C4CC7C22"]
+			id: "6E875B7293FA1DCD"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 0DCFBA90C4CC7C22"
+					elevate_perms: true
+					id: "6595B9808424C008"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 6E875B7293FA1DCD"
+					elevate_perms: true
+					id: "1D33A87950744DA0"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				advancement: "mobs_of_mythology:mobs_of_mythology"
+				criterion: ""
+				id: "38A7B4939FCC64A7"
+				type: "advancement"
+			}]
+			title: "op2"
+			x: -10.75d
+			y: 0.75d
+		}
+		{
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "16F2F0905699481C"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests open_book 1F43A26C6059EADF"
+					elevate_perms: true
+					id: "37D1D45F2FD81CD9"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 5D5B3AED1DD6A0C4"
+					elevate_perms: true
+					id: "36B2216EC3137BD3"
+					silent: true
+					type: "command"
+				}
+			]
+			subtitle: "Purely to hide dependencies"
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "3510280C63341619"
+				item: "minecraft:bedrock"
+				type: "item"
+			}]
+			title: "devdep"
+			x: -12.25d
+			y: -1.0d
+		}
+		{
+			dependencies: ["16F2F0905699481C"]
+			id: "0769EE5BC0B56AF7"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 16F2F0905699481C"
+					elevate_perms: true
+					id: "000B7923B818648B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/execute as @p at @p run ftbquests change_progress @p reset 0769EE5BC0B56AF7"
+					elevate_perms: true
+					id: "27B45492DFDBF60B"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				advancement: "mobs_of_mythology:mobs_of_mythology"
+				criterion: ""
+				id: "233C09162DF122EC"
+				type: "advancement"
+			}]
+			title: "op1"
+			x: -12.25d
+			y: 0.75d
+		}
+		{
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "3884D926D09E741A"
+			subtitle: "Purely to hide dependencies"
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "6E8DB2AEDB07212E"
+				item: "minecraft:bedrock"
+				type: "item"
+			}]
+			title: "DEV DEPENDENCY 0"
+			x: -14.0d
+			y: -1.0d
+		}
+		{
+			disable_toast: true
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "fantasy_mc:textures/fantasy.png"
+				}
+			}
+			id: "04FA8D5BDD0DC3AA"
+			invisible: true
+			rewards: [{
+				auto: "invisible"
+				command: "/execute as @p at @p run ftbquests change_progress @p complete 3884D926D09E741A"
+				elevate_perms: true
+				id: "7D94BFDC6BBC61FF"
+				silent: true
+				type: "command"
+			}]
+			size: 1.0d
+			tasks: [
+				{
+					dimension: "minecraft:overworld"
+					disable_toast: true
+					id: "60E20694CD0B1061"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "deeperdarker:otherside"
+					disable_toast: true
+					id: "18A6DFC7530C1D1F"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "graveyard:past"
+					disable_toast: true
+					id: "52D97A168BC8D776"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:prison"
+					disable_toast: true
+					id: "2F7DE5979EBA8200"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:promenade"
+					disable_toast: true
+					id: "4FA605B37F6557D7"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:ramparts"
+					disable_toast: true
+					id: "56D5701D5D454335"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:sepulchra"
+					disable_toast: true
+					id: "0E807CCD2C4D3536"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_end"
+					disable_toast: true
+					id: "7933DA6937F7ED78"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_nether"
+					disable_toast: true
+					id: "40627639223BEB9A"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "voidz:void"
+					disable_toast: true
+					id: "596D72601C3A4153"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:black_bridge"
+					disable_toast: true
+					id: "2DAFD8649CC20D0B"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "slayersbeasts:crypt"
+					disable_toast: true
+					id: "6564EE1EFB69727B"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "spellbladenext:glassocean"
+					disable_toast: true
+					id: "1F2E9A825D674BC4"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "minecells:insufferable_crypt"
+					disable_toast: true
+					id: "1F8E0E1A29DD9F9C"
+					optional_task: true
+					type: "dimension"
+				}
+				{
+					dimension: "artifality:lunar_bazaar"
+					disable_toast: true
+					id: "23F32B2FC8DCE07D"
+					optional_task: true
+					type: "dimension"
+				}
+			]
+			title: "Nothing to see here"
+			x: -14.0d
+			y: 0.75d
+		}
+	]
+	title: "relicsofpowercommands"
+}
